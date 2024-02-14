@@ -1,0 +1,3 @@
+[submodule "goling-s"]
+	path = goling-s
+	url = git@github.com:RadhiRasho/golings.git
