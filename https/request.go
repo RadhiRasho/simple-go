@@ -19,7 +19,7 @@ type Activity struct {
 }
 
 func main() {
-	activity := new(Activity);
+	activity := new(Activity)
 
 	data, err := Get(&activity)
 
@@ -37,19 +37,19 @@ func Get(target interface{}) (Activity, error) {
     }
     defer r.Body.Close()
 
-    body, err := io.ReadAll(r.Body);
+    body, err := io.ReadAll(r.Body)
 
 	if err != nil {
-		log.Fatal(err);
+		log.Fatal(err)
 	}
 
 	data, err := UnmarshalActivity(body)
 
 	if err != nil {
-		log.Fatal(err);
+		log.Fatal(err)
 	}
 
-	return data, err;
+	return data, err
 }
 
 func UnmarshalActivity(data []byte) (Activity, error) {
