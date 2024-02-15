@@ -4,5 +4,4 @@ use (
 	./greetings
 	./hello
 	./https
-	./golings
 )
