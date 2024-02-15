@@ -21,12 +21,16 @@ type Activity struct {
 func main() {
 	activity := new(Activity);
 
-	data := Get(&activity)
+	data, err := Get(&activity)
+
+	if err != nil {
+		log.Fatal(err)
+	}
 
 	fmt.Printf("%+v\n", data)
 }
 
-func Get(target interface{}) Activity {
+func Get(target interface{}) (Activity, error) {
     r, err := http.Get("https://www.boredapi.com/api/activity")
     if err != nil {
         log.Fatal(err)
@@ -39,18 +43,22 @@ func Get(target interface{}) Activity {
 		log.Fatal(err);
 	}
 
-	data := UnmarshalActivity(body)
+	data, err := UnmarshalActivity(body)
 
-	return data;
+	if err != nil {
+		log.Fatal(err);
+	}
+
+	return data, err;
 }
 
-func UnmarshalActivity(data []byte) Activity {
+func UnmarshalActivity(data []byte) (Activity, error) {
 	var r Activity
 	err := json.Unmarshal(data, &r)
 	if err != nil {
 		log.Fatal(err)
 	}
-	return r
+	return r, err
 }
 
 func (r *Activity) Marshal() ([]byte, error) {
