@@ -52,8 +52,6 @@ func getFileInfo() {
 	fmt.Printf("System interface type: %T\n", file.Sys())
 	data, _ := json.MarshalIndent(file.Sys(), " ", "    ")
 	fmt.Printf("System info: %+v\n\n", string(data))
-
-
 }
 
 func renameFile() {
@@ -130,6 +128,7 @@ func seekFile() {
 
     // OpenFile with more options. Last param is the permission mode
     // Second param is the attributes when opening
+	fmt.Println("Secondary File seek, but with ")
     file, err = os.OpenFile("test.txt", os.O_APPEND, 0666)
     if err != nil {
         log.Fatal(err)
