@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"log"
 	"os"
+	"time"
 )
 
 func createFile() {
@@ -154,7 +155,7 @@ func readWriteFile() {
 	_, err := os.Stat(path)
 
 	if err != nil && os.IsNotExist(err) {
-		fmt.Println("File doesn't exist to seek, creating...")
+		fmt.Println("File doesn't exist to check permissions, creating...")
 		os.Create(path)
 		fmt.Println("File Created")
 	}
@@ -179,6 +180,42 @@ func readWriteFile() {
 	file.Close()
 }
 
+func changePermissions() {
+	path := "changePermission.txt"
+	_, err := os.Stat(path)
+
+	if err != nil && os.IsNotExist(err) {
+		fmt.Println("File doesn't exist to change permissions, creating...")
+		os.Create(path)
+		fmt.Println("File Created")
+	}
+
+	// Change permissions using linux style
+	err = os.Chmod(path, 0777)
+
+	if err != nil {
+		log.Println(err)
+	}
+
+	// Change Ownership
+	err = os.Chown(path, os.Getuid(), os.Getgid())
+
+	if err != nil {
+		log.Println(err)
+	}
+
+	// Change timestamps
+	twodaysFromNow := time.Now().Add(48 * time.Hour)
+	lastAccessTime := twodaysFromNow
+	lastModifyTime := twodaysFromNow
+
+	err = os.Chtimes(path, lastAccessTime, lastModifyTime)
+
+	if err != nil {
+		log.Println(err)
+	}
+}
+
 func main() {
 	// createFile()
 	// print("\n")
@@ -196,5 +233,11 @@ func main() {
 	// print("\n")
 	// time.Sleep(time.Second)
 	// seekFile()
-	readWriteFile()
+	// readWriteFile()
+	// time.Sleep(time.Second)
+	// seekFile()
+	// changePermissions()
+	// time.Sleep(time.Second)
+	// seekFile()
+	changePermissions()
 }
