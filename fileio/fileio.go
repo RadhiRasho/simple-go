@@ -8,6 +8,15 @@ import (
 	"time"
 )
 
+func IfExists(path string)  {
+	_, err := os.Stat(path);
+	if err != nil && os.IsNotExist(err) {
+		fmt.Println("File doesn't exist to delete, creating...")
+		os.Create(path)
+		fmt.Println("File Created")
+	}
+}
+
 func createFile() {
 	newFile, err := os.Create("creation.txt")
 
@@ -81,19 +90,13 @@ func renameFile() {
 func deleteFile() {
 	fmt.Println("File Deletion")
 
-	file := "deletion.txt"
+	path := "deletion.txt"
 
-	_,err := os.Stat(file)
-
-	if err != nil && os.IsNotExist(err) {
-		fmt.Println("File doesn't exist to delete, creating...")
-		os.Create(file)
-		fmt.Println("File Created")
-	}
+	IfExists(path)
 
 	fmt.Println("Deleting File...")
 	// time.Sleep(time.Minute) // Uncomment to see deletion in action after a minute
-	err = os.Remove(file)
+	err := os.Remove(path)
 
 	if err != nil {
 		log.Fatal(err)
@@ -109,13 +112,7 @@ func seekFile() {
 	// Simple read only open. We will cover actually reading
     // and writing to files in examples further down the page
 
-	_, err := os.Stat(path)
-
-	if err != nil && os.IsNotExist(err) {
-		fmt.Println("File doesn't exist to seek, creating...")
-		os.Create(path)
-		fmt.Println("File Created")
-	}
+	IfExists(path)
 
     file, err := os.Open(path)
 
@@ -152,13 +149,8 @@ func readWriteFile() {
 	// does not exit and that will return a different
 	// error that can be checked with os.IsNotExist(err)
 	path := "readWriteFile.txt";
-	_, err := os.Stat(path)
 
-	if err != nil && os.IsNotExist(err) {
-		fmt.Println("File doesn't exist to check permissions, creating...")
-		os.Create(path)
-		fmt.Println("File Created")
-	}
+	IfExists(path)
 
 	file, err := os.OpenFile(path, os.O_WRONLY, 0666);
 
@@ -182,16 +174,11 @@ func readWriteFile() {
 
 func changePermissions() {
 	path := "changePermission.txt"
-	_, err := os.Stat(path)
 
-	if err != nil && os.IsNotExist(err) {
-		fmt.Println("File doesn't exist to change permissions, creating...")
-		os.Create(path)
-		fmt.Println("File Created")
-	}
+	IfExists(path)
 
 	// Change permissions using linux style
-	err = os.Chmod(path, 0777)
+	err := os.Chmod(path, 0777)
 
 	if err != nil {
 		log.Println(err)
@@ -216,28 +203,44 @@ func changePermissions() {
 	}
 }
 
+func HardLinkFiles() {
+	path := "HardLink.txt";
+	path2 := "HardLink_Other.txt"
+	// Simple read only open. We will cover actually reading
+    // and writing to files in examples further down the page
+	IfExists(path)
+	IfExists(path2)
+
+	os.Create(path2)
+
+	err := os.Link(path, path2)
+
+
+
+}
+
 func main() {
-	// createFile()
-	// print("\n")
-	// time.Sleep(time.Second)
-	// truncateFile()
-	// print("\n")
-	// time.Sleep(time.Second)
-	// getFileInfo()
-	// print("\n")
-	// time.Sleep(time.Second)
-	// renameFile()
-	// print("\n")
-	// time.Sleep(time.Second)
-	// deleteFile()
-	// print("\n")
-	// time.Sleep(time.Second)
-	// seekFile()
-	// readWriteFile()
-	// time.Sleep(time.Second)
-	// seekFile()
-	// changePermissions()
-	// time.Sleep(time.Second)
-	// seekFile()
+	createFile()
+	print("\n")
+	time.Sleep(time.Second)
+	truncateFile()
+	print("\n")
+	time.Sleep(time.Second)
+	getFileInfo()
+	print("\n")
+	time.Sleep(time.Second)
+	renameFile()
+	print("\n")
+	time.Sleep(time.Second)
+	deleteFile()
+	print("\n")
+	time.Sleep(time.Second)
+	seekFile()
+	readWriteFile()
+	time.Sleep(time.Second)
+	seekFile()
 	changePermissions()
+	time.Sleep(time.Second)
+	seekFile()
+	HardAndSymLinkFiles()
 }
