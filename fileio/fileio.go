@@ -5,7 +5,6 @@ import (
 	"fmt"
 	"log"
 	"os"
-	"time"
 )
 
 func createFile() {
@@ -60,7 +59,7 @@ func renameFile() {
 	originalPath := "test.txt"
 	_, err := os.Stat(originalPath)
 
-	if err != nil {
+	if err != nil && os.IsNotExist(err) {
 		fmt.Println("File didn't exist, creating...")
 		os.Create(originalPath)
 		fmt.Println("File created")
@@ -85,7 +84,7 @@ func deleteFile() {
 
 	_,err := os.Stat(file)
 
-	if err != nil {
+	if err != nil && os.IsNotExist(err) {
 		fmt.Println("File doesn't exist to delete, creating...")
 		os.Create(file)
 		fmt.Println("File Created")
@@ -111,7 +110,7 @@ func seekFile() {
 
 	_, err := os.Stat(path)
 
-	if err != nil {
+	if err != nil && os.IsNotExist(err) {
 		fmt.Println("File doesn't exist to seek, creating...")
 		os.Create(path)
 		fmt.Println("File Created")
@@ -134,7 +133,6 @@ func seekFile() {
         log.Fatal(err)
     }
     file.Close()
-
     // Use these attributes individually or combined
     // with an OR for second arg of OpenFile()
     // e.g. os.O_CREATE|os.O_APPEND
@@ -148,21 +146,55 @@ func seekFile() {
     // os.O_TRUNC // Truncate file when opening
 }
 
+func readWriteFile() {
+	// Test write permissions. It is possible the file
+	// does not exit and that will return a different
+	// error that can be checked with os.IsNotExist(err)
+	path := "readWriteFile.txt";
+	_, err := os.Stat(path)
+
+	if err != nil && os.IsNotExist(err) {
+		fmt.Println("File doesn't exist to seek, creating...")
+		os.Create(path)
+		fmt.Println("File Created")
+	}
+
+	file, err := os.OpenFile(path, os.O_WRONLY, 0666);
+
+	if err != nil {
+		if os.IsPermission(err) {
+			log.Println("Error: Write Permission Denied.")
+		}
+	}
+
+	file.Close()
+
+	// Test read permissions
+	file, err = os.OpenFile(path, os.O_RDONLY, 0666);
+
+	if err != nil && os.IsPermission(err){
+		log.Println("Error: Read Permission Denied")
+	}
+
+	file.Close()
+}
+
 func main() {
-	createFile()
-	print("\n")
-	time.Sleep(time.Second)
-	truncateFile()
-	print("\n")
-	time.Sleep(time.Second)
-	getFileInfo()
-	print("\n")
-	time.Sleep(time.Second)
-	renameFile()
-	print("\n")
-	time.Sleep(time.Second)
-	deleteFile()
-	print("\n")
-	time.Sleep(time.Second)
-	seekFile()
+	// createFile()
+	// print("\n")
+	// time.Sleep(time.Second)
+	// truncateFile()
+	// print("\n")
+	// time.Sleep(time.Second)
+	// getFileInfo()
+	// print("\n")
+	// time.Sleep(time.Second)
+	// renameFile()
+	// print("\n")
+	// time.Sleep(time.Second)
+	// deleteFile()
+	// print("\n")
+	// time.Sleep(time.Second)
+	// seekFile()
+	readWriteFile()
 }
