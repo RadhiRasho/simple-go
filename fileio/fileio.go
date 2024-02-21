@@ -1,14 +1,17 @@
+// This entire file follows this guide: https://www.devdungeon.com/content/working-files-go
+
 package main
 
 import (
 	"encoding/json"
 	"fmt"
+	"io"
 	"log"
 	"os"
 	"time"
 )
 
-func IfExists(path string)  {
+func ExistsOrCreate(path string)  {
 	_, err := os.Stat(path);
 	if err != nil && os.IsNotExist(err) {
 		fmt.Println("File doesn't exist to delete, creating...")
@@ -92,7 +95,7 @@ func deleteFile() {
 
 	path := "deletion.txt"
 
-	IfExists(path)
+	ExistsOrCreate(path)
 
 	fmt.Println("Deleting File...")
 	// time.Sleep(time.Minute) // Uncomment to see deletion in action after a minute
@@ -112,7 +115,7 @@ func seekFile() {
 	// Simple read only open. We will cover actually reading
     // and writing to files in examples further down the page
 
-	IfExists(path)
+	ExistsOrCreate(path)
 
     file, err := os.Open(path)
 
@@ -150,7 +153,7 @@ func readWriteFile() {
 	// error that can be checked with os.IsNotExist(err)
 	path := "readWriteFile.txt";
 
-	IfExists(path)
+	ExistsOrCreate(path)
 
 	file, err := os.OpenFile(path, os.O_WRONLY, 0666);
 
@@ -175,7 +178,7 @@ func readWriteFile() {
 func changePermissions() {
 	path := "changePermission.txt"
 
-	IfExists(path)
+	ExistsOrCreate(path)
 
 	// Change permissions using linux style
 	err := os.Chmod(path, 0777)
@@ -204,43 +207,134 @@ func changePermissions() {
 }
 
 func HardLinkFiles() {
+	// Creating a hard link
+	// You will have two file names that point to the same contents
+	// changing the contents of one will change the other
+	// Deleting/Renaming one will not affect the other
 	path := "HardLink.txt";
 	path2 := "HardLink_Other.txt"
 	// Simple read only open. We will cover actually reading
     // and writing to files in examples further down the page
-	IfExists(path)
-	IfExists(path2)
-
-	os.Create(path2)
+	ExistsOrCreate(path)
 
 	err := os.Link(path, path2)
 
+	if err != nil {
+		log.Fatal(err)
+	}
+}
 
+func SymLinkFiles() {
+	// Creating a symlink
+	path := "SymLink.txt"
+	sym := "SymLink_SYM.txt"
 
+	ExistsOrCreate(path)
+
+	err := os.Symlink(path, sym)
+
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	// LStat will return file info, but if it is actually
+	// a symlink, it will return info about the SymLink
+	// It will not follow the link and give information
+	// about the real file
+	// Symlinks do not work in Windows (Running this in WSL2 - UBUNTU Dev Contianer)
+	fileInfo, err := os.Lstat(sym)
+
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	data, err := json.MarshalIndent(fileInfo, " ", "	")
+
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	fmt.Printf("Link info: %+v", data)
+
+	// Change ownership of a symlink only
+	// and not the file it points to
+	err = os.Lchown(sym, os.Geteuid(), os.Getgid())
+	if err != nil {
+		log.Fatal(err)
+	}
+}
+
+func copyFile() {
+	// Copy a file
+	// Open original file
+	path := "copy.txt"
+
+	ExistsOrCreate(path)
+
+	original, err := os.Open(path)
+
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	defer original.Close();
+
+	// Create new copy
+	newFile, err := os.Create("test_copy.txt");
+
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	defer newFile.Close()
+
+	// Copy the bytes to destination from source
+	bytesWritten, err := io.Copy(newFile, original);
+
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	log.Printf("Copied %d bytes.", bytesWritten)
+
+	// Commit the file content
+	// Flushes Memory To Disk
+	err = newFile.Sync()
+	if err != nil {
+		log.Fatal(err)
+	}
 }
 
 func main() {
-	createFile()
-	print("\n")
-	time.Sleep(time.Second)
-	truncateFile()
-	print("\n")
-	time.Sleep(time.Second)
-	getFileInfo()
-	print("\n")
-	time.Sleep(time.Second)
-	renameFile()
-	print("\n")
-	time.Sleep(time.Second)
-	deleteFile()
-	print("\n")
-	time.Sleep(time.Second)
-	seekFile()
-	readWriteFile()
-	time.Sleep(time.Second)
-	seekFile()
-	changePermissions()
-	time.Sleep(time.Second)
-	seekFile()
-	HardAndSymLinkFiles()
+	//? Timeouts are for me to be able to read the out put of one method before the other,
+	//? tho it isn't really necessary
+
+	// createFile()
+	// print("\n")
+	// time.Sleep(time.Second)
+	// truncateFile()
+	// print("\n")
+	// time.Sleep(time.Second)
+	// getFileInfo()
+	// print("\n")
+	// time.Sleep(time.Second)
+	// renameFile()
+	// print("\n")
+	// time.Sleep(time.Second)
+	// deleteFile()
+	// print("\n")
+	// time.Sleep(time.Second)
+	// readWriteFile()
+	// print("\n")
+	// time.Sleep(time.Second)
+	// changePermissions()
+	// print("\n")
+	// time.Sleep(time.Second)
+	// HardLinkFiles()
+	// print("\n")
+	// time.Sleep(time.Second)
+	// SymLinkFiles()
+	// print("\n")
+	// time.Sleep(time.Second)
+	copyFile();
 }
