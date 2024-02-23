@@ -133,7 +133,6 @@ func SeekFile() {
 	// with an OR for second arg of OpenFile()
 	// e.g. os.O_CREATE|os.O_APPEND
 	// or os.O_CREATE|os.O_TRUNC|os.O_WRONLY
-
 	// os.O_RDONLY // Read only
 	// os.O_WRONLY // Write only
 	// os.O_RDWR // Read and write
@@ -215,7 +214,6 @@ func HardLinkFiles() {
 	err := os.Link(path, path2)
 
 	FatalError(err)
-
 }
 
 func SymLinkFiles() {
@@ -248,7 +246,6 @@ func SymLinkFiles() {
 	// and not the file it points to
 	err = os.Lchown(sym, os.Geteuid(), os.Getgid())
 	FatalError(err)
-
 }
 
 func CopyFile() {
