@@ -32,7 +32,6 @@ func createFile() {
 
 	FatalError(err)
 
-
 	log.Printf("%+v\n", newFile)
 	newFile.Close()
 }
@@ -59,7 +58,6 @@ func getFileInfo() {
 
 	FatalError(err)
 
-
 	fmt.Println("FileName: ", file.Name())
 	fmt.Println("Size in bytes: ", file.Size())
 	fmt.Println("Permissions: ", file.Mode())
@@ -74,21 +72,15 @@ func renameFile() {
 	fmt.Println("File Rename")
 
 	originalPath := "test.txt"
-	_, err := os.Stat(originalPath)
 
-	if err != nil && os.IsNotExist(err) {
-		fmt.Println("File didn't exist, creating...")
-		os.Create(originalPath)
-		fmt.Println("File created")
-	}
+	ExistsOrCreate(originalPath)
 
 	newPath := "test2.txt"
 
 	fmt.Println("Renaming", originalPath, "to ", newPath)
-	err = os.Rename(originalPath, newPath)
+	err := os.Rename(originalPath, newPath)
 
 	FatalError(err)
-
 
 	fmt.Println("Rename complete")
 }
@@ -106,7 +98,6 @@ func deleteFile() {
 
 	FatalError(err)
 
-
 	fmt.Println("File Deleted Successfully")
 
 }
@@ -122,7 +113,6 @@ func seekFile() {
 	file, err := os.Open(path)
 
 	FatalError(err)
-
 
 	fmt.Println("Close initial File Seek")
 	file.Close()
@@ -234,7 +224,6 @@ func SymLinkFiles() {
 
 	FatalError(err)
 
-
 	// LStat will return file info, but if it is actually
 	// a symlink, it will return info about the SymLink
 	// It will not follow the link and give information
@@ -244,11 +233,9 @@ func SymLinkFiles() {
 
 	FatalError(err)
 
-
 	data, err := json.MarshalIndent(fileInfo, " ", "	")
 
 	FatalError(err)
-
 
 	fmt.Printf("Link info: %+v", data)
 
@@ -270,7 +257,6 @@ func copyFile() {
 
 	FatalError(err)
 
-
 	defer original.Close()
 
 	// Create new copy
@@ -278,14 +264,12 @@ func copyFile() {
 
 	FatalError(err)
 
-
 	defer newFile.Close()
 
 	// Copy the bytes to destination from source
 	bytesWritten, err := io.Copy(newFile, original)
 
 	FatalError(err)
-
 
 	log.Printf("Copied %d bytes.", bytesWritten)
 
@@ -302,8 +286,7 @@ func seekPositionInFile() {
 	ExistsOrCreate(path)
 
 	file, _ := os.Open(path)
-	defer file.Close();
-
+	defer file.Close()
 
 	// Offset is how many bytes to move
 	// Offset can be positive or negative
@@ -319,14 +302,12 @@ func seekPositionInFile() {
 
 	FatalError(err)
 
-
 	fmt.Println("Just moved to 5: ", newPosition)
 
 	// Go back 2 bytes from current possition
 	newPosition, err = file.Seek(-2, 1)
 
 	FatalError(err)
-
 
 	fmt.Println("Just moved back two: ", newPosition)
 
@@ -336,13 +317,11 @@ func seekPositionInFile() {
 
 	FatalError(err)
 
-
 	fmt.Println("Current Position: ", newPosition)
 
 	// Go To Beginning of file
 	newPosition, err = file.Seek(0, 0)
 	FatalError(err)
-
 
 	fmt.Println("Position after seeking 0,0: ", newPosition)
 }
@@ -357,7 +336,6 @@ func writeBytesToFile() {
 
 	FatalError(err)
 
-
 	defer file.Close()
 
 	//Write bytes to file
@@ -366,7 +344,6 @@ func writeBytesToFile() {
 	bytesWritten, err := file.Write(bytesSlice)
 
 	FatalError(err)
-
 
 	log.Printf("Wrote %d bytes. \n", bytesWritten)
 }
@@ -392,18 +369,16 @@ func BufferedWriter() {
 
 	FatalError(err)
 
-
 	defer file.Close()
 
 	// Create a buffered writer from the file
 	bufferedWriter := bufio.NewWriter(file)
 
 	bytesWritten, err := bufferedWriter.Write(
-		[]byte{65,66,67},
+		[]byte{65, 66, 67},
 	)
 
 	FatalError(err)
-
 
 	log.Printf("bytes written: %d\n", bytesWritten)
 
@@ -420,7 +395,7 @@ func BufferedWriter() {
 	log.Printf("Bytes Buffered: %d\n", unflushedBufferSize)
 
 	// See how much buffer is available
-	bytesAvailable:= bufferedWriter.Available()
+	bytesAvailable := bufferedWriter.Available()
 
 	log.Printf("Available buffer: %d\n", bytesAvailable)
 
@@ -439,10 +414,9 @@ func BufferedWriter() {
 	bufferedWriter.Reset(bufferedWriter)
 
 	// See how much buffer is available
-	 bytesAvailable = bufferedWriter.Available()
+	bytesAvailable = bufferedWriter.Available()
 
 	log.Printf("Available buffer: %d\n", bytesAvailable)
-
 
 	// Resize buffer. The firs argument is a writer
 	// where the buffer should output to. In this case
@@ -457,6 +431,30 @@ func BufferedWriter() {
 	bytesAvailable = bufferedWriter.Available()
 
 	log.Printf("Available buffer: %d\n", bytesAvailable)
+}
+
+func readUpNBytes() {
+	path := "readUpNBytes.txt"
+
+	ExistsOrCreate(path)
+	// Open file for reading
+
+	file, err := os.Open(path)
+
+	FatalError(err)
+
+	defer file.Close()
+
+	// Read up to len(b) bytes from the File
+	// Zero bytes written means end of file
+	// End of file returns error type io.EOF
+	bytesSlice := make([]byte, 16) // will read up to the 16th byte within the file
+	bytesRead, err := file.Read(bytesSlice)
+
+	FatalError(err)
+
+	log.Printf("Number of bytes read: %d\n", bytesRead)
+	log.Printf("Data read: %s\n", bytesSlice)
 }
 
 func main() {
@@ -502,5 +500,8 @@ func main() {
 	// quickWriteToFile()
 	// print("\n")
 	// time.Sleep(time.Second)
-	BufferedWriter()
+	// BufferedWriter()
+	// print("\n")
+	// time.Sleep(time.Second)
+	readUpNBytes();
 }
