@@ -1,0 +1,26 @@
+this will read all bytes in the file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Even these ones

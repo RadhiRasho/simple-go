@@ -3,22 +3,28 @@
 package main
 
 import (
+	"archive/zip"
 	"bufio"
+	"compress/gzip"
 	"encoding/json"
 	"fmt"
 	"io"
 	"log"
 	"os"
+	"path/filepath"
 	"time"
 )
 
-func ExistsOrCreate(path string) {
+func ExistsOrCreate(path string) *os.File {
 	_, err := os.Stat(path)
 	if err != nil && os.IsNotExist(err) {
-		fmt.Println("File doesn't exist to delete, creating...")
-		os.Create(path)
+		fmt.Println("File doesn't exist, creating...")
+		file, _ := os.Create(path)
 		fmt.Println("File Created")
+		return file
 	}
+
+	return nil
 }
 
 func FatalError(err error) {
@@ -27,7 +33,7 @@ func FatalError(err error) {
 	}
 }
 
-func createFile() {
+func CreateFile() {
 	newFile, err := os.Create("creation.txt")
 
 	FatalError(err)
@@ -36,7 +42,7 @@ func createFile() {
 	newFile.Close()
 }
 
-func truncateFile() {
+func TruncateFile() {
 	// Truncate a file to 100 bytes. If file
 	// is less than 100 bytes the original contents will remain
 	// at the beginning, and the rest of the space is
@@ -51,7 +57,7 @@ func truncateFile() {
 	fmt.Println("File truncated")
 }
 
-func getFileInfo() {
+func GetFileInfo() {
 	// Stat returns file info. It will return
 	// an error if there is no file
 	file, err := os.Stat("truncation.txt")
@@ -68,7 +74,7 @@ func getFileInfo() {
 	fmt.Printf("System info: %+v\n\n", string(data))
 }
 
-func renameFile() {
+func RenameFile() {
 	fmt.Println("File Rename")
 
 	originalPath := "test.txt"
@@ -85,7 +91,7 @@ func renameFile() {
 	fmt.Println("Rename complete")
 }
 
-func deleteFile() {
+func DeleteFile() {
 	fmt.Println("File Deletion")
 
 	path := "deletion.txt"
@@ -99,10 +105,9 @@ func deleteFile() {
 	FatalError(err)
 
 	fmt.Println("File Deleted Successfully")
-
 }
 
-func seekFile() {
+func SeekFile() {
 	fmt.Println("Seeking out file")
 	path := "seek.txt"
 	// Simple read only open. We will cover actually reading
@@ -137,7 +142,7 @@ func seekFile() {
 	// os.O_TRUNC // Truncate file when opening
 }
 
-func readWriteFile() {
+func ReadWriteFile() {
 	// Test write permissions. It is possible the file
 	// does not exit and that will return a different
 	// error that can be checked with os.IsNotExist(err)
@@ -165,7 +170,7 @@ func readWriteFile() {
 	file.Close()
 }
 
-func changePermissions() {
+func ChangePermissions() {
 	path := "changePermission.txt"
 
 	ExistsOrCreate(path)
@@ -246,7 +251,7 @@ func SymLinkFiles() {
 
 }
 
-func copyFile() {
+func CopyFile() {
 	// Copy a file
 	// Open original file
 	path := "copy.txt"
@@ -277,10 +282,9 @@ func copyFile() {
 	// Flushes Memory To Disk
 	err = newFile.Sync()
 	FatalError(err)
-
 }
 
-func seekPositionInFile() {
+func SeekPositionInFile() {
 	path := "seekPosition.txt"
 
 	ExistsOrCreate(path)
@@ -326,7 +330,7 @@ func seekPositionInFile() {
 	fmt.Println("Position after seeking 0,0: ", newPosition)
 }
 
-func writeBytesToFile() {
+func WriteBytesToFile() {
 	path := "writeBytes.txt"
 
 	ExistsOrCreate(path)
@@ -348,7 +352,7 @@ func writeBytesToFile() {
 	log.Printf("Wrote %d bytes. \n", bytesWritten)
 }
 
-func quickWriteToFile() {
+func QuickWriteToFile() {
 	path := "quickwrite.txt"
 
 	ExistsOrCreate(path)
@@ -356,7 +360,6 @@ func quickWriteToFile() {
 	err := os.WriteFile(path, []byte("Hi\n"), 0666)
 
 	FatalError(err)
-
 }
 
 func BufferedWriter() {
@@ -433,7 +436,7 @@ func BufferedWriter() {
 	log.Printf("Available buffer: %d\n", bytesAvailable)
 }
 
-func readUpNBytes() {
+func ReadUpNBytes() {
 	path := "readUpNBytes.txt"
 
 	ExistsOrCreate(path)
@@ -455,6 +458,339 @@ func readUpNBytes() {
 
 	log.Printf("Number of bytes read: %d\n", bytesRead)
 	log.Printf("Data read: %s\n", bytesSlice)
+}
+
+func ReadExactlyNBytes() {
+	path := "readExactlyNBytes.txt"
+
+	ExistsOrCreate(path)
+
+	//Open File
+	file, err := os.Open(path)
+
+	FatalError(err)
+
+	defer file.Close()
+
+	// The file.Read() function will happily read a tiny file in to a large
+	// byte slice, but io.ReadFull() will return an
+	// error if the file is smaller than the byte slice
+	bytesSlice := make([]byte, 2) // 2 is the number of bytes that will be read
+	numBytesRead, err := io.ReadFull(file, bytesSlice)
+
+	FatalError(err)
+
+	log.Printf("Number of bytes read: %d\n", numBytesRead)
+	log.Printf("Data read: %s\n", bytesSlice)
+}
+
+func ReadAtLeastNBytes() {
+	path := "ReadAtLeastNBytes.txt"
+
+	ExistsOrCreate(path)
+
+	// Open file for reading
+	file, err := os.Open(path)
+
+	FatalError(err)
+
+	byteSlice := make([]byte, 512)
+
+	minBytes := 8
+
+	// io.ReadAtLeast() will return an error if it cannot
+	// find at least minBytes to read. It will read as
+	// many bytes as byteSlice can hold.
+	numBytesRead, err := io.ReadAtLeast(file, byteSlice, minBytes)
+
+	FatalError(err)
+
+	log.Printf("Number of bytes read: %d\n", numBytesRead)
+	log.Printf("Data read: %s\n", byteSlice)
+}
+
+func ReadAllBytesOfFile() {
+	path := "ReadAllBytesOfFile.txt"
+
+	ExistsOrCreate(path)
+
+	// Open file for reading
+	file, err := os.Open(path)
+
+	FatalError(err)
+
+	defer file.Close()
+
+	// os.File.Read(), io.ReadFull(), and
+	// io.ReadAtLeast() all work with a fixed
+	// byte slice that you make before you read
+
+	// io.ReadAll() will read every byte
+	// from the read (in this case a file)
+	// and return a slice of unknown slice
+	data, err := io.ReadAll(file)
+
+	FatalError(err)
+
+	fmt.Printf("Data as hex: %x\n", data)
+	fmt.Printf("Data as string: %s\n", data)
+	fmt.Printf("Number of bytes read: %d\n", len(data))
+}
+
+func QuickReadFileIntoMemory() {
+	path := "QuickReadFileIntoMemory.txt"
+
+	ExistsOrCreate(path)
+
+	data, err := os.ReadFile(path)
+
+	FatalError(err)
+
+	log.Printf("Data read: %s\n", data)
+}
+
+func BufferedReader() {
+	path := "BufferedReader.txt"
+
+	ExistsOrCreate(path)
+
+	// Open file and create a buffered read on top
+	file, err := os.Open(path)
+
+	FatalError(err)
+
+	defer file.Close()
+
+	bufferedReader := bufio.NewReader(file)
+
+	// Get bytes without advancing pointer
+	byteSlice := make([]byte, 5)
+	byteSlice, err = bufferedReader.Peek(len(byteSlice))
+
+	FatalError(err)
+
+	fmt.Printf("Peeked at 5 bytes: %s\n", byteSlice)
+
+	// Read and advance pointer
+	numBytesRead, err := bufferedReader.Read(byteSlice)
+
+	FatalError(err)
+
+	fmt.Printf("Read %d bytes: %s\n", numBytesRead, byteSlice)
+
+	// Read 1 byte. Error if no byte to read
+	myByte, err := bufferedReader.ReadByte()
+
+	FatalError(err)
+
+	fmt.Printf("Read 1 byte: %c\n", myByte)
+
+	// Read up to and including delimiter
+	// Returns byte slice
+	dataBytes, err := bufferedReader.ReadBytes('\n')
+
+	FatalError(err)
+
+	fmt.Printf("Read string: %s\n", dataBytes)
+
+	// Read up to and including delimiter
+	// Returns string
+
+	dataString, err := bufferedReader.ReadString('\n')
+
+	FatalError(err)
+
+	fmt.Printf("Read string: %s\n", dataString)
+	// This example reads a few lines so test.txt
+	// should have a few lines of text to work correctly
+}
+
+func ReadWithScanner() {
+	path := "ReadWithScanner.txt"
+
+	ExistsOrCreate(path)
+
+	file, err := os.Open(path)
+
+	FatalError(err)
+
+	scanner := bufio.NewScanner(file)
+
+	// Default scanner is bufio.ScanLines. Lets use ScanWords.
+	// Could also use a custom function of SplitFunc type
+	scanner.Split(bufio.ScanWords)
+
+	// Scan for next token.
+	success := scanner.Scan()
+
+	if !success {
+		// False on error or EOF. Check error
+		err = scanner.Err()
+		if err != nil {
+			log.Println("Scan Completed and Reached EOF")
+		} else {
+			log.Fatal(err)
+		}
+	}
+
+	// Get data from scan with Bytes() or Text()
+	fmt.Println("First word found: ", scanner.Text())
+	// Call scanner.Scan() again to find next token
+}
+
+func ArchiveFiles() {
+	path := "ArchiveFiles.zip"
+
+	// Create a file to write archive buffer to
+	// Could also use an in memory buffer.
+	outfile := ExistsOrCreate(path)
+
+	defer outfile.Close()
+
+	// Create a zip writer on top of the file writer
+	zipWriter := zip.NewWriter(outfile)
+
+	// Add files to archive
+	// we use some hard coded data to demonstrate,
+	// but you could iterate through all the files
+	// in a directory and pass the name and content
+	// of each file, or you can take data from your
+	// program and write it in to the archive without
+
+	var filesToArchive = []struct {
+		Name, Body string
+	}{
+		{"ArchiveFilesT1.txt", "String contents of file"},
+		{"ArchiveFilesT2.txt", "\x61\x62\x63\n"},
+	}
+
+	// Create and write files to the archive, which in turn
+	// are getting written to the underlying writer to the
+	// .zip file we created at the beginning
+	for _, file := range filesToArchive {
+		fileWriter, err := zipWriter.Create(file.Name)
+
+		FatalError(err)
+
+		_, err = fileWriter.Write([]byte(file.Body))
+		FatalError(err)
+	}
+
+	// Clean up
+	err := zipWriter.Close()
+
+	FatalError(err)
+}
+
+func ExtractArchivedFiles() {
+	// Create a reader out of the zip archive
+	zipReader, err := zip.OpenReader("ArchiveFiles.zip")
+
+	FatalError(err)
+
+	defer zipReader.Close()
+
+	// Iterate through each file/dir found in
+	for _, file := range zipReader.Reader.File {
+		// Open the file inside the zip archive
+		// like a normal file
+		zippedFile, err := file.Open()
+
+		FatalError(err)
+
+		defer zippedFile.Close()
+
+		// Specify what the extracted file name should be.
+		// You can specify a full path or a prefix
+		// to move it to a different directory.
+		// In this case, we will extract the file from
+		// the zip to a file of the same name.
+		targetDir := "./"
+		extractedFilePath := filepath.Join(targetDir, file.Name)
+
+		// Extract the item (or create directory)
+		if file.FileInfo().IsDir() {
+			// Create directory to recreate directory
+			// structure inside the zip archive. Also
+			// preserve permissions
+			log.Println("Creating directory: ", extractedFilePath)
+			os.MkdirAll(extractedFilePath, file.Mode())
+		} else {
+			// Extract regular file since it is not a directory
+			log.Println("Extracting file: ", file.Name)
+
+			// Open an output file for writing
+			outputFile, err := os.OpenFile(extractedFilePath, os.O_WRONLY|os.O_CREATE|os.O_TRUNC, file.Mode())
+
+			FatalError(err)
+
+			defer outputFile.Close()
+
+			// "Extract" the file by copying zipped file
+			// contents to the output file
+			_, err = io.Copy(outputFile, zippedFile)
+
+			FatalError(err)
+		}
+	}
+}
+
+func CompressFile() {
+	path := "CompressFile.txt.gz"
+	// Create .gz file to write to
+
+	outputFile := ExistsOrCreate(path)
+
+	// Create a gzip writer on top of the file writer
+	gzipWriter := gzip.NewWriter(outputFile)
+	defer gzipWriter.Close()
+
+	// When we write to the gzip writer
+	// it will in turn compress the contents
+	// and then write it to the underlying
+	// file writer as well
+	// We don't have to worry about how all
+	// the compression works since we just
+	// use it as a simple writer interface
+	// that we send bytes to
+
+	_, err := gzipWriter.Write([]byte("Gophers rule!\n"))
+
+	FatalError(err)
+
+	log.Println("Compressed data written to file.")
+}
+
+func UncompressFile() {
+	// Open gzip file we want to uncompress
+	// the file is a reader, but we could use any
+	// data source. It is common for web servers
+	// to return gzipped contents to save bandwidth
+	// and in that case the data is not in a file
+	// on the file system but in a memory buffer
+	gzipFile, err := os.Open("CompressFile.txt.gz")
+
+	FatalError(err)
+
+	// Create a gzip reader on top of the file reader
+	// Again, it could be any type reader though
+	gzipReader, err := gzip.NewReader(gzipFile)
+
+	FatalError(err)
+
+	defer gzipReader.Close()
+
+	// Uncompress to a writer. We'll use a file writer
+	outfileWriter, err := os.Create("UncompressedFile.txt")
+
+	FatalError(err)
+
+	defer outfileWriter.Close()
+
+	// Copy contents of gzipped file to output file
+	_, err = io.Copy(outfileWriter, gzipReader)
+
+	FatalError(err)
 }
 
 func main() {
@@ -503,5 +839,35 @@ func main() {
 	// BufferedWriter()
 	// print("\n")
 	// time.Sleep(time.Second)
-	readUpNBytes();
+	// ReadUpNBytes()
+	// print("\n")
+	// time.Sleep(time.Second)
+	// ReadExactlyNBytes()
+	// print("\n")
+	// time.Sleep(time.Second)
+	// ReadAtLeastNBytes()
+	// print("\n")
+	// time.Sleep(time.Second)
+	// ReadAllBytesOfFile()
+	// print("\n")
+	// time.Sleep(time.Second)
+	// QuickReadFileIntoMemory()
+	// print("\n")
+	// time.Sleep(time.Second)
+	// BufferedReader()
+	// print("\n")
+	// time.Sleep(time.Second)
+	// ReadWithScanner()
+	// print("\n")
+	// time.Sleep(time.Second)
+	// ArchiveFiles()
+	// print("\n")
+	// time.Sleep(time.Second)
+	// ExtractArchivedFiles()
+	// print("\n")
+	// time.Sleep(time.Second)
+	// CompressFile()
+	// print("\n")
+	// time.Sleep(time.Second)
+	UncompressFile()
 }

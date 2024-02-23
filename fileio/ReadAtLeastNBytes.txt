@@ -1,0 +1,70 @@
+this is a simple example of how to use the `@ngrx/store` library to manage the state of an Angular application. The application is a simple counter that can be incremented, decremented, or reset.
+
+## Running the application
+
+To run the application, clone the repository and run the following commands:
+
+```bash
+npm install
+npm start
+```
+
+    Then navigate to `http://localhost:4200/` in your browser.
+
+## Running the tests
+
+To run the tests, run the following command:
+
+```bash
+
+npm test
+```
+
+
+## Running the application in production mode
+
+To run the application in production mode, run the following commands:
+
+```bash
+npm run build
+npm run start:prod
+```
+
+    Then navigate to `http://localhost:4200/` in your browser.
+
+## Running the application in development mode
+
+To run the application in development mode, run the following commands:
+
+```bash
+npm run build:dev
+npm run start:dev
+```
+
+    Then navigate to `http://localhost:4200/` in your browser.
+
+## Running the application in production mode with Docker
+
+To run the application in production mode with Docker, run the following commands:
+
+```bash
+
+docker build -t angular-ngrx-counter .
+
+docker run -p 8080:80 angular-ngrx-counter
+```
+
+    Then navigate to `http://localhost:8080/` in your browser.
+
+## Running the application in development mode with Docker
+
+To run the application in development mode with Docker, run the following commands:
+
+```bash
+
+docker build -t angular-ngrx-counter -f Dockerfile.dev .
+
+docker run -p 8080:80 angular-ngrx-counter
+```
+
+    Then navigate to `http://localhost:8080/` in your browser.
