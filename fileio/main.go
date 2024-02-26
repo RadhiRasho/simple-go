@@ -81,5 +81,15 @@ func main() {
 	// UncompressFile()
 	// print("\n")
 	// time.Sleep(time.Second)
-	TemporaryFilesAndDirectories()
+	// TemporaryFilesAndDirectories()
+	// print("\n")
+	// time.Sleep(time.Second)
+	// DownloadFileOverHttp()
+	// print("\n")
+	// time.Sleep(time.Second)
+	// HashingFile()
+	// print("\n")
+	// time.Sleep(time.Second)
+	ChecksumFiles()
+
 }

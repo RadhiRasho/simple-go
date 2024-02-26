@@ -15,7 +15,11 @@ func ExistsOrCreate(path string) *os.File {
 		return file
 	}
 
-	return nil
+	file, err := os.Open(path)
+
+	FatalError(err)
+
+	return file
 }
 
 func FatalError(err error) {
