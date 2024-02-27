@@ -6,4 +6,5 @@ use (
 	./greetings
 	./hello
 	./https
+	./image-manipulation
 )
