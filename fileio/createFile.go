@@ -1,6 +1,7 @@
 package main
 
 import (
+	"global/utils"
 	"log"
 	"os"
 )
@@ -10,7 +11,7 @@ func CreateFile() {
 
 	newFile, err := os.Create(path)
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	log.Printf("%+v\n", newFile)
 	newFile.Close()

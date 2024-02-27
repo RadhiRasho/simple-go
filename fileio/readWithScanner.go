@@ -3,6 +3,7 @@ package main
 import (
 	"bufio"
 	"fmt"
+	"global/utils"
 	"log"
 	"os"
 )
@@ -14,7 +15,7 @@ func ReadWithScanner() {
 
 	file, err := os.Open(path)
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	scanner := bufio.NewScanner(file)
 

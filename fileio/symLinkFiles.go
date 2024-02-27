@@ -3,6 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
+	"global/utils"
 	"os"
 )
 
@@ -16,7 +17,7 @@ func SymLinkFiles() {
 
 	err := os.Symlink(path, sym)
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	// LStat will return file info, but if it is actually
 	// a symlink, it will return info about the SymLink
@@ -25,16 +26,16 @@ func SymLinkFiles() {
 	// Symlinks do not work in Windows (Running this in WSL2 - UBUNTU Dev Contianer)
 	fileInfo, err := os.Lstat(sym)
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	data, err := json.MarshalIndent(fileInfo, " ", "	")
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	fmt.Printf("Link info: %+v", data)
 
 	// Change ownership of a symlink only
 	// and not the file it points to
 	err = os.Lchown(sym, os.Geteuid(), os.Getgid())
-	FatalError(err)
+	utils.FatalError(err)
 }

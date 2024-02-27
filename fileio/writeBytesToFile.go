@@ -1,6 +1,7 @@
 package main
 
 import (
+	"global/utils"
 	"log"
 	"os"
 )
@@ -15,7 +16,7 @@ func WriteBytesToFile() {
 	// Open a new file for writing only
 	file, err := os.OpenFile(path, os.O_WRONLY|os.O_TRUNC|os.O_CREATE, 0666)
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	defer file.Close()
 
@@ -24,7 +25,7 @@ func WriteBytesToFile() {
 
 	bytesWritten, err := file.Write(bytesSlice)
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	log.Printf("Wrote %d bytes. \n", bytesWritten)
 }

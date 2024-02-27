@@ -1,6 +1,7 @@
 package main
 
 import (
+	"global/utils"
 	"io"
 	"log"
 	"net/http"
@@ -19,7 +20,7 @@ func DownloadFileOverHttp() {
 	url := "http://www.devdungeon.com/archive"
 	res, err := http.Get(url)
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	defer res.Body.Close()
 
@@ -30,7 +31,7 @@ func DownloadFileOverHttp() {
 	// any type that implements reader adn writer interface
 	numBytesWritten, err := io.Copy(file, res.Body)
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	log.Printf("Downloaded %d byte file. \n", numBytesWritten)
 }

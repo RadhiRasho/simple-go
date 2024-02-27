@@ -3,6 +3,7 @@ package main
 import (
 	"archive/zip"
 	"compress/gzip"
+	"global/utils"
 	"io"
 	"log"
 	"os"
@@ -42,16 +43,16 @@ func ArchiveFiles() {
 	for _, file := range filesToArchive {
 		fileWriter, err := zipWriter.Create(file.Name)
 
-		FatalError(err)
+		utils.FatalError(err)
 
 		_, err = fileWriter.Write([]byte(file.Body))
-		FatalError(err)
+		utils.FatalError(err)
 	}
 
 	// Clean up
 	err := zipWriter.Close()
 
-	FatalError(err)
+	utils.FatalError(err)
 }
 
 
@@ -59,7 +60,7 @@ func ExtractArchivedFiles() {
 	// Create a reader out of the zip archive
 	zipReader, err := zip.OpenReader("ArchiveFiles.zip")
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	defer zipReader.Close()
 
@@ -69,7 +70,7 @@ func ExtractArchivedFiles() {
 		// like a normal file
 		zippedFile, err := file.Open()
 
-		FatalError(err)
+		utils.FatalError(err)
 
 		defer zippedFile.Close()
 
@@ -95,7 +96,7 @@ func ExtractArchivedFiles() {
 			// Open an output file for writing
 			outputFile, err := os.OpenFile(extractedFilePath, os.O_WRONLY|os.O_CREATE|os.O_TRUNC, file.Mode())
 
-			FatalError(err)
+			utils.FatalError(err)
 
 			defer outputFile.Close()
 
@@ -103,7 +104,7 @@ func ExtractArchivedFiles() {
 			// contents to the output file
 			_, err = io.Copy(outputFile, zippedFile)
 
-			FatalError(err)
+			utils.FatalError(err)
 		}
 	}
 }
@@ -129,7 +130,7 @@ func CompressFile() {
 
 	_, err := gzipWriter.Write([]byte("Gophers rule!\n"))
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	log.Println("Compressed data written to file.")
 }
@@ -143,25 +144,25 @@ func UncompressFile() {
 	// on the file system but in a memory buffer
 	gzipFile, err := os.Open("CompressFile.txt.gz")
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	// Create a gzip reader on top of the file reader
 	// Again, it could be any type reader though
 	gzipReader, err := gzip.NewReader(gzipFile)
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	defer gzipReader.Close()
 
 	// Uncompress to a writer. We'll use a file writer
 	outfileWriter, err := os.Create("UncompressedFile.txt")
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	defer outfileWriter.Close()
 
 	// Copy contents of gzipped file to output file
 	_, err = io.Copy(outfileWriter, gzipReader)
 
-	FatalError(err)
+	utils.FatalError(err)
 }

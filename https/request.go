@@ -3,6 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
+	"global/utils"
 	"io"
 	"log"
 	"net/http"
@@ -23,7 +24,7 @@ func main() {
 
 	data, err := Get(&activity)
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	fmt.Printf("%+v\n", data)
 }
@@ -37,11 +38,11 @@ func Get(target interface{}) (Activity, error) {
 
     body, err := io.ReadAll(r.Body)
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	data, err := UnmarshalActivity(body)
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	return data, err
 }
@@ -49,7 +50,7 @@ func Get(target interface{}) (Activity, error) {
 func UnmarshalActivity(data []byte) (Activity, error) {
 	var r Activity
 	err := json.Unmarshal(data, &r)
-	FatalError(err)
+	utils.FatalError(err)
 	return r, err
 }
 

@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"global/utils"
 	"os"
 )
 
@@ -17,7 +18,7 @@ func TruncateFile() {
 
 	err := os.Truncate("text-files/truncation.txt", 100)
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	fmt.Println("File truncated")
 }

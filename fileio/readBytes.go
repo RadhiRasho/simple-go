@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"global/utils"
 	"io"
 	"log"
 	"os"
@@ -15,7 +16,7 @@ func ReadExactlyNBytes() {
 	//Open File
 	file, err := os.Open(path)
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	defer file.Close()
 
@@ -25,7 +26,7 @@ func ReadExactlyNBytes() {
 	bytesSlice := make([]byte, 2) // 2 is the number of bytes that will be read
 	numBytesRead, err := io.ReadFull(file, bytesSlice)
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	log.Printf("Number of bytes read: %d\n", numBytesRead)
 	log.Printf("Data read: %s\n", bytesSlice)
@@ -39,7 +40,7 @@ func ReadUpNBytes() {
 
 	file, err := os.Open(path)
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	defer file.Close()
 
@@ -49,7 +50,7 @@ func ReadUpNBytes() {
 	bytesSlice := make([]byte, 16) // will read up to the 16th byte within the file
 	bytesRead, err := file.Read(bytesSlice)
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	log.Printf("Number of bytes read: %d\n", bytesRead)
 	log.Printf("Data read: %s\n", bytesSlice)
@@ -63,7 +64,7 @@ func ReadAtLeastNBytes() {
 	// Open file for reading
 	file, err := os.Open(path)
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	byteSlice := make([]byte, 512)
 
@@ -74,7 +75,7 @@ func ReadAtLeastNBytes() {
 	// many bytes as byteSlice can hold.
 	numBytesRead, err := io.ReadAtLeast(file, byteSlice, minBytes)
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	log.Printf("Number of bytes read: %d\n", numBytesRead)
 	log.Printf("Data read: %s\n", byteSlice)
@@ -88,7 +89,7 @@ func ReadAllBytesOfFile() {
 	// Open file for reading
 	file, err := os.Open(path)
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	defer file.Close()
 
@@ -101,7 +102,7 @@ func ReadAllBytesOfFile() {
 	// and return a slice of unknown slice
 	data, err := io.ReadAll(file)
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	fmt.Printf("Data as hex: %x\n", data)
 	fmt.Printf("Data as string: %s\n", data)
@@ -116,7 +117,7 @@ func QuickReadFileIntoMemory() {
 
 	data, err := os.ReadFile(path)
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	log.Printf("Data read: %s\n", data)
 }

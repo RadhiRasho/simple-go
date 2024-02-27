@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"global/utils"
 	"log"
 
 	"example.com/greetings"
@@ -17,7 +18,7 @@ func main() {
 
 	// Request a greeting message.
 	message, err := greetings.Hello("H")
-	FatalError(err)
+	utils.FatalError(err)
 
 	log.SetPrefix("Hellos: ")
 	log.SetFlags(0)
@@ -31,7 +32,7 @@ func main() {
 
 	// If an err was returned, print it to the console and
 	// exit the program.
-	FatalError(err)
+	utils.FatalError(err)
 
 	// If no error was returned, print the returned message
 	// to the console.

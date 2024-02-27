@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"global/utils"
 	"os"
 )
 
@@ -15,7 +16,7 @@ func SeekFile() {
 
 	file, err := os.Open(path)
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	fmt.Println("Close initial File Seek")
 	file.Close()
@@ -24,7 +25,7 @@ func SeekFile() {
 	// Second param is the attributes when opening
 	fmt.Println("Secondary File seek, but with ")
 	file, err = os.OpenFile("test.txt", os.O_APPEND, 0666)
-	FatalError(err)
+	utils.FatalError(err)
 
 	file.Close()
 	// Use these attributes individually or combined

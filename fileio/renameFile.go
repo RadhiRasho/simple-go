@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"global/utils"
 	"os"
 )
 
@@ -17,7 +18,7 @@ func RenameFile() {
 	fmt.Println("Renaming", originalPath, "to ", newPath)
 	err := os.Rename(originalPath, newPath)
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	fmt.Println("Rename complete")
 }

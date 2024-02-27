@@ -2,6 +2,7 @@ package main
 
 import (
 	"bufio"
+	"global/utils"
 	"log"
 	"os"
 )
@@ -15,7 +16,7 @@ func BufferedWriter() {
 	// Open file for writing
 	file, err := os.OpenFile(path, os.O_WRONLY, 0666)
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	defer file.Close()
 
@@ -26,7 +27,7 @@ func BufferedWriter() {
 		[]byte{65, 66, 67},
 	)
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	log.Printf("bytes written: %d\n", bytesWritten)
 
@@ -34,7 +35,7 @@ func BufferedWriter() {
 	// Also available are WriteRune() and WriteByte()
 	bytesWritten, err = bufferedWriter.WriteString("Buffered string\n")
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	log.Printf("Bytes written: %d\n", bytesWritten)
 
@@ -50,7 +51,7 @@ func BufferedWriter() {
 	// Write memory buffer to disk
 	err = bufferedWriter.Flush()
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	// Revert any changes done to buffer that have
 	// not yet been written to file with Flush()

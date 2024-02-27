@@ -3,6 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
+	"global/utils"
 	"os"
 )
 
@@ -12,7 +13,7 @@ func GetFileInfo() {
 	// an error if there is no file
 	file, err := os.Stat("text-files/truncation.txt")
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	fmt.Println("FileName: ", file.Name())
 	fmt.Println("Size in bytes: ", file.Size())

@@ -1,6 +1,9 @@
 package main
 
-import "os"
+import (
+	"global/utils"
+	"os"
+)
 
 
 func HardLinkFiles() {
@@ -16,5 +19,5 @@ func HardLinkFiles() {
 
 	err := os.Link(path, path2)
 
-	FatalError(err)
+	utils.FatalError(err)
 }

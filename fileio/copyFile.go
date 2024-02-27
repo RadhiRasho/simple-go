@@ -1,6 +1,7 @@
 package main
 
 import (
+	"global/utils"
 	"io"
 	"log"
 	"os"
@@ -15,26 +16,26 @@ func CopyFile() {
 
 	original, err := os.Open(path)
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	defer original.Close()
 
 	// Create new copy
 	newFile, err := os.Create("text-files/test_copy.txt")
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	defer newFile.Close()
 
 	// Copy the bytes to destination from source
 	bytesWritten, err := io.Copy(newFile, original)
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	log.Printf("Copied %d bytes.", bytesWritten)
 
 	// Commit the file content
 	// Flushes Memory To Disk
 	err = newFile.Sync()
-	FatalError(err)
+	utils.FatalError(err)
 }

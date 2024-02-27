@@ -1,6 +1,9 @@
 package main
 
-import "os"
+import (
+	"global/utils"
+	"os"
+)
 
 
 func QuickWriteToFile() {
@@ -10,5 +13,5 @@ func QuickWriteToFile() {
 
 	err := os.WriteFile(path, []byte("Hi\n"), 0666)
 
-	FatalError(err)
+	utils.FatalError(err)
 }

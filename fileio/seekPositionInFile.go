@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"global/utils"
 	"os"
 )
 
@@ -28,14 +29,14 @@ func SeekPositionInFile() {
 
 	newPosition, err := file.Seek(offset, whence)
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	fmt.Println("Just moved to 5: ", newPosition)
 
 	// Go back 2 bytes from current possition
 	newPosition, err = file.Seek(-2, 1)
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	fmt.Println("Just moved back two: ", newPosition)
 
@@ -43,13 +44,13 @@ func SeekPositionInFile() {
 	// return value from seek after moving 0 bytes
 	newPosition, err = file.Seek(0, 1)
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	fmt.Println("Current Position: ", newPosition)
 
 	// Go To Beginning of file
 	newPosition, err = file.Seek(0, 0)
-	FatalError(err)
+	utils.FatalError(err)
 
 	fmt.Println("Position after seeking 0,0: ", newPosition)
 }

@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"global/utils"
 	"os"
 )
 
@@ -17,7 +18,7 @@ func DeleteFile() {
 	// time.Sleep(time.Minute) // Uncomment to see deletion in action after a minute
 	err := os.Remove(path)
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	fmt.Println("File Deleted Successfully")
 }

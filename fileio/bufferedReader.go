@@ -3,6 +3,7 @@ package main
 import (
 	"bufio"
 	"fmt"
+	"global/utils"
 	"os"
 )
 
@@ -14,7 +15,7 @@ func BufferedReader() {
 	// Open file and create a buffered read on top
 	file, err := os.Open(path)
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	defer file.Close()
 
@@ -24,21 +25,21 @@ func BufferedReader() {
 	byteSlice := make([]byte, 5)
 	byteSlice, err = bufferedReader.Peek(len(byteSlice))
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	fmt.Printf("Peeked at 5 bytes: %s\n", byteSlice)
 
 	// Read and advance pointer
 	numBytesRead, err := bufferedReader.Read(byteSlice)
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	fmt.Printf("Read %d bytes: %s\n", numBytesRead, byteSlice)
 
 	// Read 1 byte. Error if no byte to read
 	myByte, err := bufferedReader.ReadByte()
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	fmt.Printf("Read 1 byte: %c\n", myByte)
 
@@ -46,7 +47,7 @@ func BufferedReader() {
 	// Returns byte slice
 	dataBytes, err := bufferedReader.ReadBytes('\n')
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	fmt.Printf("Read string: %s\n", dataBytes)
 
@@ -55,7 +56,7 @@ func BufferedReader() {
 
 	dataString, err := bufferedReader.ReadString('\n')
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	fmt.Printf("Read string: %s\n", dataString)
 	// This example reads a few lines so test.txt

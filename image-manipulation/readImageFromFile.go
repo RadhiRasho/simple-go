@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"global/utils"
 	"image"
 	"image/png"
 	"os"
@@ -11,7 +12,7 @@ func ReadImageFromFile() {
 	// Read image from file that already exists
 	existingImageFile, err := os.Open("WritingImageToFile.png")
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	defer existingImageFile.Close()
 
@@ -19,7 +20,7 @@ func ReadImageFromFile() {
 	// and type of image it is as a string. we expect "png"
 	imageData, imageType, err := image.Decode(existingImageFile)
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	fmt.Println("Image Data: ", imageData)
 	fmt.Println("\n\nImage Type: ", imageType)
@@ -32,7 +33,7 @@ func ReadImageFromFile() {
 	// we can call png.Decode() directly
 	loadedImage, err := png.Decode(existingImageFile)
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	fmt.Println("LoadedImage: ",loadedImage)
 

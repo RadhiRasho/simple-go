@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"global/utils"
 	"os"
 )
 
@@ -16,11 +17,7 @@ func ExistsOrCreate(path string) *os.File {
 
 	file, err := os.Open(path)
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	return file
-}
-
-func FatalError(err error) {
-	FatalError(err)
 }

@@ -6,6 +6,7 @@ import (
 	"crypto/sha256"
 	"crypto/sha512"
 	"fmt"
+	"global/utils"
 	"io"
 	"os"
 )
@@ -19,7 +20,7 @@ func HashingFile() {
 	// get bytes from file
 	data, err := os.ReadFile(path)
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	// Hash the file and output result
 	fmt.Printf("Md5: %x\n\n", md5.Sum(data))
@@ -36,7 +37,7 @@ func ChecksumFiles() {
 	// Open file for reading
 	file, err := os.Open(path)
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	defer file.Close()
 
@@ -45,7 +46,7 @@ func ChecksumFiles() {
 
 	_, err = io.Copy(hasher, file)
 
-	FatalError(err)
+	utils.FatalError(err)
 
 	// Hash and print. Pass nil since
 	// the data is not coming in as a slice argument
