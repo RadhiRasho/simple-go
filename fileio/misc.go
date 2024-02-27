@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-	"log"
 	"os"
 )
 
@@ -23,7 +22,5 @@ func ExistsOrCreate(path string) *os.File {
 }
 
 func FatalError(err error) {
-	if err != nil {
-		log.Fatal(err)
-	}
+	FatalError(err)
 }

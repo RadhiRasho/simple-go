@@ -17,9 +17,7 @@ func main() {
 
 	// Request a greeting message.
 	message, err := greetings.Hello("H")
-	if err != nil {
-		log.Fatal(err)
-	}
+	FatalError(err)
 
 	log.SetPrefix("Hellos: ")
 	log.SetFlags(0)
@@ -33,9 +31,7 @@ func main() {
 
 	// If an err was returned, print it to the console and
 	// exit the program.
-	if err != nil {
-		log.Fatal(err)
-	}
+	FatalError(err)
 
 	// If no error was returned, print the returned message
 	// to the console.

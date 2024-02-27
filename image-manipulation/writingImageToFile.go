@@ -3,7 +3,6 @@ package main
 import (
 	"image"
 	"image/png"
-	"log"
 	"math/rand"
 	"os"
 )
@@ -19,9 +18,7 @@ func WritingImageToFile() {
 	// output file is a file type which satisfies Writer interface
 	outputFile, err := os.Create("WritingImageToFile.png")
 
-	if err != nil {
-		log.Fatal(err)
-	}
+	FatalError(err)
 
 	defer outputFile.Close()
 

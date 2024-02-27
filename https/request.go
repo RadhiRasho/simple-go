@@ -23,9 +23,7 @@ func main() {
 
 	data, err := Get(&activity)
 
-	if err != nil {
-		log.Fatal(err)
-	}
+	FatalError(err)
 
 	fmt.Printf("%+v\n", data)
 }
@@ -39,15 +37,11 @@ func Get(target interface{}) (Activity, error) {
 
     body, err := io.ReadAll(r.Body)
 
-	if err != nil {
-		log.Fatal(err)
-	}
+	FatalError(err)
 
 	data, err := UnmarshalActivity(body)
 
-	if err != nil {
-		log.Fatal(err)
-	}
+	FatalError(err)
 
 	return data, err
 }
@@ -55,9 +49,7 @@ func Get(target interface{}) (Activity, error) {
 func UnmarshalActivity(data []byte) (Activity, error) {
 	var r Activity
 	err := json.Unmarshal(data, &r)
-	if err != nil {
-		log.Fatal(err)
-	}
+	FatalError(err)
 	return r, err
 }
 
