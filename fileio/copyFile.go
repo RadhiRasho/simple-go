@@ -9,7 +9,7 @@ import (
 func CopyFile() {
 	// Copy a file
 	// Open original file
-	path := "copy.txt"
+	path := "text-files/copy.txt"
 
 	ExistsOrCreate(path)
 
@@ -20,7 +20,7 @@ func CopyFile() {
 	defer original.Close()
 
 	// Create new copy
-	newFile, err := os.Create("test_copy.txt")
+	newFile, err := os.Create("text-files/test_copy.txt")
 
 	FatalError(err)
 

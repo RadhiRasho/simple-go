@@ -8,7 +8,7 @@ import (
 )
 
 func ReadExactlyNBytes() {
-	path := "readExactlyNBytes.txt"
+	path := "text-files/readExactlyNBytes.txt"
 
 	ExistsOrCreate(path)
 
@@ -32,7 +32,7 @@ func ReadExactlyNBytes() {
 }
 
 func ReadUpNBytes() {
-	path := "readUpNBytes.txt"
+	path := "text-files/readUpNBytes.txt"
 
 	ExistsOrCreate(path)
 	// Open file for reading
@@ -56,7 +56,7 @@ func ReadUpNBytes() {
 }
 
 func ReadAtLeastNBytes() {
-	path := "ReadAtLeastNBytes.txt"
+	path := "text-files/ReadAtLeastNBytes.txt"
 
 	ExistsOrCreate(path)
 
@@ -81,7 +81,7 @@ func ReadAtLeastNBytes() {
 }
 
 func ReadAllBytesOfFile() {
-	path := "ReadAllBytesOfFile.txt"
+	path := "text-files/ReadAllBytesOfFile.txt"
 
 	ExistsOrCreate(path)
 
@@ -110,7 +110,7 @@ func ReadAllBytesOfFile() {
 
 
 func QuickReadFileIntoMemory() {
-	path := "QuickReadFileIntoMemory.txt"
+	path := "text-files/QuickReadFileIntoMemory.txt"
 
 	ExistsOrCreate(path)
 

@@ -8,7 +8,7 @@ import (
 
 
 func WriteBytesToFile() {
-	path := "writeBytes.txt"
+	path := "text-files/writeBytes.txt"
 
 	ExistsOrCreate(path)
 

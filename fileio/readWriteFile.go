@@ -10,7 +10,7 @@ func ReadWriteFile() {
 	// Test write permissions. It is possible the file
 	// does not exit and that will return a different
 	// error that can be checked with os.IsNotExist(err)
-	path := "readWriteFile.txt"
+	path := "text-files/readWriteFile.txt"
 
 	ExistsOrCreate(path)
 

@@ -9,7 +9,7 @@ import (
 
 
 func SeekPositionInFile() {
-	path := "seekPosition.txt"
+	path := "text-files/seekPosition.txt"
 
 	ExistsOrCreate(path)
 

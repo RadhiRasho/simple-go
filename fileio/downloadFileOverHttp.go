@@ -8,7 +8,7 @@ import (
 
 
 func DownloadFileOverHttp() {
-	path := "DownloadFileOverHttp.html"
+	path := "text-files/DownloadFileOverHttp.html"
 
 	file := ExistsOrCreate(path)
 

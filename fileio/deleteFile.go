@@ -9,7 +9,7 @@ import (
 func DeleteFile() {
 	fmt.Println("File Deletion")
 
-	path := "deletion.txt"
+	path := "text-files/deletion.txt"
 
 	ExistsOrCreate(path)
 

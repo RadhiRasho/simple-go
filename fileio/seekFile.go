@@ -7,7 +7,7 @@ import (
 
 func SeekFile() {
 	fmt.Println("Seeking out file")
-	path := "seek.txt"
+	path := "text-files/seek.txt"
 	// Simple read only open. We will cover actually reading
 	// and writing to files in examples further down the page
 

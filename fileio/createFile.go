@@ -6,7 +6,9 @@ import (
 )
 
 func CreateFile() {
-	newFile, err := os.Create("creation.txt")
+	path := "text-files/creation.txt"
+
+	newFile, err := os.Create(path)
 
 	FatalError(err)
 

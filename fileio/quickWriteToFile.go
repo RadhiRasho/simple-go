@@ -4,7 +4,7 @@ import "os"
 
 
 func QuickWriteToFile() {
-	path := "quickwrite.txt"
+	path := "text-files/quickwrite.txt"
 
 	ExistsOrCreate(path)
 

@@ -9,8 +9,8 @@ import (
 
 func SymLinkFiles() {
 	// Creating a symlink
-	path := "SymLink.txt"
-	sym := "SymLink_SYM.txt"
+	path := "text-files/SymLink.txt"
+	sym := "text-files/SymLink_SYM.txt"
 
 	ExistsOrCreate(path)
 

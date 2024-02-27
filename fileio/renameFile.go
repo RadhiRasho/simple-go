@@ -8,11 +8,11 @@ import (
 func RenameFile() {
 	fmt.Println("File Rename")
 
-	originalPath := "Rename.txt"
+	originalPath := "text-files/Rename.txt"
 
 	ExistsOrCreate(originalPath)
 
-	newPath := "Rename2.txt"
+	newPath := "text-files/Rename2.txt"
 
 	fmt.Println("Renaming", originalPath, "to ", newPath)
 	err := os.Rename(originalPath, newPath)

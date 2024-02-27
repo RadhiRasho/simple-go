@@ -12,7 +12,7 @@ import (
 
 
 func HashingFile() {
-	path := "HashingFile.txt"
+	path := "text-files/HashingFile.txt"
 
 	ExistsOrCreate(path)
 
@@ -29,7 +29,7 @@ func HashingFile() {
 }
 
 func ChecksumFiles() {
-	path := "ChecksumFiles.txt"
+	path := "text-files/ChecksumFiles.txt"
 
 	ExistsOrCreate(path)
 

@@ -14,7 +14,9 @@ func TruncateFile() {
 	// we will end up with exactly 100 bytes.
 	// Pass in 0 to truncate to a completely empty file
 	fmt.Println("Truncating file")
-	err := os.Truncate("truncation.txt", 100)
+
+	err := os.Truncate("text-files/truncation.txt", 100)
+
 	FatalError(err)
 
 	fmt.Println("File truncated")

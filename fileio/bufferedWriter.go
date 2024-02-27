@@ -8,7 +8,7 @@ import (
 
 
 func BufferedWriter() {
-	path := "bufferedWriter.txt"
+	path := "text-files/bufferedWriter.txt"
 
 	ExistsOrCreate(path)
 

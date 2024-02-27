@@ -11,7 +11,7 @@ import (
 
 
 func ArchiveFiles() {
-	path := "ArchiveFiles.zip"
+	path := "text-files/ArchiveFiles.zip"
 
 	// Create a file to write archive buffer to
 	// Could also use an in memory buffer.
@@ -109,7 +109,7 @@ func ExtractArchivedFiles() {
 }
 
 func CompressFile() {
-	path := "CompressFile.txt.gz"
+	path := "text-files/CompressFile.txt.gz"
 	// Create .gz file to write to
 
 	outputFile := ExistsOrCreate(path)

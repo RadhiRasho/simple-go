@@ -10,7 +10,7 @@ import (
 func GetFileInfo() {
 	// Stat returns file info. It will return
 	// an error if there is no file
-	file, err := os.Stat("truncation.txt")
+	file, err := os.Stat("text-files/truncation.txt")
 
 	FatalError(err)
 

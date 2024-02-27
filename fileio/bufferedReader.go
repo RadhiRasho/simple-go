@@ -7,7 +7,7 @@ import (
 )
 
 func BufferedReader() {
-	path := "BufferedReader.txt"
+	path := "text-files/BufferedReader.txt"
 
 	ExistsOrCreate(path)
 

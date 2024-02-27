@@ -8,7 +8,7 @@ import (
 )
 
 func ReadWithScanner() {
-	path := "ReadWithScanner.txt"
+	path := "text-files/ReadWithScanner.txt"
 
 	ExistsOrCreate(path)
 

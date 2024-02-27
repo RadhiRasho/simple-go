@@ -7,7 +7,7 @@ import (
 )
 
 func ChangePermissions() {
-	path := "changePermission.txt"
+	path := "text-files/changePermission.txt"
 
 	ExistsOrCreate(path)
 
