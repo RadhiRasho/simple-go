@@ -8,6 +8,7 @@ use (
 	./hello
 	./https
 	./image-manipulation
+	./server
 	./utils
 	./web-scrapping
 )
