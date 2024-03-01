@@ -19,7 +19,7 @@ type Activity struct {
 	Accessibility float64  `json:"accessibility"`
 }
 
-func main() {
+func GetRequest() {
 	activity := new(Activity)
 
 	data, err := Get(&activity)

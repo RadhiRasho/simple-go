@@ -20,8 +20,15 @@ func main() {
 	// RegExMatching()
 	// println("\n")
 	// time.Sleep(time.Second)
+	// ParseURLS()
+	// println("\n")
+	// time.Sleep(time.Second)
+
+	//* Go Query Functions
+	// println("\n")
+	// time.Sleep(time.Second)
 	// GoQueryFindLinksOnPage()
 	// println("\n")
 	// time.Sleep(time.Second)
-	ParseURLS()
+	// FindImageInPage()
 }
