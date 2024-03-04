@@ -9,6 +9,7 @@ use (
 	./hello
 	./https
 	./image-manipulation
+	./ip-geolocation
 	./server
 	./utils
 	./web-scrapping
