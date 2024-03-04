@@ -3,6 +3,7 @@ go 1.22.0
 use (
 	./arrays-and-slices
 	./fileio
+	./gin-server
 	./goroutines
 	./greetings
 	./hello
