@@ -91,7 +91,7 @@ func (l *Life) String() string {
 		for x := 0; x < l.width; x++ {
 			b := byte(' ')
 			if l.current.Alive(x, y) {
-				b = '*'
+				b = '*' | 0x08
 			}
 			buf.WriteByte(b)
 		}
@@ -114,10 +114,11 @@ func NewLife(width, height int) *Life {
 }
 
 func main() {
-	l := NewLife(400, 150)
-	for i := 0; i < 300; i++ {
+	l := NewLife(50, 25)
+	for i := 0; i < 3000; i++ {
 		l.Step()
-		fmt.Print("\x0c", l) // Clear screen and print field.
-		time.Sleep(time.Second / 2)
+		fmt.Println("\x0c", l) // Clear screen and print field.
+		fmt.Println()
+		time.Sleep(time.Second / 10)
 	}
 }

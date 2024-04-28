@@ -1,6 +1,6 @@
 module gin-server
 
-go 1.22.0
+go 1.22.1
 
 require (
 	github.com/bytedance/sonic v1.11.2 // indirect
