@@ -1,10 +1,11 @@
-go 1.22.1
+go 1.22.3
 
 use (
 	./arrays-and-slices
 	./basics
 	./fileio
-	./game-of-life
+	./games/game-of-life
+	./games/snake
 	./gin-server
 	./goroutines
 	./greetings
