@@ -115,10 +115,11 @@ func NewLife(width, height int) *Life {
 
 func main() {
 	l := NewLife(50, 25)
-	for i := 0; i < 3000; i++ {
-		l.Step()
-		fmt.Println("\x0c", l) // Clear screen and print field.
-		fmt.Println()
+	for {
+		go l.Step()
+		fmt.Println("\u001b[31m\x0c", l) // Clear screen and print new field.
 		time.Sleep(time.Second / 10)
+		fmt.Print("\033[2J")
+    	fmt.Print("\033[1;1H")
 	}
 }
