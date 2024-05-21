@@ -10,10 +10,7 @@
             "request": "launch",
             "console": "integratedTerminal",
             "mode": "auto",
-            "program": "${fileDirname}",
-            "args": [
-                "Top1000"
-            ]
+            "program": "${fileDirname}"
         }
     ]
 }

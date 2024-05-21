@@ -4,6 +4,7 @@ import (
 	"bufio"
 	"fmt"
 	"log"
+	"math/rand"
 	"os"
 	"strings"
 )
@@ -22,7 +23,7 @@ func PlayAdvanced(scanner *bufio.Scanner, numWords int, correct *int) {
 	}
 
 	for i := 0; i < numWords; i++ {
-		word := Words[0]
+		word := Words[rand.Intn(len(Words))]
 
 		if err != nil {
 			log.Fatal(err)
