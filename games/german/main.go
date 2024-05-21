@@ -2,6 +2,7 @@ package main
 
 import (
 	"bufio"
+	"flag"
 	"fmt"
 	"os"
 	"strconv"
@@ -9,11 +10,36 @@ import (
 )
 
 func main() {
-	scanner := bufio.NewScanner(os.Stdin)
-	fmt.Println("Would you like to play Top 1000 (Y/N)? (Default: N)")
-	scanner.Scan()
+	if len(flag.Args()) > 1 {
+		fmt.Println("Can't have more than one argument. Exiting...")
+		os.Exit(1)
+	}
 
-	top1000 := scanner.Text()
+	flag.String("Help", "", "Help")
+	flag.String("Top1000", "", "Top 1000")
+
+	flag.Parse()
+
+	main := strings.ToLower(flag.Arg(0))
+
+	if main == "help" {
+		fmt.Println("Usage: german [top1000] | [help] | [no arguments]")
+		os.Exit(0)
+	}
+
+	var top1000 string
+	if main == "top1000" {
+		top1000 = "y"
+	}
+
+	scanner := bufio.NewScanner(os.Stdin)
+
+	if top1000 == "" {
+		fmt.Println("Would you like to play Top 1000 (Y/N)? (Default: N)")
+		scanner.Scan()
+
+		top1000 = scanner.Text()
+	}
 
 	fmt.Println("How many would you like to try out? (default: 10)")
 
