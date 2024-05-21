@@ -1,6 +1,7 @@
 package main
 
 import (
+	"bufio"
 	"encoding/json"
 	"fmt"
 	"log"
@@ -34,9 +35,22 @@ func main() {
 		log.Fatal(err)
 	}
 
-	correct := 0;
+	scanner := bufio.NewScanner(os.Stdin)
 
-	for i := 0; i < 10; i++ {
+	correct := 0
+
+	fmt.Println("How many would you like to try out? (default: 10)")
+
+	scanner.Scan()
+
+	numWords, err := strconv.Atoi(scanner.Text())
+
+	if err != nil {
+		fmt.Print("Defaulting to 10\n\n")
+		numWords = 10
+	}
+
+	for i := 0; i < numWords; i++ {
 		word := dir[rand.Intn(len(dir))]
 
 		wordData, err := os.ReadFile("./words/" + word.Name())
@@ -51,25 +65,21 @@ func main() {
 			log.Fatal(err)
 		}
 
-		fmt.Println("Your word means: " + strings.Join(jsonWord.Translations, ", "))
+		fmt.Println("\nThis word means: " + strings.Join(jsonWord.Translations, ", "))
 
-		var input string
+		scanner.Scan()
 
-		_, err = fmt.Scanln(&input)
+		input := scanner.Text()
 
-		if err != nil {
-			log.Fatal(err)
-		}
-
-		if strings.EqualFold(input, jsonWord.Word) {
+		if strings.EqualFold(strings.TrimSpace(input), jsonWord.Word) {
 			fmt.Println(string(colorGreen), "✔ Correct", string(colorReset))
-			correct++;
+			correct++
 		} else {
 			fmt.Println(string(colorRed), "❌ Incorrect", string(colorReset))
-			fmt.Println(string(colorGreen), "Correct Answer: " + jsonWord.Word, string(colorReset))
+			fmt.Println(string(colorGreen), "Correct Answer: "+jsonWord.Word, string(colorReset))
 		}
 	}
 
-	fmt.Println(string(colorGreen), "\n\nYou Got: " + strconv.Itoa(correct) + " Correct", string(colorReset))
+	fmt.Println(string(colorGreen), "\nYou Got: " + strconv.Itoa(correct) + " Correct " + "Out of " + strconv.Itoa(numWords), string(colorReset))
 
 }
