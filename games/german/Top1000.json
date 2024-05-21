@@ -1,5373 +1,5373 @@
 [
     {
-        "vocab": "Der",
+        "word": "Der",
         "pos": "Article",
         "definition": "the",
         "description": "The German definite article is at the top of this list. It can take many\r\n different forms depending on grammatical gender and cases. These forms are all grouped into one entry."
     },
     {
-        "vocab": "Sein",
+        "word": "Sein",
         "pos": "Verb",
         "definition": "to be"
     },
     {
-        "vocab": "Ein",
+        "word": "Ein",
         "pos": "Article",
         "definition": "a"
     },
     {
-        "vocab": "Werden",
+        "word": "Werden",
         "pos": "Verb",
         "definition": "will",
         "description": "In German, the verb “werden” is very common because it is used as an auxiliary\r\n verb to construct the future tense or express the passive voice."
     },
     {
-        "vocab": "In",
+        "word": "In",
         "pos": "Preposition",
         "definition": "in"
     },
     {
-        "vocab": "Sie",
+        "word": "Sie",
         "pos": "Pronoun",
         "definition": "they, she",
         "description": "The German word “sie” is frequently used because this one word represents several\r\n different pronouns. It can correspond to the English pronoun “they”; it can also correspond to the\r\n pronoun “she.” And it can also be a formal “you” pronoun when capitalized."
     },
     {
-        "vocab": "Haben",
+        "word": "Haben",
         "pos": "Verb",
         "definition": "to have"
     },
     {
-        "vocab": "Auf",
+        "word": "Auf",
         "pos": "Preposition",
         "definition": "on"
     },
     {
-        "vocab": "Es",
+        "word": "Es",
         "pos": "Pronoun",
         "definition": "it"
     },
     {
-        "vocab": "Und",
+        "word": "Und",
         "pos": "Conjunction",
         "definition": "and"
     },
     {
-        "vocab": "Zu",
+        "word": "Zu",
         "pos": "Preposition",
         "definition": "to"
     },
     {
-        "vocab": "An",
+        "word": "An",
         "pos": "Preposition",
         "definition": "on"
     },
     {
-        "vocab": "Mit",
+        "word": "Mit",
         "pos": "Preposition",
         "definition": "with"
     },
     {
-        "vocab": "Für",
+        "word": "Für",
         "pos": "Preposition",
         "definition": "for"
     },
     {
-        "vocab": "Von",
+        "word": "Von",
         "pos": "Preposition",
         "definition": "from"
     },
     {
-        "vocab": "Sich",
+        "word": "Sich",
         "pos": "Pronoun",
         "definition": "itself"
     },
     {
-        "vocab": "Dieser",
+        "word": "Dieser",
         "pos": "Pronoun",
         "definition": "this"
     },
     {
-        "vocab": "Auch",
+        "word": "Auch",
         "pos": "Adverb",
         "definition": "also"
     },
     {
-        "vocab": "Er",
+        "word": "Er",
         "pos": "Pronoun",
         "definition": "he"
     },
     {
-        "vocab": "Nicht",
+        "word": "Nicht",
         "pos": "Adverb",
         "definition": "not"
     },
     {
-        "vocab": "Bei",
+        "word": "Bei",
         "pos": "Preposition",
         "definition": "at"
     },
     {
-        "vocab": "Können",
+        "word": "Können",
         "pos": "Verb",
         "definition": "to be able"
     },
     {
-        "vocab": "Wir",
+        "word": "Wir",
         "pos": "Pronoun",
         "definition": "we"
     },
     {
-        "vocab": "Aus",
+        "word": "Aus",
         "pos": "Adverb",
         "definition": "out"
     },
     {
-        "vocab": "Geben",
+        "word": "Geben",
         "pos": "Verb",
         "definition": "to give"
     },
     {
-        "vocab": "Ich",
+        "word": "Ich",
         "pos": "Pronoun",
         "definition": "I"
     },
     {
-        "vocab": "Ihr",
+        "word": "Ihr",
         "pos": "Pronoun",
         "definition": "her"
     },
     {
-        "vocab": "Sollen",
+        "word": "Sollen",
         "pos": "Verb",
         "definition": "should, to have to"
     },
     {
-        "vocab": "Nach",
+        "word": "Nach",
         "pos": "Preposition",
         "definition": "after"
     },
     {
-        "vocab": "Um",
+        "word": "Um",
         "pos": "Preposition",
         "definition": "around"
     },
     {
-        "vocab": "Noch",
+        "word": "Noch",
         "pos": "Adverb",
         "definition": "still"
     },
     {
-        "vocab": "Aber",
+        "word": "Aber",
         "pos": "Conjunction",
         "definition": "but"
     },
     {
-        "vocab": "Kein",
+        "word": "Kein",
         "pos": "Pronoun",
         "definition": "no"
     },
     {
-        "vocab": "Über",
+        "word": "Über",
         "pos": "Preposition",
         "definition": "above"
     },
     {
-        "vocab": "Neu",
+        "word": "Neu",
         "pos": "Adjective",
         "definition": "new"
     },
     {
-        "vocab": "Kommen",
+        "word": "Kommen",
         "pos": "Verb",
         "definition": "to come"
     },
     {
-        "vocab": "Hier",
+        "word": "Hier",
         "pos": "Adverb",
         "definition": "here"
     },
     {
-        "vocab": "Nur",
+        "word": "Nur",
         "pos": "Adverb",
         "definition": "only"
     },
     {
-        "vocab": "Vor",
+        "word": "Vor",
         "pos": "Preposition",
         "definition": "before"
     },
     {
-        "vocab": "Gehen",
+        "word": "Gehen",
         "pos": "Verb",
         "definition": "to go, to walk"
     },
     {
-        "vocab": "Durch",
+        "word": "Durch",
         "pos": "Preposition",
         "definition": "through"
     },
     {
-        "vocab": "Prozent",
+        "word": "Prozent",
         "pos": "Noun",
         "definition": "percent"
     },
     {
-        "vocab": "Gut",
+        "word": "Gut",
         "pos": "Adjective",
         "definition": "good"
     },
     {
-        "vocab": "Dann",
+        "word": "Dann",
         "pos": "Adverb",
         "definition": "then"
     },
     {
-        "vocab": "So",
+        "word": "So",
         "pos": "Adverb",
         "definition": "so"
     },
     {
-        "vocab": "Stehen",
+        "word": "Stehen",
         "pos": "Verb",
         "definition": "to stand"
     },
     {
-        "vocab": "Jahr",
+        "word": "Jahr",
         "pos": "Noun",
         "definition": "year"
     },
     {
-        "vocab": "Liegen",
+        "word": "Liegen",
         "pos": "Verb",
         "definition": "to lie, to be located",
         "description": "The German verb “liegen” means “to lie” in the sense of being positioned or\r\n located somewhere (but not in the sense of saying something untrue, the verb “lügen” refers to that)."
     },
     {
-        "vocab": "Euro",
+        "word": "Euro",
         "pos": "Noun",
         "definition": "euro"
     },
     {
-        "vocab": "Groß",
+        "word": "Groß",
         "pos": "Adjective",
         "definition": "big"
     },
     {
-        "vocab": "Müssen",
+        "word": "Müssen",
         "pos": "Verb",
         "definition": "to have to"
     },
     {
-        "vocab": "Jetzt",
+        "word": "Jetzt",
         "pos": "Adverb",
         "definition": "now"
     },
     {
-        "vocab": "Finden",
+        "word": "Finden",
         "pos": "Verb",
         "definition": "to find"
     },
     {
-        "vocab": "Weit",
+        "word": "Weit",
         "pos": "Adjective",
         "definition": "wide, large, far",
         "description": "“Weit” is a frequently used German word because it has a broad range of meanings.\r\n It can express distance, size, extent, or scope."
     },
     {
-        "vocab": "Wollen",
+        "word": "Wollen",
         "pos": "Verb",
         "definition": "to want"
     },
     {
-        "vocab": "Nun",
+        "word": "Nun",
         "pos": "Adverb",
         "definition": "now"
     },
     {
-        "vocab": "Was",
+        "word": "Was",
         "pos": "Pronoun",
         "definition": "what"
     },
     {
-        "vocab": "Unser",
+        "word": "Unser",
         "pos": "Pronoun",
         "definition": "our"
     },
     {
-        "vocab": "Machen",
+        "word": "Machen",
         "pos": "Verb",
         "definition": "to make"
     },
     {
-        "vocab": "Wie",
+        "word": "Wie",
         "pos": "Adverb",
         "definition": "how"
     },
     {
-        "vocab": "Als",
+        "word": "Als",
         "pos": "Conjunction",
         "definition": "as"
     },
     {
-        "vocab": "Aller",
+        "word": "Aller",
         "pos": "Adjective",
         "definition": "all"
     },
     {
-        "vocab": "Sehr",
+        "word": "Sehr",
         "pos": "Adverb",
         "definition": "very"
     },
     {
-        "vocab": "Wieder",
+        "word": "Wieder",
         "pos": "Adverb",
         "definition": "again"
     },
     {
-        "vocab": "Schon",
+        "word": "Schon",
         "pos": "Adverb",
         "definition": "already",
         "description": "The German words schon (without umlaut) and schön (with umlaut)\r\n should not be confused. The former means “already” whereas the latter means “pretty”. Both appear in\r\n this German vocabulary list."
     },
     {
-        "vocab": "Bleiben",
+        "word": "Bleiben",
         "pos": "Verb",
         "definition": "to remain"
     },
     {
-        "vocab": "Erster",
+        "word": "Erster",
         "pos": "Numeral",
         "definition": "first"
     },
     {
-        "vocab": "Unter",
+        "word": "Unter",
         "pos": "Preposition",
         "definition": "under"
     },
     {
-        "vocab": "Ab",
+        "word": "Ab",
         "pos": "Preposition",
         "definition": "from"
     },
     {
-        "vocab": "Sehen",
+        "word": "Sehen",
         "pos": "Verb",
         "definition": "to see"
     },
     {
-        "vocab": "Immer",
+        "word": "Immer",
         "pos": "Adverb",
         "definition": "always"
     },
     {
-        "vocab": "Dabei",
+        "word": "Dabei",
         "pos": "Adverb",
         "definition": "nearby, besides"
     },
     {
-        "vocab": "Da",
+        "word": "Da",
         "pos": "Adverb",
         "definition": "there"
     },
     {
-        "vocab": "Mehr",
+        "word": "Mehr",
         "pos": "Adjective",
         "definition": "more"
     },
     {
-        "vocab": "Gegen",
+        "word": "Gegen",
         "pos": "Preposition",
         "definition": "against"
     },
     {
-        "vocab": "Dort",
+        "word": "Dort",
         "pos": "Adverb",
         "definition": "there"
     },
     {
-        "vocab": "Deutsch",
+        "word": "Deutsch",
         "pos": "Adjective",
         "definition": "German"
     },
     {
-        "vocab": "Jeder",
+        "word": "Jeder",
         "pos": "Pronoun",
         "definition": "everyone"
     },
     {
-        "vocab": "Allerdings",
+        "word": "Allerdings",
         "pos": "Adverb",
         "definition": "however, certainly"
     },
     {
-        "vocab": "Oder",
+        "word": "Oder",
         "pos": "Conjunction",
         "definition": "or"
     },
     {
-        "vocab": "Bis",
+        "word": "Bis",
         "pos": "Conjunction",
         "definition": "until"
     },
     {
-        "vocab": "Man",
+        "word": "Man",
         "pos": "Pronoun",
         "definition": "man"
     },
     {
-        "vocab": "Beginnen",
+        "word": "Beginnen",
         "pos": "Verb",
         "definition": "to begin"
     },
     {
-        "vocab": "Zwei",
+        "word": "Zwei",
         "pos": "Numeral",
         "definition": "two"
     },
     {
-        "vocab": "Ganz",
+        "word": "Ganz",
         "pos": "Adjective",
         "definition": "entire",
         "description": "As an adjective, “ganz” means “entire” or “whole”. For example, “das ganze Haus”\r\n translates to “the entire house.” But, when used as an adverb, the word “ganz” means “very” or “quite,”\r\n emphasizing a characteristic. For instance, “Er ist ganz nett” means “He is very kind.”"
     },
     {
-        "vocab": "Heute",
+        "word": "Heute",
         "pos": "Adverb",
         "definition": "today"
     },
     {
-        "vocab": "Bereits",
+        "word": "Bereits",
         "pos": "Adverb",
         "definition": "already"
     },
     {
-        "vocab": "Damit",
+        "word": "Damit",
         "pos": "Adverb",
         "definition": "in order to"
     },
     {
-        "vocab": "Mein",
+        "word": "Mein",
         "pos": "Determiner",
         "definition": "my"
     },
     {
-        "vocab": "Also",
+        "word": "Also",
         "pos": "Conjunction",
         "definition": "so"
     },
     {
-        "vocab": "Hoch",
+        "word": "Hoch",
         "pos": "Adjective",
         "definition": "high"
     },
     {
-        "vocab": "Jedoch",
+        "word": "Jedoch",
         "pos": "Adverb",
         "definition": "however"
     },
     {
-        "vocab": "Zeit",
+        "word": "Zeit",
         "pos": "Noun",
         "definition": "time"
     },
     {
-        "vocab": "Uhr",
+        "word": "Uhr",
         "pos": "Noun",
         "definition": "o'clock"
     },
     {
-        "vocab": "Außerdem",
+        "word": "Außerdem",
         "pos": "Adverb",
         "definition": "in addition"
     },
     {
-        "vocab": "Weiter",
+        "word": "Weiter",
         "pos": "Adjective",
         "definition": "further"
     },
     {
-        "vocab": "Dazu",
+        "word": "Dazu",
         "pos": "Adverb",
         "definition": "in addition to"
     },
     {
-        "vocab": "Vieler",
+        "word": "Vieler",
         "pos": "Adjective",
         "definition": "many"
     },
     {
-        "vocab": "Gelten",
+        "word": "Gelten",
         "pos": "Verb",
         "definition": "to be valid"
     },
     {
-        "vocab": "Beide",
+        "word": "Beide",
         "pos": "Determiner",
         "definition": "both"
     },
     {
-        "vocab": "Tag",
+        "word": "Tag",
         "pos": "Noun",
         "definition": "day"
     },
     {
-        "vocab": "Erfolgen",
+        "word": "Erfolgen",
         "pos": "Verb",
         "definition": "to happen"
     },
     {
-        "vocab": "Seit",
+        "word": "Seit",
         "pos": "Conjunction",
         "definition": "since"
     },
     {
-        "vocab": "Natürlich",
+        "word": "Natürlich",
         "pos": "Adjective",
         "definition": "natural",
         "description": "The word “natürlich” can also be used as an adverb in which case it means\r\n “naturally” or “of course”."
     },
     {
-        "vocab": "Klein",
+        "word": "Klein",
         "pos": "Adjective",
         "definition": "small"
     },
     {
-        "vocab": "Nehmen",
+        "word": "Nehmen",
         "pos": "Verb",
         "definition": "to take"
     },
     {
-        "vocab": "Mensch",
+        "word": "Mensch",
         "pos": "Noun",
         "definition": "person, human",
         "description": "In addition to meaning “human”, the German word “Mensch” can also be used as an\r\n interjection in which case it means “wow” or “gosh”."
     },
     {
-        "vocab": "Alle",
+        "word": "Alle",
         "pos": "Pronoun",
         "definition": "everyone"
     },
     {
-        "vocab": "Erhalten",
+        "word": "Erhalten",
         "pos": "Verb",
         "definition": "to receive"
     },
     {
-        "vocab": "Zeigen",
+        "word": "Zeigen",
         "pos": "Verb",
         "definition": "to point at"
     },
     {
-        "vocab": "Steigen",
+        "word": "Steigen",
         "pos": "Verb",
         "definition": "to climb, to rise"
     },
     {
-        "vocab": "Stellen",
+        "word": "Stellen",
         "pos": "Verb",
         "definition": "to place"
     },
     {
-        "vocab": "Führen",
+        "word": "Führen",
         "pos": "Verb",
         "definition": "to lead"
     },
     {
-        "vocab": "Fallen",
+        "word": "Fallen",
         "pos": "Verb",
         "definition": "to fall"
     },
     {
-        "vocab": "Betragen",
+        "word": "Betragen",
         "pos": "Verb",
         "definition": "to be"
     },
     {
-        "vocab": "Gehören",
+        "word": "Gehören",
         "pos": "Verb",
         "definition": "to belong"
     },
     {
-        "vocab": "Rund",
+        "word": "Rund",
         "pos": "Adjective",
         "definition": "round",
         "description": "The German word “rund” translates to “round” (when used as an adjective) or\r\n “approximately” (when used as an adverb)."
     },
     {
-        "vocab": "Wichtig",
+        "word": "Wichtig",
         "pos": "Adjective",
         "definition": "important"
     },
     {
-        "vocab": "Kind",
+        "word": "Kind",
         "pos": "Noun",
         "definition": "child"
     },
     {
-        "vocab": "Zudem",
+        "word": "Zudem",
         "pos": "Adverb",
         "definition": "moreover"
     },
     {
-        "vocab": "Seite",
+        "word": "Seite",
         "pos": "Noun",
         "definition": "page",
         "description": "The German word “Seite” has two possible meanings: it can mean “page”, and it can\r\n also mean “side”."
     },
     {
-        "vocab": "Mann",
+        "word": "Mann",
         "pos": "Noun",
         "definition": "man"
     },
     {
-        "vocab": "Viel",
+        "word": "Viel",
         "pos": "Pronoun",
         "definition": "a lot of"
     },
     {
-        "vocab": "Du",
+        "word": "Du",
         "pos": "Pronoun",
         "definition": "you",
         "description": "In German, “du” is the informal second-person pronoun. In formal speech, the\r\n pronoun “Sie” (always capitalized) is used instead."
     },
     {
-        "vocab": "Alt",
+        "word": "Alt",
         "pos": "Adjective",
         "definition": "old"
     },
     {
-        "vocab": "Uns",
+        "word": "Uns",
         "pos": "Pronoun",
         "definition": "us"
     },
     {
-        "vocab": "Sprechen",
+        "word": "Sprechen",
         "pos": "Verb",
         "definition": "to speak"
     },
     {
-        "vocab": "Frau",
+        "word": "Frau",
         "pos": "Noun",
         "definition": "woman",
         "description": "In German, the word “Frau” is also used as the conventional title of respect to\r\n address a woman, equivalent to the English “Mrs”. For instance, this word is often used when writing an email in German."
     },
     {
-        "vocab": "Anderer",
+        "word": "Anderer",
         "pos": "Adjective",
         "definition": "other"
     },
     {
-        "vocab": "Unternehmen",
+        "word": "Unternehmen",
         "pos": "Noun",
         "definition": "company"
     },
     {
-        "vocab": "Dafür",
+        "word": "Dafür",
         "pos": "Adverb",
         "definition": "for that"
     },
     {
-        "vocab": "Ohne",
+        "word": "Ohne",
         "pos": "Preposition",
         "definition": "without"
     },
     {
-        "vocab": "Drei",
+        "word": "Drei",
         "pos": "Numeral",
         "definition": "three"
     },
     {
-        "vocab": "Halten",
+        "word": "Halten",
         "pos": "Verb",
         "definition": "to hold"
     },
     {
-        "vocab": "Ja",
+        "word": "Ja",
         "pos": "Adverb",
         "definition": "yes"
     },
     {
-        "vocab": "Möglich",
+        "word": "Möglich",
         "pos": "Adjective",
         "definition": "possible"
     },
     {
-        "vocab": "Million",
+        "word": "Million",
         "pos": "Noun",
         "definition": "a million"
     },
     {
-        "vocab": "Einfach",
+        "word": "Einfach",
         "pos": "Adjective",
         "definition": "easy"
     },
     {
-        "vocab": "Punkt",
+        "word": "Punkt",
         "pos": "Noun",
         "definition": "point"
     },
     {
-        "vocab": "Bieten",
+        "word": "Bieten",
         "pos": "Verb",
         "definition": "to offer"
     },
     {
-        "vocab": "Bringen",
+        "word": "Bringen",
         "pos": "Verb",
         "definition": "to bring"
     },
     {
-        "vocab": "Polizei",
+        "word": "Polizei",
         "pos": "Noun",
         "definition": "police"
     },
     {
-        "vocab": "Bestehen",
+        "word": "Bestehen",
         "pos": "Verb",
         "definition": "to succeed"
     },
     {
-        "vocab": "Zwischen",
+        "word": "Zwischen",
         "pos": "Preposition",
         "definition": "in between"
     },
     {
-        "vocab": "Dürfen",
+        "word": "Dürfen",
         "pos": "Verb",
         "definition": "to be allowed to"
     },
     {
-        "vocab": "Zurück",
+        "word": "Zurück",
         "pos": "Adverb",
         "definition": "back"
     },
     {
-        "vocab": "Nächster",
+        "word": "Nächster",
         "pos": "Adjective",
         "definition": "next"
     },
     {
-        "vocab": "Problem",
+        "word": "Problem",
         "pos": "Noun",
         "definition": "problem"
     },
     {
-        "vocab": "Zweiter",
+        "word": "Zweiter",
         "pos": "Numeral",
         "definition": "second"
     },
     {
-        "vocab": "Spielen",
+        "word": "Spielen",
         "pos": "Verb",
         "definition": "to play"
     },
     {
-        "vocab": "Etwas",
+        "word": "Etwas",
         "pos": "Pronoun",
         "definition": "something"
     },
     {
-        "vocab": "Bild",
+        "word": "Bild",
         "pos": "Noun",
         "definition": "picture"
     },
     {
-        "vocab": "Statt",
+        "word": "Statt",
         "pos": "Preposition",
         "definition": "instead of"
     },
     {
-        "vocab": "Ergebnis",
+        "word": "Ergebnis",
         "pos": "Noun",
         "definition": "result"
     },
     {
-        "vocab": "Eigen",
+        "word": "Eigen",
         "pos": "Adjective",
         "definition": "own"
     },
     {
-        "vocab": "Fall",
+        "word": "Fall",
         "pos": "Noun",
         "definition": "case"
     },
     {
-        "vocab": "Welcher",
+        "word": "Welcher",
         "pos": "Determiner",
         "definition": "which one"
     },
     {
-        "vocab": "Laufen",
+        "word": "Laufen",
         "pos": "Verb",
         "definition": "to run"
     },
     {
-        "vocab": "Einiger",
+        "word": "Einiger",
         "pos": "Adjective",
         "definition": "some"
     },
     {
-        "vocab": "Erst",
+        "word": "Erst",
         "pos": "Adverb",
         "definition": "first"
     },
     {
-        "vocab": "Preis",
+        "word": "Preis",
         "pos": "Noun",
         "definition": "price"
     },
     {
-        "vocab": "Stadt",
+        "word": "Stadt",
         "pos": "Noun",
         "definition": "city",
         "description": "The German word “Stadt” means “city” and it appears in several compound nouns\r\n such as “Hauptstadt” (capital city), “Stadtleben” (city life), and “Innenstadt” (inner city). The word\r\n also appears in the name of the city “Darmstadt”."
     },
     {
-        "vocab": "Derzeit",
+        "word": "Derzeit",
         "pos": "Adverb",
         "definition": "currently"
     },
     {
-        "vocab": "Ihnen",
+        "word": "Ihnen",
         "pos": "Pronoun",
         "definition": "them"
     },
     {
-        "vocab": "Setzen",
+        "word": "Setzen",
         "pos": "Verb",
         "definition": "to put"
     },
     {
-        "vocab": "Erwarten",
+        "word": "Erwarten",
         "pos": "Verb",
         "definition": "to expect"
     },
     {
-        "vocab": "Legen",
+        "word": "Legen",
         "pos": "Verb",
         "definition": "to lay"
     },
     {
-        "vocab": "Ebenfalls",
+        "word": "Ebenfalls",
         "pos": "Adverb",
         "definition": "also"
     },
     {
-        "vocab": "Sagen",
+        "word": "Sagen",
         "pos": "Verb",
         "definition": "to say"
     },
     {
-        "vocab": "Erreichen",
+        "word": "Erreichen",
         "pos": "Verb",
         "definition": "to reach"
     },
     {
-        "vocab": "Stark",
+        "word": "Stark",
         "pos": "Adjective",
         "definition": "strong",
         "description": "The German adjective “stark” means “strong”. It is the antonym of the word\r\n “schwach” (which means “weak”). In colloquial German, the word “stark” means “awesome”."
     },
     {
-        "vocab": "Ende",
+        "word": "Ende",
         "pos": "Noun",
         "definition": "end"
     },
     {
-        "vocab": "Entstehen",
+        "word": "Entstehen",
         "pos": "Verb",
         "definition": "develop"
     },
     {
-        "vocab": "Land",
+        "word": "Land",
         "pos": "Noun",
         "definition": "country"
     },
     {
-        "vocab": "Frage",
+        "word": "Frage",
         "pos": "Noun",
         "definition": "question"
     },
     {
-        "vocab": "Haus",
+        "word": "Haus",
         "pos": "Noun",
         "definition": "house"
     },
     {
-        "vocab": "Ihm",
+        "word": "Ihm",
         "pos": "Pronoun",
         "definition": "him"
     },
     {
-        "vocab": "Spiel",
+        "word": "Spiel",
         "pos": "Noun",
         "definition": "game"
     },
     {
-        "vocab": "Brauchen",
+        "word": "Brauchen",
         "pos": "Verb",
         "definition": "to need"
     },
     {
-        "vocab": "Insgesamt",
+        "word": "Insgesamt",
         "pos": "Adverb",
         "definition": "overall",
         "description": "The German word “insgesamt” is formed by combining “ins,” which is a contraction\r\n of “in das” (meaning “in the”), and “gesamt,” which translates to “total” or “whole.” The word\r\n “insgesamt\" conveys the idea of something being considered in its entirety. It is used to express a\r\n comprehensive assessment."
     },
     {
-        "vocab": "Bitte",
+        "word": "Bitte",
         "pos": "Adverb",
         "definition": "please"
     },
     {
-        "vocab": "Ihn",
+        "word": "Ihn",
         "pos": "Pronoun",
         "definition": "him"
     },
     {
-        "vocab": "Wegen",
+        "word": "Wegen",
         "pos": "Preposition",
         "definition": "because of"
     },
     {
-        "vocab": "Zunächst",
+        "word": "Zunächst",
         "pos": "Adverb",
         "definition": "first"
     },
     {
-        "vocab": "Woche",
+        "word": "Woche",
         "pos": "Noun",
         "definition": "week"
     },
     {
-        "vocab": "Fordern",
+        "word": "Fordern",
         "pos": "Verb",
         "definition": "to demand"
     },
     {
-        "vocab": "Folgen",
+        "word": "Folgen",
         "pos": "Verb",
         "definition": "to follow"
     },
     {
-        "vocab": "Leben",
+        "word": "Leben",
         "pos": "Noun",
         "definition": "life"
     },
     {
-        "vocab": "Etwa",
+        "word": "Etwa",
         "pos": "Adverb",
         "definition": "approximately"
     },
     {
-        "vocab": "Mir",
+        "word": "Mir",
         "pos": "Pronoun",
         "definition": "me"
     },
     {
-        "vocab": "Letzter",
+        "word": "Letzter",
         "pos": "Adjective",
         "definition": "last"
     },
     {
-        "vocab": "Leicht",
+        "word": "Leicht",
         "pos": "Adjective",
         "definition": "not heavy, easy"
     },
     {
-        "vocab": "Entsprechend",
+        "word": "Entsprechend",
         "pos": "Adjective",
         "definition": "corresponding"
     },
     {
-        "vocab": "Arbeit",
+        "word": "Arbeit",
         "pos": "Noun",
         "definition": "work"
     },
     {
-        "vocab": "Befinden",
+        "word": "Befinden",
         "pos": "Verb",
         "definition": "to occupy a place"
     },
     {
-        "vocab": "Lang",
+        "word": "Lang",
         "pos": "Adjective",
         "definition": "long"
     },
     {
-        "vocab": "Teil",
+        "word": "Teil",
         "pos": "Noun",
         "definition": "part"
     },
     {
-        "vocab": "Grund",
+        "word": "Grund",
         "pos": "Noun",
         "definition": "reason"
     },
     {
-        "vocab": "Planen",
+        "word": "Planen",
         "pos": "Verb",
         "definition": "to plan"
     },
     {
-        "vocab": "Information",
+        "word": "Information",
         "pos": "Noun",
         "definition": "information"
     },
     {
-        "vocab": "Selbst",
+        "word": "Selbst",
         "pos": "Particle",
         "definition": "personally"
     },
     {
-        "vocab": "Fehlen",
+        "word": "Fehlen",
         "pos": "Verb",
         "definition": "to lack"
     },
     {
-        "vocab": "Geld",
+        "word": "Geld",
         "pos": "Noun",
         "definition": "money"
     },
     {
-        "vocab": "Suchen",
+        "word": "Suchen",
         "pos": "Verb",
         "definition": "to search"
     },
     {
-        "vocab": "Schön",
+        "word": "Schön",
         "pos": "Adjective",
         "definition": "beautiful",
         "description": "“Schön” is a useful word for giving\r\n compliments in German. Note that this word should not be confused with the word “schon”. The\r\n latter, which does not have an umlaut, is a German adverb meaning “already”."
     },
     {
-        "vocab": "Richtig",
+        "word": "Richtig",
         "pos": "Adjective",
         "definition": "correct"
     },
     {
-        "vocab": "Deutschland",
+        "word": "Deutschland",
         "pos": "Propernoun",
         "definition": "Germany"
     },
     {
-        "vocab": "Sogar",
+        "word": "Sogar",
         "pos": "Adverb",
         "definition": "even"
     },
     {
-        "vocab": "Gewinnen",
+        "word": "Gewinnen",
         "pos": "Verb",
         "definition": "to win"
     },
     {
-        "vocab": "Schnell",
+        "word": "Schnell",
         "pos": "Adjective",
         "definition": "quick"
     },
     {
-        "vocab": "Verlieren",
+        "word": "Verlieren",
         "pos": "Verb",
         "definition": "to lose"
     },
     {
-        "vocab": "Mal",
+        "word": "Mal",
         "pos": "Adverb",
         "definition": "times"
     },
     {
-        "vocab": "Schwer",
+        "word": "Schwer",
         "pos": "Adjective",
         "definition": "heavy",
         "description": "The adjective “schwer” means “heavy”. It is the antonym of the word “leicht”\r\n (which means “light”). The term “schwer” can also mean “difficult” and as such is a synonym of\r\n “schwierig”."
     },
     {
-        "vocab": "Arbeiten",
+        "word": "Arbeiten",
         "pos": "Verb",
         "definition": "to work"
     },
     {
-        "vocab": "Schließlich",
+        "word": "Schließlich",
         "pos": "Adverb",
         "definition": "in the end"
     },
     {
-        "vocab": "Ziehen",
+        "word": "Ziehen",
         "pos": "Verb",
         "definition": "to pull"
     },
     {
-        "vocab": "Verschieden",
+        "word": "Verschieden",
         "pos": "Adjective",
         "definition": "different"
     },
     {
-        "vocab": "Eigentlich",
+        "word": "Eigentlich",
         "pos": "Adverb",
         "definition": "actually"
     },
     {
-        "vocab": "Bisher",
+        "word": "Bisher",
         "pos": "Adverb",
         "definition": "so far"
     },
     {
-        "vocab": "Zahl",
+        "word": "Zahl",
         "pos": "Noun",
         "definition": "number"
     },
     {
-        "vocab": "Denn",
+        "word": "Denn",
         "pos": "Conjunction",
         "definition": "then"
     },
     {
-        "vocab": "Angebot",
+        "word": "Angebot",
         "pos": "Noun",
         "definition": "offer",
         "description": "The word “Angebot” comes from the verb “bieten,” which means “to offer” in\r\n German. This term is commonly encountered in the context of sale offers and it is also frequently used\r\n in marketing to refer to promotional deals."
     },
     {
-        "vocab": "Programm",
+        "word": "Programm",
         "pos": "Noun",
         "definition": "program"
     },
     {
-        "vocab": "Treffen",
+        "word": "Treffen",
         "pos": "Verb",
         "definition": "to meet"
     },
     {
-        "vocab": "Bekannt",
+        "word": "Bekannt",
         "pos": "Adjective",
         "definition": "known"
     },
     {
-        "vocab": "Wer",
+        "word": "Wer",
         "pos": "Pronoun",
         "definition": "who"
     },
     {
-        "vocab": "Stunde",
+        "word": "Stunde",
         "pos": "Noun",
         "definition": "hour"
     },
     {
-        "vocab": "Lassen",
+        "word": "Lassen",
         "pos": "Verb",
         "definition": "to let"
     },
     {
-        "vocab": "Tun",
+        "word": "Tun",
         "pos": "Verb",
         "definition": "to do"
     },
     {
-        "vocab": "Weg",
+        "word": "Weg",
         "pos": "Noun",
         "definition": "path"
     },
     {
-        "vocab": "Sterben",
+        "word": "Sterben",
         "pos": "Verb",
         "definition": "to die"
     },
     {
-        "vocab": "Besonders",
+        "word": "Besonders",
         "pos": "Adverb",
         "definition": "especially"
     },
     {
-        "vocab": "Deshalb",
+        "word": "Deshalb",
         "pos": "Adverb",
         "definition": "therefore"
     },
     {
-        "vocab": "Fast",
+        "word": "Fast",
         "pos": "Adverb",
         "definition": "nearly"
     },
     {
-        "vocab": "Welt",
+        "word": "Welt",
         "pos": "Noun",
         "definition": "world"
     },
     {
-        "vocab": "Name",
+        "word": "Name",
         "pos": "Noun",
         "definition": "name"
     },
     {
-        "vocab": "Dadurch",
+        "word": "Dadurch",
         "pos": "Adverb",
         "definition": "through it"
     },
     {
-        "vocab": "Bekommen",
+        "word": "Bekommen",
         "pos": "Verb",
         "definition": "to get"
     },
     {
-        "vocab": "Inzwischen",
+        "word": "Inzwischen",
         "pos": "Adverb",
         "definition": "in the meantime"
     },
     {
-        "vocab": "Geschichte",
+        "word": "Geschichte",
         "pos": "Noun",
         "definition": "story",
         "description": "The German word “Geschichte” has two possible meanings: “story” and “history”."
     },
     {
-        "vocab": "Übernehmen",
+        "word": "Übernehmen",
         "pos": "Verb",
         "definition": "to take over"
     },
     {
-        "vocab": "Tragen",
+        "word": "Tragen",
         "pos": "Verb",
         "definition": "to carry"
     },
     {
-        "vocab": "Aktie",
+        "word": "Aktie",
         "pos": "Noun",
         "definition": "share",
         "description": "In financial news articles, it is common to come across the German word “Aktie,”\r\n which refers to a financial instrument known in English as a “share” or a “stock” of a company."
     },
     {
-        "vocab": "Entscheidung",
+        "word": "Entscheidung",
         "pos": "Noun",
         "definition": "decision"
     },
     {
-        "vocab": "Ziel",
+        "word": "Ziel",
         "pos": "Noun",
         "definition": "goal"
     },
     {
-        "vocab": "Danach",
+        "word": "Danach",
         "pos": "Adverb",
         "definition": "thereafter"
     },
     {
-        "vocab": "Nichts",
+        "word": "Nichts",
         "pos": "Pronoun",
         "definition": "nothing"
     },
     {
-        "vocab": "Monat",
+        "word": "Monat",
         "pos": "Noun",
         "definition": "month"
     },
     {
-        "vocab": "Fahren",
+        "word": "Fahren",
         "pos": "Verb",
         "definition": "to drive"
     },
     {
-        "vocab": "Fest",
+        "word": "Fest",
         "pos": "Adjective",
         "definition": "firm"
     },
     {
-        "vocab": "Dennoch",
+        "word": "Dennoch",
         "pos": "Adverb",
         "definition": "anyhow"
     },
     {
-        "vocab": "Spät",
+        "word": "Spät",
         "pos": "Adjective",
         "definition": "late"
     },
     {
-        "vocab": "Erfolg",
+        "word": "Erfolg",
         "pos": "Noun",
         "definition": "success"
     },
     {
-        "vocab": "Deutlich",
+        "word": "Deutlich",
         "pos": "Adjective",
         "definition": "clear"
     },
     {
-        "vocab": "Bestätigen",
+        "word": "Bestätigen",
         "pos": "Verb",
         "definition": "to confirm"
     },
     {
-        "vocab": "Nennen",
+        "word": "Nennen",
         "pos": "Verb",
         "definition": "to name"
     },
     {
-        "vocab": "Aktuell",
+        "word": "Aktuell",
         "pos": "Adjective",
         "definition": "current"
     },
     {
-        "vocab": "Platz",
+        "word": "Platz",
         "pos": "Noun",
         "definition": "place"
     },
     {
-        "vocab": "Kosten",
+        "word": "Kosten",
         "pos": "Verb",
         "definition": "to cost"
     },
     {
-        "vocab": "Vielleicht",
+        "word": "Vielleicht",
         "pos": "Adverb",
         "definition": "perhaps"
     },
     {
-        "vocab": "Weniger",
+        "word": "Weniger",
         "pos": "Adjective",
         "definition": "less"
     },
     {
-        "vocab": "Thema",
+        "word": "Thema",
         "pos": "Noun",
         "definition": "topic"
     },
     {
-        "vocab": "Mich",
+        "word": "Mich",
         "pos": "Pronoun",
         "definition": "me"
     },
     {
-        "vocab": "Mehrere",
+        "word": "Mehrere",
         "pos": "Pronoun",
         "definition": "several"
     },
     {
-        "vocab": "Sorgen",
+        "word": "Sorgen",
         "pos": "Verb",
         "definition": "to worry",
         "description": "In its transitive form this German verb means “to care for”, but in its reflexive\r\n form “sich sorgen” means “to worry”. For more on this, see this article on German reflexive verbs."
     },
     {
-        "vocab": "Leben",
+        "word": "Leben",
         "pos": "Verb",
         "definition": "to live"
     },
     {
-        "vocab": "Minute",
+        "word": "Minute",
         "pos": "Noun",
         "definition": "minute"
     },
     {
-        "vocab": "Einmal",
+        "word": "Einmal",
         "pos": "Adverb",
         "definition": "once"
     },
     {
-        "vocab": "Beispiel",
+        "word": "Beispiel",
         "pos": "Noun",
         "definition": "example"
     },
     {
-        "vocab": "Kurz",
+        "word": "Kurz",
         "pos": "Adjective",
         "definition": "short"
     },
     {
-        "vocab": "Ort",
+        "word": "Ort",
         "pos": "Noun",
         "definition": "location"
     },
     {
-        "vocab": "Jung",
+        "word": "Jung",
         "pos": "Adjective",
         "definition": "young"
     },
     {
-        "vocab": "Helfen",
+        "word": "Helfen",
         "pos": "Verb",
         "definition": "to help"
     },
     {
-        "vocab": "Gleich",
+        "word": "Gleich",
         "pos": "Adjective",
         "definition": "equal",
         "description": "When used as an adjective, the word “gleich” can mean “equal” or \"same.” For\r\n example, “Wir haben die gleiche Idee” means “We have the same idea.” When used as an adverb, the word\r\n “gleich” can mean “right away”. For example, “Ich komme gleich” means “I'm coming right away”."
     },
     {
-        "vocab": "Vier",
+        "word": "Vier",
         "pos": "Numeral",
         "definition": "four"
     },
     {
-        "vocab": "Kosten",
+        "word": "Kosten",
         "pos": "Noun",
         "definition": "cost"
     },
     {
-        "vocab": "Schaffen",
+        "word": "Schaffen",
         "pos": "Verb",
         "definition": "to create"
     },
     {
-        "vocab": "Genau",
+        "word": "Genau",
         "pos": "Adjective",
         "definition": "exact"
     },
     {
-        "vocab": "Familie",
+        "word": "Familie",
         "pos": "Noun",
         "definition": "family"
     },
     {
-        "vocab": "Projekt",
+        "word": "Projekt",
         "pos": "Noun",
         "definition": "project"
     },
     {
-        "vocab": "Dauern",
+        "word": "Dauern",
         "pos": "Verb",
         "definition": "to last"
     },
     {
-        "vocab": "Wählen",
+        "word": "Wählen",
         "pos": "Verb",
         "definition": "to choose"
     },
     {
-        "vocab": "Rechnen",
+        "word": "Rechnen",
         "pos": "Verb",
         "definition": "to count"
     },
     {
-        "vocab": "Handeln",
+        "word": "Handeln",
         "pos": "Verb",
         "definition": "to act"
     },
     {
-        "vocab": "Bilden",
+        "word": "Bilden",
         "pos": "Verb",
         "definition": "to form"
     },
     {
-        "vocab": "Mitarbeiter",
+        "word": "Mitarbeiter",
         "pos": "Noun",
         "definition": "employee"
     },
     {
-        "vocab": "Entscheiden",
+        "word": "Entscheiden",
         "pos": "Verb",
         "definition": "to decide"
     },
     {
-        "vocab": "Nie",
+        "word": "Nie",
         "pos": "Adverb",
         "definition": "never"
     },
     {
-        "vocab": "Schule",
+        "word": "Schule",
         "pos": "Noun",
         "definition": "school"
     },
     {
-        "vocab": "Bislang",
+        "word": "Bislang",
         "pos": "Adverb",
         "definition": "so far"
     },
     {
-        "vocab": "Folge",
+        "word": "Folge",
         "pos": "Noun",
         "definition": "consequence, sequence"
     },
     {
-        "vocab": "Mitglied",
+        "word": "Mitglied",
         "pos": "Noun",
         "definition": "member"
     },
     {
-        "vocab": "Einsatz",
+        "word": "Einsatz",
         "pos": "Noun",
         "definition": "usage"
     },
     {
-        "vocab": "Schließen",
+        "word": "Schließen",
         "pos": "Verb",
         "definition": "to shut down"
     },
     {
-        "vocab": "Markt",
+        "word": "Markt",
         "pos": "Noun",
         "definition": "market"
     },
     {
-        "vocab": "Damals",
+        "word": "Damals",
         "pos": "Adverb",
         "definition": "at that time, in those days"
     },
     {
-        "vocab": "Wert",
+        "word": "Wert",
         "pos": "Noun",
         "definition": "worth"
     },
     {
-        "vocab": "Unterschiedlich",
+        "word": "Unterschiedlich",
         "pos": "Adjective",
         "definition": "differing"
     },
     {
-        "vocab": "Starten",
+        "word": "Starten",
         "pos": "Verb",
         "definition": "to start"
     },
     {
-        "vocab": "Schreiben",
+        "word": "Schreiben",
         "pos": "Verb",
         "definition": "to write"
     },
     {
-        "vocab": "Berlin",
+        "word": "Berlin",
         "pos": "Propernoun",
         "definition": "Berlin"
     },
     {
-        "vocab": "Gesamt",
+        "word": "Gesamt",
         "pos": "Adjective",
         "definition": "total"
     },
     {
-        "vocab": "Fünf",
+        "word": "Fünf",
         "pos": "Numeral",
         "definition": "five"
     },
     {
-        "vocab": "Zählen",
+        "word": "Zählen",
         "pos": "Verb",
         "definition": "to count"
     },
     {
-        "vocab": "Wachsen",
+        "word": "Wachsen",
         "pos": "Verb",
         "definition": "to grow"
     },
     {
-        "vocab": "Leider",
+        "word": "Leider",
         "pos": "Adverb",
         "definition": "unfortunately",
         "description": "The adverb “leider” comes from the word “Leid” which means “sorrow”. The word\r\n “Leid” appears, for example, in the title of one of Goethe’s novels, “Die Leiden des jungen Werthers”\r\n (The Sorrows of Young Werther)."
     },
     {
-        "vocab": "Zukunft",
+        "word": "Zukunft",
         "pos": "Noun",
         "definition": "future",
         "description": "The German word “Zukunft” originates from the verb “kommen” which means “to\r\n come”."
     },
     {
-        "vocab": "Davon",
+        "word": "Davon",
         "pos": "Adverb",
         "definition": "from it"
     },
     {
-        "vocab": "Zusätzlich",
+        "word": "Zusätzlich",
         "pos": "Adjective",
         "definition": "additional"
     },
     {
-        "vocab": "Teilen",
+        "word": "Teilen",
         "pos": "Verb",
         "definition": "to share"
     },
     {
-        "vocab": "Zusammen",
+        "word": "Zusammen",
         "pos": "Adverb",
         "definition": "together",
         "description": "In German, the words “zusammen” and “gemeinsam” are synonyms."
     },
     {
-        "vocab": "Unterstützen",
+        "word": "Unterstützen",
         "pos": "Verb",
         "definition": "to support"
     },
     {
-        "vocab": "Oft",
+        "word": "Oft",
         "pos": "Adverb",
         "definition": "often"
     },
     {
-        "vocab": "Voll",
+        "word": "Voll",
         "pos": "Adjective",
         "definition": "full"
     },
     {
-        "vocab": "Frei",
+        "word": "Frei",
         "pos": "Adjective",
         "definition": "free"
     },
     {
-        "vocab": "Entwicklung",
+        "word": "Entwicklung",
         "pos": "Noun",
         "definition": "development"
     },
     {
-        "vocab": "Weiterhin",
+        "word": "Weiterhin",
         "pos": "Adverb",
         "definition": "still"
     },
     {
-        "vocab": "Internet",
+        "word": "Internet",
         "pos": "Noun",
         "definition": "internet"
     },
     {
-        "vocab": "Heißen",
+        "word": "Heißen",
         "pos": "Verb",
         "definition": "to be named, to mean",
         "description": "The most basic usage of the verb “heißen” is to indicate someone's name. In\r\n addition, the verb “heißen” can also be used to express the significance of something. For instance,\r\n “Das heißt, dass…” translates to “That means that…”."
     },
     {
-        "vocab": "Früh",
+        "word": "Früh",
         "pos": "Adjective",
         "definition": "early"
     },
     {
-        "vocab": "Treten",
+        "word": "Treten",
         "pos": "Verb",
         "definition": "to step"
     },
     {
-        "vocab": "Verein",
+        "word": "Verein",
         "pos": "Noun",
         "definition": "association"
     },
     {
-        "vocab": "Besonderer",
+        "word": "Besonderer",
         "pos": "Adjective",
         "definition": "special"
     },
     {
-        "vocab": "Verletzen",
+        "word": "Verletzen",
         "pos": "Verb",
         "definition": "to hurt"
     },
     {
-        "vocab": "Berichten",
+        "word": "Berichten",
         "pos": "Verb",
         "definition": "to relate"
     },
     {
-        "vocab": "Einzeln",
+        "word": "Einzeln",
         "pos": "Adjective",
         "definition": "single"
     },
     {
-        "vocab": "Nutzen",
+        "word": "Nutzen",
         "pos": "Verb",
         "definition": "to use"
     },
     {
-        "vocab": "Anders",
+        "word": "Anders",
         "pos": "Adverb",
         "definition": "different"
     },
     {
-        "vocab": "Kaum",
+        "word": "Kaum",
         "pos": "Adverb",
         "definition": "hardly"
     },
     {
-        "vocab": "Gruppe",
+        "word": "Gruppe",
         "pos": "Noun",
         "definition": "group"
     },
     {
-        "vocab": "Wohl",
+        "word": "Wohl",
         "pos": "Adverb",
         "definition": "probably"
     },
     {
-        "vocab": "Buch",
+        "word": "Buch",
         "pos": "Noun",
         "definition": "book",
         "description": "The German word “Buch” is similar to its English counterpart. There are many similarities between German and\r\n English, as they are both Germanic languages."
     },
     {
-        "vocab": "Rolle",
+        "word": "Rolle",
         "pos": "Noun",
         "definition": "role"
     },
     {
-        "vocab": "Hand",
+        "word": "Hand",
         "pos": "Noun",
         "definition": "hand"
     },
     {
-        "vocab": "Schlecht",
+        "word": "Schlecht",
         "pos": "Adjective",
         "definition": "bad"
     },
     {
-        "vocab": "Gespräch",
+        "word": "Gespräch",
         "pos": "Noun",
         "definition": "conversation"
     },
     {
-        "vocab": "Sofort",
+        "word": "Sofort",
         "pos": "Adverb",
         "definition": "immediately"
     },
     {
-        "vocab": "Kunde",
+        "word": "Kunde",
         "pos": "Noun",
         "definition": "customer"
     },
     {
-        "vocab": "Sinken",
+        "word": "Sinken",
         "pos": "Verb",
         "definition": "to sink"
     },
     {
-        "vocab": "Kennen",
+        "word": "Kennen",
         "pos": "Verb",
         "definition": "to know"
     },
     {
-        "vocab": "Gerade",
+        "word": "Gerade",
         "pos": "Adjective",
         "definition": "even",
         "description": "In German, the word “gerade” can also be used as an adverb in which case it means\r\n “just” or “now”."
     },
     {
-        "vocab": "Wo",
+        "word": "Wo",
         "pos": "Adverb",
         "definition": "where"
     },
     {
-        "vocab": "Umsatz",
+        "word": "Umsatz",
         "pos": "Noun",
         "definition": "turnover"
     },
     {
-        "vocab": "Person",
+        "word": "Person",
         "pos": "Noun",
         "definition": "person"
     },
     {
-        "vocab": "Mai",
+        "word": "Mai",
         "pos": "Noun",
         "definition": "May - the month"
     },
     {
-        "vocab": "Milliarde",
+        "word": "Milliarde",
         "pos": "Noun",
         "definition": "billion"
     },
     {
-        "vocab": "Hinter",
+        "word": "Hinter",
         "pos": "Preposition",
         "definition": "behind"
     },
     {
-        "vocab": "Ändern",
+        "word": "Ändern",
         "pos": "Verb",
         "definition": "to change"
     },
     {
-        "vocab": "Offen",
+        "word": "Offen",
         "pos": "Adjective",
         "definition": "open"
     },
     {
-        "vocab": "Wissen",
+        "word": "Wissen",
         "pos": "Verb",
         "definition": "to know"
     },
     {
-        "vocab": "Wirklich",
+        "word": "Wirklich",
         "pos": "Adjective",
         "definition": "real"
     },
     {
-        "vocab": "Dagegen",
+        "word": "Dagegen",
         "pos": "Adverb",
         "definition": "against it"
     },
     {
-        "vocab": "Anschließend",
+        "word": "Anschließend",
         "pos": "Adverb",
         "definition": "afterwards"
     },
     {
-        "vocab": "Dritter",
+        "word": "Dritter",
         "pos": "Numeral",
         "definition": "third"
     },
     {
-        "vocab": "Neben",
+        "word": "Neben",
         "pos": "Preposition",
         "definition": "next to, alongside"
     },
     {
-        "vocab": "Recht",
+        "word": "Recht",
         "pos": "Noun",
         "definition": "a right"
     },
     {
-        "vocab": "September",
+        "word": "September",
         "pos": "Noun",
         "definition": "September"
     },
     {
-        "vocab": "Drohen",
+        "word": "Drohen",
         "pos": "Verb",
         "definition": "to threaten"
     },
     {
-        "vocab": "Regierung",
+        "word": "Regierung",
         "pos": "Noun",
         "definition": "government"
     },
     {
-        "vocab": "Stelle",
+        "word": "Stelle",
         "pos": "Noun",
         "definition": "place"
     },
     {
-        "vocab": "Gerne",
+        "word": "Gerne",
         "pos": "Adverb",
         "definition": "gladly, with pleasure"
     },
     {
-        "vocab": "Weisen",
+        "word": "Weisen",
         "pos": "Verb",
         "definition": "to point"
     },
     {
-        "vocab": "Warten",
+        "word": "Warten",
         "pos": "Verb",
         "definition": "to wait"
     },
     {
-        "vocab": "Einer",
+        "word": "Einer",
         "pos": "Numeral",
         "definition": "one"
     },
     {
-        "vocab": "Entsprechen",
+        "word": "Entsprechen",
         "pos": "Verb",
         "definition": "to correspond"
     },
     {
-        "vocab": "Angabe",
+        "word": "Angabe",
         "pos": "Noun",
         "definition": "indication"
     },
     {
-        "vocab": "Zahlreich",
+        "word": "Zahlreich",
         "pos": "Adjective",
         "definition": "numerous",
         "description": "The word “zahlreich” is a compound adjective derived from the combination of\r\n “Zahl” (meaning “number”) and “reich” (meaning “rich”). In German, this word literally translates to\r\n “rich in numbers.”"
     },
     {
-        "vocab": "Solcher",
+        "word": "Solcher",
         "pos": "Pronoun",
         "definition": "such"
     },
     {
-        "vocab": "Verwenden",
+        "word": "Verwenden",
         "pos": "Verb",
         "definition": "to use"
     },
     {
-        "vocab": "Während",
+        "word": "Während",
         "pos": "Conjunction",
         "definition": "while"
     },
     {
-        "vocab": "Bereich",
+        "word": "Bereich",
         "pos": "Noun",
         "definition": "area"
     },
     {
-        "vocab": "Möglichkeit",
+        "word": "Möglichkeit",
         "pos": "Noun",
         "definition": "possibility"
     },
     {
-        "vocab": "Bank",
+        "word": "Bank",
         "pos": "Noun",
         "definition": "bank"
     },
     {
-        "vocab": "Antwort",
+        "word": "Antwort",
         "pos": "Noun",
         "definition": "answer"
     },
     {
-        "vocab": "Team",
+        "word": "Team",
         "pos": "Noun",
         "definition": "team"
     },
     {
-        "vocab": "Positiv",
+        "word": "Positiv",
         "pos": "Adjective",
         "definition": "positive"
     },
     {
-        "vocab": "Wort",
+        "word": "Wort",
         "pos": "Noun",
         "definition": "word"
     },
     {
-        "vocab": "Vergangen",
+        "word": "Vergangen",
         "pos": "Verb",
         "definition": "past"
     },
     {
-        "vocab": "Freuen",
+        "word": "Freuen",
         "pos": "Verb",
         "definition": "to gladden",
         "description": "The German verb “freuen” is related to the adjective “froh” which means “glad”.\r\n This verb means “to gladden”. It is often used in its reflexive form, “sich freuen”, in which case it\r\n means “to be glad”."
     },
     {
-        "vocab": "Enthalten",
+        "word": "Enthalten",
         "pos": "Verb",
         "definition": "to contain"
     },
     {
-        "vocab": "Straße",
+        "word": "Straße",
         "pos": "Noun",
         "definition": "street"
     },
     {
-        "vocab": "Erscheinen",
+        "word": "Erscheinen",
         "pos": "Verb",
         "definition": "to appear"
     },
     {
-        "vocab": "Reichen",
+        "word": "Reichen",
         "pos": "Verb",
         "definition": "to reach, to suffice"
     },
     {
-        "vocab": "Freitag",
+        "word": "Freitag",
         "pos": "Noun",
         "definition": "Friday"
     },
     {
-        "vocab": "Somit",
+        "word": "Somit",
         "pos": "Adverb",
         "definition": "therefore"
     },
     {
-        "vocab": "Donnerstag",
+        "word": "Donnerstag",
         "pos": "Noun",
         "definition": "Thursday"
     },
     {
-        "vocab": "Datum",
+        "word": "Datum",
         "pos": "Noun",
         "definition": "date",
         "description": "The German word “Datum” is directly borrowed from Latin, but the original Latin\r\n word means “gift”. Although German is a Germanic language and not a Latin-based\r\n language, there are still some similarities between German and\r\n Latin."
     },
     {
-        "vocab": "Daher",
+        "word": "Daher",
         "pos": "Adverb",
         "definition": "from there"
     },
     {
-        "vocab": "Verfügung",
+        "word": "Verfügung",
         "pos": "Noun",
         "definition": "disposal",
         "description": "The word “Verfügung” is formed by applying the suffix “-ung” to the verb\r\n “verfügen” which means “to dispose of”. It also means “enactment” or “decree”."
     },
     {
-        "vocab": "Enden",
+        "word": "Enden",
         "pos": "Verb",
         "definition": "to end"
     },
     {
-        "vocab": "International",
+        "word": "International",
         "pos": "Adjective",
         "definition": "international"
     },
     {
-        "vocab": "Sicher",
+        "word": "Sicher",
         "pos": "Adjective",
         "definition": "secure, certain",
         "description": "The meaning of the adjective “sicher” ranges from safety to reliability and\r\n certainty. Its first meaning is “secure” or “safe” — for instance, “Sicherheitsdienst” means “security\r\n service”. Its second meaning is “sure” or “certain” — for example, “selbstsicher” means\r\n “self-confident”."
     },
     {
-        "vocab": "Eher",
+        "word": "Eher",
         "pos": "Adverb",
         "definition": "rather"
     },
     {
-        "vocab": "Mannschaft",
+        "word": "Mannschaft",
         "pos": "Noun",
         "definition": "team"
     },
     {
-        "vocab": "Entwickeln",
+        "word": "Entwickeln",
         "pos": "Verb",
         "definition": "to develop"
     },
     {
-        "vocab": "Ergeben",
+        "word": "Ergeben",
         "pos": "Adjective",
         "definition": "loyal"
     },
     {
-        "vocab": "Täter",
+        "word": "Täter",
         "pos": "Noun",
         "definition": "doer"
     },
     {
-        "vocab": "Direkt",
+        "word": "Direkt",
         "pos": "Adjective",
         "definition": "direct"
     },
     {
-        "vocab": "Erhöhen",
+        "word": "Erhöhen",
         "pos": "Verb",
         "definition": "to heighten"
     },
     {
-        "vocab": "Gestern",
+        "word": "Gestern",
         "pos": "Adverb",
         "definition": "yesterday"
     },
     {
-        "vocab": "Abend",
+        "word": "Abend",
         "pos": "Noun",
         "definition": "evening"
     },
     {
-        "vocab": "Gemeinsam",
+        "word": "Gemeinsam",
         "pos": "Adjective",
         "definition": "common"
     },
     {
-        "vocab": "Chance",
+        "word": "Chance",
         "pos": "Noun",
         "definition": "chance",
         "description": "“Chance” is a word that the German language has borrowed from French. In fact,\r\n this word appears among the most common French words."
     },
     {
-        "vocab": "Hilfe",
+        "word": "Hilfe",
         "pos": "Noun",
         "definition": "help"
     },
     {
-        "vocab": "Kritik",
+        "word": "Kritik",
         "pos": "Noun",
         "definition": "criticism"
     },
     {
-        "vocab": "Firma",
+        "word": "Firma",
         "pos": "Noun",
         "definition": "company"
     },
     {
-        "vocab": "Anbieten",
+        "word": "Anbieten",
         "pos": "Verb",
         "definition": "to offer",
         "description": "“Anbieten” is a separable verb which means that in simple tenses the prefix “an-”\r\n is separated and placed at the end of the sentence. For more about this, see this guide to German prefix verbs."
     },
     {
-        "vocab": "Schaden",
+        "word": "Schaden",
         "pos": "Noun",
         "definition": "damage"
     },
     {
-        "vocab": "Politisch",
+        "word": "Politisch",
         "pos": "Adjective",
         "definition": "political"
     },
     {
-        "vocab": "Erneut",
+        "word": "Erneut",
         "pos": "Adjective",
         "definition": "renewed"
     },
     {
-        "vocab": "Klar",
+        "word": "Klar",
         "pos": "Adjective",
         "definition": "clear"
     },
     {
-        "vocab": "Lösung",
+        "word": "Lösung",
         "pos": "Noun",
         "definition": "solution",
         "description": "The noun “Lösung” is derived from the verb “lösen,” which means “to loosen” or\r\n “to solve.” The etymology of this word draws a connection between untangling or loosening a knot and\r\n discovering a solution to a problem."
     },
     {
-        "vocab": "Europäisch",
+        "word": "Europäisch",
         "pos": "Adjective",
         "definition": "European"
     },
     {
-        "vocab": "April",
+        "word": "April",
         "pos": "Noun",
         "definition": "April"
     },
     {
-        "vocab": "Veranstaltung",
+        "word": "Veranstaltung",
         "pos": "Noun",
         "definition": "event"
     },
     {
-        "vocab": "Situation",
+        "word": "Situation",
         "pos": "Noun",
         "definition": "situation"
     },
     {
-        "vocab": "Feiern",
+        "word": "Feiern",
         "pos": "Verb",
         "definition": "to celebrate"
     },
     {
-        "vocab": "Film",
+        "word": "Film",
         "pos": "Noun",
         "definition": "film"
     },
     {
-        "vocab": "Sache",
+        "word": "Sache",
         "pos": "Noun",
         "definition": "thing, affair"
     },
     {
-        "vocab": "Bauen",
+        "word": "Bauen",
         "pos": "Verb",
         "definition": "to build"
     },
     {
-        "vocab": "Trotzdem",
+        "word": "Trotzdem",
         "pos": "Adverb",
         "definition": "anyhow"
     },
     {
-        "vocab": "Möchten",
+        "word": "Möchten",
         "pos": "Verb",
         "definition": "to want"
     },
     {
-        "vocab": "Sitzen",
+        "word": "Sitzen",
         "pos": "Verb",
         "definition": "to sit"
     },
     {
-        "vocab": "Oktober",
+        "word": "Oktober",
         "pos": "Noun",
         "definition": "October"
     },
     {
-        "vocab": "Komplett",
+        "word": "Komplett",
         "pos": "Adjective",
         "definition": "complete"
     },
     {
-        "vocab": "Blick",
+        "word": "Blick",
         "pos": "Noun",
         "definition": "glance"
     },
     {
-        "vocab": "Wasser",
+        "word": "Wasser",
         "pos": "Noun",
         "definition": "water"
     },
     {
-        "vocab": "Denken",
+        "word": "Denken",
         "pos": "Verb",
         "definition": "to think"
     },
     {
-        "vocab": "Betreffen",
+        "word": "Betreffen",
         "pos": "Verb",
         "definition": "to concern"
     },
     {
-        "vocab": "Warum",
+        "word": "Warum",
         "pos": "Adverb",
         "definition": "why"
     },
     {
-        "vocab": "Bald",
+        "word": "Bald",
         "pos": "Adverb",
         "definition": "soon"
     },
     {
-        "vocab": "Januar",
+        "word": "Januar",
         "pos": "Noun",
         "definition": "January"
     },
     {
-        "vocab": "Geschäft",
+        "word": "Geschäft",
         "pos": "Noun",
         "definition": "business"
     },
     {
-        "vocab": "Kirche",
+        "word": "Kirche",
         "pos": "Noun",
         "definition": "church"
     },
     {
-        "vocab": "Aufgabe",
+        "word": "Aufgabe",
         "pos": "Noun",
         "definition": "task"
     },
     {
-        "vocab": "Gegenüber",
+        "word": "Gegenüber",
         "pos": "Preposition",
         "definition": "opposite to"
     },
     {
-        "vocab": "Folgend",
+        "word": "Folgend",
         "pos": "Adjective",
         "definition": "following"
     },
     {
-        "vocab": "Montag",
+        "word": "Montag",
         "pos": "Noun",
         "definition": "Monday"
     },
     {
-        "vocab": "Wirken",
+        "word": "Wirken",
         "pos": "Verb",
         "definition": "to function"
     },
     {
-        "vocab": "Benötigen",
+        "word": "Benötigen",
         "pos": "Verb",
         "definition": "to require"
     },
     {
-        "vocab": "Idee",
+        "word": "Idee",
         "pos": "Noun",
         "definition": "idea"
     },
     {
-        "vocab": "Vorsehen",
+        "word": "Vorsehen",
         "pos": "Verb",
         "definition": "to plan, to provide"
     },
     {
-        "vocab": "Öffnen",
+        "word": "Öffnen",
         "pos": "Verb",
         "definition": "to open"
     },
     {
-        "vocab": "Titel",
+        "word": "Titel",
         "pos": "Noun",
         "definition": "title"
     },
     {
-        "vocab": "Bedeuten",
+        "word": "Bedeuten",
         "pos": "Verb",
         "definition": "to mean"
     },
     {
-        "vocab": "Juni",
+        "word": "Juni",
         "pos": "Noun",
         "definition": "June"
     },
     {
-        "vocab": "Sonntag",
+        "word": "Sonntag",
         "pos": "Noun",
         "definition": "Sunday"
     },
     {
-        "vocab": "Auto",
+        "word": "Auto",
         "pos": "Noun",
         "definition": "car",
         "description": "“Auto” is a frequently-used German word because automobile manufacturing is a big\r\n industry in Germany with renowned brands such as Mercedes-Benz, BMW, Audi, and Volkswagen."
     },
     {
-        "vocab": "Fahrzeug",
+        "word": "Fahrzeug",
         "pos": "Noun",
         "definition": "vehicle",
         "description": "The German word “Fahrzeug” is a compound noun composed of two parts: “fahren,”\r\n which means “to drive,” and “Zeug,” which translates to “thing”."
     },
     {
-        "vocab": "Reagieren",
+        "word": "Reagieren",
         "pos": "Verb",
         "definition": "to react"
     },
     {
-        "vocab": "Gebäude",
+        "word": "Gebäude",
         "pos": "Noun",
         "definition": "building"
     },
     {
-        "vocab": "Abschließen",
+        "word": "Abschließen",
         "pos": "Verb",
         "definition": "to end"
     },
     {
-        "vocab": "Schlagen",
+        "word": "Schlagen",
         "pos": "Verb",
         "definition": "to hit"
     },
     {
-        "vocab": "Bestimmen",
+        "word": "Bestimmen",
         "pos": "Verb",
         "definition": "to determine"
     },
     {
-        "vocab": "März",
+        "word": "März",
         "pos": "Noun",
         "definition": "March"
     },
     {
-        "vocab": "Verfahren",
+        "word": "Verfahren",
         "pos": "Noun",
         "definition": "procedure"
     },
     {
-        "vocab": "Laut",
+        "word": "Laut",
         "pos": "Adjective",
         "definition": "noisy"
     },
     {
-        "vocab": "Erfolgreich",
+        "word": "Erfolgreich",
         "pos": "Adjective",
         "definition": "successful"
     },
     {
-        "vocab": "Raum",
+        "word": "Raum",
         "pos": "Noun",
         "definition": "room"
     },
     {
-        "vocab": "Schritt",
+        "word": "Schritt",
         "pos": "Noun",
         "definition": "step"
     },
     {
-        "vocab": "Wahl",
+        "word": "Wahl",
         "pos": "Noun",
         "definition": "election",
         "description": "In the German language, the term “Wahl” can refer to both a choice or selection\r\n as well as to an electoral process."
     },
     {
-        "vocab": "Gemeinde",
+        "word": "Gemeinde",
         "pos": "Noun",
         "definition": "municipality"
     },
     {
-        "vocab": "Völlig",
+        "word": "Völlig",
         "pos": "Adjective",
         "definition": "complete"
     },
     {
-        "vocab": "Sechs",
+        "word": "Sechs",
         "pos": "Numeral",
         "definition": "six"
     },
     {
-        "vocab": "Gering",
+        "word": "Gering",
         "pos": "Adjective",
         "definition": "little"
     },
     {
-        "vocab": "Endlich",
+        "word": "Endlich",
         "pos": "Adjective",
         "definition": "finite"
     },
     {
-        "vocab": "Anfang",
+        "word": "Anfang",
         "pos": "Noun",
         "definition": "beginning"
     },
     {
-        "vocab": "Einsetzen",
+        "word": "Einsetzen",
         "pos": "Verb",
         "definition": "to put in"
     },
     {
-        "vocab": "Innerhalb",
+        "word": "Innerhalb",
         "pos": "Preposition",
         "definition": "inside"
     },
     {
-        "vocab": "Gast",
+        "word": "Gast",
         "pos": "Noun",
         "definition": "guest"
     },
     {
-        "vocab": "Zehn",
+        "word": "Zehn",
         "pos": "Numeral",
         "definition": "ten"
     },
     {
-        "vocab": "Lediglich",
+        "word": "Lediglich",
         "pos": "Adverb",
         "definition": "merely"
     },
     {
-        "vocab": "Wunsch",
+        "word": "Wunsch",
         "pos": "Noun",
         "definition": "wish"
     },
     {
-        "vocab": "Kurs",
+        "word": "Kurs",
         "pos": "Noun",
         "definition": "course"
     },
     {
-        "vocab": "Pro",
+        "word": "Pro",
         "pos": "Preposition",
         "definition": "per"
     },
     {
-        "vocab": "Termin",
+        "word": "Termin",
         "pos": "Noun",
         "definition": "date"
     },
     {
-        "vocab": "Wenig",
+        "word": "Wenig",
         "pos": "Adjective",
         "definition": "little"
     },
     {
-        "vocab": "Eben",
+        "word": "Eben",
         "pos": "Adjective",
         "definition": "flat"
     },
     {
-        "vocab": "Ähnlich",
+        "word": "Ähnlich",
         "pos": "Adjective",
         "definition": "similar"
     },
     {
-        "vocab": "System",
+        "word": "System",
         "pos": "Noun",
         "definition": "system"
     },
     {
-        "vocab": "Schüler",
+        "word": "Schüler",
         "pos": "Noun",
         "definition": "student"
     },
     {
-        "vocab": "Erfahrung",
+        "word": "Erfahrung",
         "pos": "Noun",
         "definition": "experience"
     },
     {
-        "vocab": "Schwierig",
+        "word": "Schwierig",
         "pos": "Adjective",
         "definition": "difficult"
     },
     {
-        "vocab": "Opfer",
+        "word": "Opfer",
         "pos": "Noun",
         "definition": "victim"
     },
     {
-        "vocab": "Darauf",
+        "word": "Darauf",
         "pos": "Adverb",
         "definition": "upon that, after that"
     },
     {
-        "vocab": "Teilnehmer",
+        "word": "Teilnehmer",
         "pos": "Noun",
         "definition": "participant"
     },
     {
-        "vocab": "Informieren",
+        "word": "Informieren",
         "pos": "Verb",
         "definition": "to inform"
     },
     {
-        "vocab": "Meter",
+        "word": "Meter",
         "pos": "Noun",
         "definition": "meter"
     },
     {
-        "vocab": "Politik",
+        "word": "Politik",
         "pos": "Noun",
         "definition": "politics"
     },
     {
-        "vocab": "Sonst",
+        "word": "Sonst",
         "pos": "Adverb",
         "definition": "otherwise"
     },
     {
-        "vocab": "Fragen",
+        "word": "Fragen",
         "pos": "Verb",
         "definition": "to ask"
     },
     {
-        "vocab": "Tier",
+        "word": "Tier",
         "pos": "Noun",
         "definition": "animal"
     },
     {
-        "vocab": "Stammen",
+        "word": "Stammen",
         "pos": "Verb",
         "definition": "to descend"
     },
     {
-        "vocab": "Bericht",
+        "word": "Bericht",
         "pos": "Noun",
         "definition": "report"
     },
     {
-        "vocab": "Ermitteln",
+        "word": "Ermitteln",
         "pos": "Verb",
         "definition": "to ascertain"
     },
     {
-        "vocab": "Plan",
+        "word": "Plan",
         "pos": "Noun",
         "definition": "plan"
     },
     {
-        "vocab": "Beenden",
+        "word": "Beenden",
         "pos": "Verb",
         "definition": "to finish"
     },
     {
-        "vocab": "Mittlerweile",
+        "word": "Mittlerweile",
         "pos": "Adverb",
         "definition": "meanwhile"
     },
     {
-        "vocab": "Regel",
+        "word": "Regel",
         "pos": "Noun",
         "definition": "rule"
     },
     {
-        "vocab": "Gelingen",
+        "word": "Gelingen",
         "pos": "Verb",
         "definition": "to succeed"
     },
     {
-        "vocab": "Allein",
+        "word": "Allein",
         "pos": "Adjective",
         "definition": "alone"
     },
     {
-        "vocab": "Eltern",
+        "word": "Eltern",
         "pos": "Noun",
         "definition": "parent"
     },
     {
-        "vocab": "Gebären",
+        "word": "Gebären",
         "pos": "Verb",
         "definition": "to give birth"
     },
     {
-        "vocab": "Auge",
+        "word": "Auge",
         "pos": "Noun",
         "definition": "eye"
     },
     {
-        "vocab": "Urteil",
+        "word": "Urteil",
         "pos": "Noun",
         "definition": "judgment"
     },
     {
-        "vocab": "Beschäftigen",
+        "word": "Beschäftigen",
         "pos": "Verb",
         "definition": "to occupy, to employ"
     },
     {
-        "vocab": "November",
+        "word": "November",
         "pos": "Noun",
         "definition": "November"
     },
     {
-        "vocab": "Jeweils",
+        "word": "Jeweils",
         "pos": "Adverb",
         "definition": "in each case"
     },
     {
-        "vocab": "Musik",
+        "word": "Musik",
         "pos": "Noun",
         "definition": "music",
         "description": "“Musik” is a common German word because for centuries music has held a\r\n significant place in Germany and in neighboring German-speaking countries, such as Austria. German\r\n composers such as Johann Sebastian Bach and Ludwig van Beethoven are known worldwide. And Mozart's\r\n native language was German, as he resided in an area that later became Austria."
     },
     {
-        "vocab": "Dienen",
+        "word": "Dienen",
         "pos": "Verb",
         "definition": "to serve"
     },
     {
-        "vocab": "Öffentlich",
+        "word": "Öffentlich",
         "pos": "Adjective",
         "definition": "public"
     },
     {
-        "vocab": "Berliner",
+        "word": "Berliner",
         "pos": "Noun",
         "definition": "Berliner",
         "description": "The word “Berliner” refers to a person from Berlin, the capital of Germany. This\r\n word appeared in the famous speech made by President John F. Kennedy in Berlin in 1963 in which he\r\n declared, “Ich bin ein Berliner” (which means “I am a Berliner”). This statement expressed solidarity\r\n and support for the people of Berlin during the Cold War."
     },
     {
-        "vocab": "Hart",
+        "word": "Hart",
         "pos": "Adjective",
         "definition": "hard"
     },
     {
-        "vocab": "Höhe",
+        "word": "Höhe",
         "pos": "Noun",
         "definition": "height"
     },
     {
-        "vocab": "Durchführen",
+        "word": "Durchführen",
         "pos": "Verb",
         "definition": "to perform"
     },
     {
-        "vocab": "Herrschen",
+        "word": "Herrschen",
         "pos": "Verb",
         "definition": "to rule"
     },
     {
-        "vocab": "Eröffnen",
+        "word": "Eröffnen",
         "pos": "Verb",
         "definition": "to open"
     },
     {
-        "vocab": "Stimmen",
+        "word": "Stimmen",
         "pos": "Verb",
         "definition": "to be right"
     },
     {
-        "vocab": "Gar",
+        "word": "Gar",
         "pos": "Adverb",
         "definition": "at all, even"
     },
     {
-        "vocab": "Meist",
+        "word": "Meist",
         "pos": "Adjective",
         "definition": "most of"
     },
     {
-        "vocab": "Besucher",
+        "word": "Besucher",
         "pos": "Noun",
         "definition": "visitor"
     },
     {
-        "vocab": "Verhindern",
+        "word": "Verhindern",
         "pos": "Verb",
         "definition": "to prevent"
     },
     {
-        "vocab": "Staat",
+        "word": "Staat",
         "pos": "Noun",
         "definition": "state"
     },
     {
-        "vocab": "Mittwoch",
+        "word": "Mittwoch",
         "pos": "Noun",
         "definition": "Wednesday"
     },
     {
-        "vocab": "Verbinden",
+        "word": "Verbinden",
         "pos": "Verb",
         "definition": "to join"
     },
     {
-        "vocab": "Geschehen",
+        "word": "Geschehen",
         "pos": "Verb",
         "definition": "to happen"
     },
     {
-        "vocab": "Echt",
+        "word": "Echt",
         "pos": "Adjective",
         "definition": "authentic"
     },
     {
-        "vocab": "Februar",
+        "word": "Februar",
         "pos": "Noun",
         "definition": "February"
     },
     {
-        "vocab": "Aufnehmen",
+        "word": "Aufnehmen",
         "pos": "Verb",
         "definition": "to pick up"
     },
     {
-        "vocab": "Euch",
+        "word": "Euch",
         "pos": "Pronoun",
         "definition": "you"
     },
     {
-        "vocab": "Kopf",
+        "word": "Kopf",
         "pos": "Noun",
         "definition": "head"
     },
     {
-        "vocab": "Modern",
+        "word": "Modern",
         "pos": "Verb",
         "definition": "to decay, to rot"
     },
     {
-        "vocab": "Verfügen",
+        "word": "Verfügen",
         "pos": "Verb",
         "definition": "to decree"
     },
     {
-        "vocab": "Gericht",
+        "word": "Gericht",
         "pos": "Noun",
         "definition": "court"
     },
     {
-        "vocab": "Kostenlos",
+        "word": "Kostenlos",
         "pos": "Adjective",
         "definition": "without cost",
         "description": "The adjective “kostenlos” is formed by applying the suffix -los (which\r\n means “without”) to the noun Kosten which means “costs”. Consequently, this word literally means\r\n “without cost”."
     },
     {
-        "vocab": "Melden",
+        "word": "Melden",
         "pos": "Verb",
         "definition": "to report"
     },
     {
-        "vocab": "Dienstag",
+        "word": "Dienstag",
         "pos": "Noun",
         "definition": "Tuesday"
     },
     {
-        "vocab": "Grenze",
+        "word": "Grenze",
         "pos": "Noun",
         "definition": "border"
     },
     {
-        "vocab": "Einzig",
+        "word": "Einzig",
         "pos": "Adjective",
         "definition": "only"
     },
     {
-        "vocab": "Hinzu",
+        "word": "Hinzu",
         "pos": "Adverb",
         "definition": "in addition"
     },
     {
-        "vocab": "Interessant",
+        "word": "Interessant",
         "pos": "Adjective",
         "definition": "interesting"
     },
     {
-        "vocab": "August",
+        "word": "August",
         "pos": "Noun",
         "definition": "August"
     },
     {
-        "vocab": "Interesse",
+        "word": "Interesse",
         "pos": "Noun",
         "definition": "interest"
     },
     {
-        "vocab": "Juli",
+        "word": "Juli",
         "pos": "Noun",
         "definition": "July"
     },
     {
-        "vocab": "Art",
+        "word": "Art",
         "pos": "Noun",
         "definition": "kind",
         "description": "The German word “Art” translates to “type,” “kind,” or “manner” in English. It\r\n can refer to a specific way of doing something. This term appears in compound nouns such as “Denkart”\r\n (way of thinking) and “Lebensart” (way of life)."
     },
     {
-        "vocab": "Zwar",
+        "word": "Zwar",
         "pos": "Adverb",
         "definition": "namely"
     },
     {
-        "vocab": "Zahlen",
+        "word": "Zahlen",
         "pos": "Verb",
         "definition": "to pay"
     },
     {
-        "vocab": "Vertrag",
+        "word": "Vertrag",
         "pos": "Noun",
         "definition": "contract"
     },
     {
-        "vocab": "Erforderlich",
+        "word": "Erforderlich",
         "pos": "Adjective",
         "definition": "necessary"
     },
     {
-        "vocab": "Leistung",
+        "word": "Leistung",
         "pos": "Noun",
         "definition": "performance"
     },
     {
-        "vocab": "Druck",
+        "word": "Druck",
         "pos": "Noun",
         "definition": "pressure"
     },
     {
-        "vocab": "Brechen",
+        "word": "Brechen",
         "pos": "Verb",
         "definition": "to break"
     },
     {
-        "vocab": "Text",
+        "word": "Text",
         "pos": "Noun",
         "definition": "text"
     },
     {
-        "vocab": "Zuvor",
+        "word": "Zuvor",
         "pos": "Adverb",
         "definition": "before"
     },
     {
-        "vocab": "Leute",
+        "word": "Leute",
         "pos": "Noun",
         "definition": "people"
     },
     {
-        "vocab": "Dezember",
+        "word": "Dezember",
         "pos": "Noun",
         "definition": "December"
     },
     {
-        "vocab": "Spaß",
+        "word": "Spaß",
         "pos": "Noun",
         "definition": "fun"
     },
     {
-        "vocab": "Foto",
+        "word": "Foto",
         "pos": "Noun",
         "definition": "photo"
     },
     {
-        "vocab": "Liefern",
+        "word": "Liefern",
         "pos": "Verb",
         "definition": "to supply"
     },
     {
-        "vocab": "Partei",
+        "word": "Partei",
         "pos": "Noun",
         "definition": "party"
     },
     {
-        "vocab": "Mark",
+        "word": "Mark",
         "pos": "Noun",
         "definition": "mark"
     },
     {
-        "vocab": "Feuerwehr",
+        "word": "Feuerwehr",
         "pos": "Noun",
         "definition": "fire brigade",
         "description": "The German noun “Feuerwehr” translates to “fire brigade” in English. It is a\r\n compound word consisting of “Feuer” meaning “fire” and “Wehr” meaning “defense”."
     },
     {
-        "vocab": "Stecken",
+        "word": "Stecken",
         "pos": "Verb",
         "definition": "to put"
     },
     {
-        "vocab": "Falsch",
+        "word": "Falsch",
         "pos": "Adjective",
         "definition": "false"
     },
     {
-        "vocab": "Angst",
+        "word": "Angst",
         "pos": "Noun",
         "definition": "fear"
     },
     {
-        "vocab": "Inhalt",
+        "word": "Inhalt",
         "pos": "Noun",
         "definition": "content"
     },
     {
-        "vocab": "Besitzen",
+        "word": "Besitzen",
         "pos": "Verb",
         "definition": "to own"
     },
     {
-        "vocab": "Verändern",
+        "word": "Verändern",
         "pos": "Verb",
         "definition": "to change"
     },
     {
-        "vocab": "Region",
+        "word": "Region",
         "pos": "Noun",
         "definition": "region"
     },
     {
-        "vocab": "Funktionieren",
+        "word": "Funktionieren",
         "pos": "Verb",
         "definition": "to work"
     },
     {
-        "vocab": "Veröffentlichen",
+        "word": "Veröffentlichen",
         "pos": "Verb",
         "definition": "to publish"
     },
     {
-        "vocab": "Gesellschaft",
+        "word": "Gesellschaft",
         "pos": "Noun",
         "definition": "society"
     },
     {
-        "vocab": "Spieler",
+        "word": "Spieler",
         "pos": "Noun",
         "definition": "player"
     },
     {
-        "vocab": "Vorhanden",
+        "word": "Vorhanden",
         "pos": "Adjective",
         "definition": "available"
     },
     {
-        "vocab": "Homepage",
+        "word": "Homepage",
         "pos": "Noun",
         "definition": "website"
     },
     {
-        "vocab": "Schauen",
+        "word": "Schauen",
         "pos": "Verb",
         "definition": "to look"
     },
     {
-        "vocab": "Zähler",
+        "word": "Zähler",
         "pos": "Noun",
         "definition": "counter"
     },
     {
-        "vocab": "Stimme",
+        "word": "Stimme",
         "pos": "Noun",
         "definition": "voice, vote"
     },
     {
-        "vocab": "Manchmal",
+        "word": "Manchmal",
         "pos": "Adverb",
         "definition": "sometimes"
     },
     {
-        "vocab": "Detail",
+        "word": "Detail",
         "pos": "Noun",
         "definition": "detail"
     },
     {
-        "vocab": "Lehnen",
+        "word": "Lehnen",
         "pos": "Verb",
         "definition": "to lean"
     },
     {
-        "vocab": "Einstellen",
+        "word": "Einstellen",
         "pos": "Verb",
         "definition": "to set up"
     },
     {
-        "vocab": "Schätzen",
+        "word": "Schätzen",
         "pos": "Verb",
         "definition": "to estimate"
     },
     {
-        "vocab": "Acht",
+        "word": "Acht",
         "pos": "Numeral",
         "definition": "eight"
     },
     {
-        "vocab": "Antrag",
+        "word": "Antrag",
         "pos": "Noun",
         "definition": "request"
     },
     {
-        "vocab": "Lange",
+        "word": "Lange",
         "pos": "Adverb",
         "definition": "long"
     },
     {
-        "vocab": "Anlage",
+        "word": "Anlage",
         "pos": "Noun",
         "definition": "facility"
     },
     {
-        "vocab": "Scheinen",
+        "word": "Scheinen",
         "pos": "Verb",
         "definition": "to shine"
     },
     {
-        "vocab": "Jedenfalls",
+        "word": "Jedenfalls",
         "pos": "Adverb",
         "definition": "in any case"
     },
     {
-        "vocab": "Überhaupt",
+        "word": "Überhaupt",
         "pos": "Adverb",
         "definition": "at all"
     },
     {
-        "vocab": "Hoffen",
+        "word": "Hoffen",
         "pos": "Verb",
         "definition": "to hope"
     },
     {
-        "vocab": "Jeweilig",
+        "word": "Jeweilig",
         "pos": "Adjective",
         "definition": "respective"
     },
     {
-        "vocab": "Persönlich",
+        "word": "Persönlich",
         "pos": "Adjective",
         "definition": "personal"
     },
     {
-        "vocab": "Vorwurf",
+        "word": "Vorwurf",
         "pos": "Noun",
         "definition": "accusation"
     },
     {
-        "vocab": "Knapp",
+        "word": "Knapp",
         "pos": "Adjective",
         "definition": "scarce"
     },
     {
-        "vocab": "Lösen",
+        "word": "Lösen",
         "pos": "Verb",
         "definition": "to solve, to loosen"
     },
     {
-        "vocab": "Sicherheit",
+        "word": "Sicherheit",
         "pos": "Noun",
         "definition": "safety"
     },
     {
-        "vocab": "Studie",
+        "word": "Studie",
         "pos": "Noun",
         "definition": "study"
     },
     {
-        "vocab": "Produkt",
+        "word": "Produkt",
         "pos": "Noun",
         "definition": "product"
     },
     {
-        "vocab": "Gleichzeitig",
+        "word": "Gleichzeitig",
         "pos": "Adjective",
         "definition": "simultaneous"
     },
     {
-        "vocab": "Verstehen",
+        "word": "Verstehen",
         "pos": "Verb",
         "definition": "to understand"
     },
     {
-        "vocab": "Untersuchung",
+        "word": "Untersuchung",
         "pos": "Noun",
         "definition": "investigation",
         "description": "The noun Untersuchung is derived from the verb untersuchen (which\r\n means “to investigate”)."
     },
     {
-        "vocab": "Ermöglichen",
+        "word": "Ermöglichen",
         "pos": "Verb",
         "definition": "to make possible"
     },
     {
-        "vocab": "Karte",
+        "word": "Karte",
         "pos": "Noun",
         "definition": "card"
     },
     {
-        "vocab": "Jahrhundert",
+        "word": "Jahrhundert",
         "pos": "Noun",
         "definition": "century",
         "description": "“Jahrhundert” is another German compound noun. It is formed from Jahr\r\n (“year”) and Hundert (“hundred”)."
     },
     {
-        "vocab": "Jugendliche",
+        "word": "Jugendliche",
         "pos": "Adjective",
         "definition": "youthful"
     },
     {
-        "vocab": "Toll",
+        "word": "Toll",
         "pos": "Adjective",
         "definition": "great"
     },
     {
-        "vocab": "Beitrag",
+        "word": "Beitrag",
         "pos": "Noun",
         "definition": "contribution"
     },
     {
-        "vocab": "Hängen",
+        "word": "Hängen",
         "pos": "Verb",
         "definition": "to hang"
     },
     {
-        "vocab": "Betrieb",
+        "word": "Betrieb",
         "pos": "Noun",
         "definition": "operation"
     },
     {
-        "vocab": "Richten",
+        "word": "Richten",
         "pos": "Verb",
         "definition": "to direct"
     },
     {
-        "vocab": "Diesmal",
+        "word": "Diesmal",
         "pos": "Adverb",
         "definition": "this time"
     },
     {
-        "vocab": "Tür",
+        "word": "Tür",
         "pos": "Noun",
         "definition": "door"
     },
     {
-        "vocab": "Umfassen",
+        "word": "Umfassen",
         "pos": "Verb",
         "definition": "to encompass"
     },
     {
-        "vocab": "Vorbei",
+        "word": "Vorbei",
         "pos": "Adjective",
         "definition": "over"
     },
     {
-        "vocab": "Notwendig",
+        "word": "Notwendig",
         "pos": "Adjective",
         "definition": "necessary"
     },
     {
-        "vocab": "Sieben",
+        "word": "Sieben",
         "pos": "Numeral",
         "definition": "seven"
     },
     {
-        "vocab": "Hören",
+        "word": "Hören",
         "pos": "Verb",
         "definition": "to hear"
     },
     {
-        "vocab": "Niemand",
+        "word": "Niemand",
         "pos": "Pronoun",
         "definition": "nobody"
     },
     {
-        "vocab": "Vorschlag",
+        "word": "Vorschlag",
         "pos": "Noun",
         "definition": "proposal"
     },
     {
-        "vocab": "Dein",
+        "word": "Dein",
         "pos": "Pronoun",
         "definition": "your"
     },
     {
-        "vocab": "Erkennen",
+        "word": "Erkennen",
         "pos": "Verb",
         "definition": "to recognize"
     },
     {
-        "vocab": "Erheblich",
+        "word": "Erheblich",
         "pos": "Adjective",
         "definition": "considerable"
     },
     {
-        "vocab": "Verbessern",
+        "word": "Verbessern",
         "pos": "Verb",
         "definition": "to enhance"
     },
     {
-        "vocab": "Maßnahme",
+        "word": "Maßnahme",
         "pos": "Noun",
         "definition": "measure, tactic"
     },
     {
-        "vocab": "Langsam",
+        "word": "Langsam",
         "pos": "Adjective",
         "definition": "slow"
     },
     {
-        "vocab": "Vorstand",
+        "word": "Vorstand",
         "pos": "Noun",
         "definition": "board of directors"
     },
     {
-        "vocab": "Beamter",
+        "word": "Beamter",
         "pos": "Noun",
         "definition": "officer"
     },
     {
-        "vocab": "Papier",
+        "word": "Papier",
         "pos": "Noun",
         "definition": "paper"
     },
     {
-        "vocab": "Absolut",
+        "word": "Absolut",
         "pos": "Adjective",
         "definition": "absolute"
     },
     {
-        "vocab": "Tor",
+        "word": "Tor",
         "pos": "Noun",
         "definition": "gate",
         "description": "“Tor” is a German word that means “gate” or “archway”. This word appears, for\r\n example, in the name of a historical monument, the “Brandenburger Tor” —also known as the Brandenburg\r\n Gate— which is located in the heart of Berlin, Germany. It was constructed in the neoclassical\r\n architectural style, inspired by the Acropolis in Athens, and it features a statue of a chariot drawn by\r\n four horses on top."
     },
     {
-        "vocab": "Gesetz",
+        "word": "Gesetz",
         "pos": "Noun",
         "definition": "law"
     },
     {
-        "vocab": "Arzt",
+        "word": "Arzt",
         "pos": "Noun",
         "definition": "doctor"
     },
     {
-        "vocab": "Gesicht",
+        "word": "Gesicht",
         "pos": "Noun",
         "definition": "face"
     },
     {
-        "vocab": "Nacht",
+        "word": "Nacht",
         "pos": "Noun",
         "definition": "night"
     },
     {
-        "vocab": "Konzern",
+        "word": "Konzern",
         "pos": "Noun",
         "definition": "business group"
     },
     {
-        "vocab": "Qualität",
+        "word": "Qualität",
         "pos": "Noun",
         "definition": "quality"
     },
     {
-        "vocab": "Je",
+        "word": "Je",
         "pos": "Adverb",
         "definition": "ever"
     },
     {
-        "vocab": "Ansonsten",
+        "word": "Ansonsten",
         "pos": "Adverb",
         "definition": "otherwise"
     },
     {
-        "vocab": "Speziell",
+        "word": "Speziell",
         "pos": "Adjective",
         "definition": "special"
     },
     {
-        "vocab": "Besuchen",
+        "word": "Besuchen",
         "pos": "Verb",
         "definition": "to visit"
     },
     {
-        "vocab": "Darüber",
+        "word": "Darüber",
         "pos": "Adverb",
         "definition": "above it, about it"
     },
     {
-        "vocab": "Gerät",
+        "word": "Gerät",
         "pos": "Noun",
         "definition": "device"
     },
     {
-        "vocab": "Teilweise",
+        "word": "Teilweise",
         "pos": "Adverb",
         "definition": "partially",
         "description": "The adverb teilweise is formed by adding the suffix -weise to the\r\n noun Teil (which means part “part”). This is covered in more detail in this guide to German adverbs."
     },
     {
-        "vocab": "Samstag",
+        "word": "Samstag",
         "pos": "Noun",
         "definition": "Saturday"
     },
     {
-        "vocab": "Offiziell",
+        "word": "Offiziell",
         "pos": "Adjective",
         "definition": "official"
     },
     {
-        "vocab": "Verhandlung",
+        "word": "Verhandlung",
         "pos": "Noun",
         "definition": "negotiation"
     },
     {
-        "vocab": "Rest",
+        "word": "Rest",
         "pos": "Noun",
         "definition": "rest"
     },
     {
-        "vocab": "Selten",
+        "word": "Selten",
         "pos": "Adjective",
         "definition": "rare"
     },
     {
-        "vocab": "Verkaufen",
+        "word": "Verkaufen",
         "pos": "Verb",
         "definition": "to sell"
     },
     {
-        "vocab": "Unterstützung",
+        "word": "Unterstützung",
         "pos": "Noun",
         "definition": "support"
     },
     {
-        "vocab": "Rein",
+        "word": "Rein",
         "pos": "Adjective",
         "definition": "pure"
     },
     {
-        "vocab": "Präsentieren",
+        "word": "Präsentieren",
         "pos": "Verb",
         "definition": "to present"
     },
     {
-        "vocab": "Rufen",
+        "word": "Rufen",
         "pos": "Verb",
         "definition": "to call"
     },
     {
-        "vocab": "Wohnung",
+        "word": "Wohnung",
         "pos": "Noun",
         "definition": "residence, apartment"
     },
     {
-        "vocab": "Union",
+        "word": "Union",
         "pos": "Noun",
         "definition": "union"
     },
     {
-        "vocab": "Auswahl",
+        "word": "Auswahl",
         "pos": "Noun",
         "definition": "selection"
     },
     {
-        "vocab": "Bestimmt",
+        "word": "Bestimmt",
         "pos": "Adjective",
         "definition": "certain"
     },
     {
-        "vocab": "Sieg",
+        "word": "Sieg",
         "pos": "Noun",
         "definition": "victory"
     },
     {
-        "vocab": "Kündigen",
+        "word": "Kündigen",
         "pos": "Verb",
         "definition": "to give notice, to cancel a contract"
     },
     {
-        "vocab": "Konzept",
+        "word": "Konzept",
         "pos": "Noun",
         "definition": "concept"
     },
     {
-        "vocab": "Börse",
+        "word": "Börse",
         "pos": "Noun",
         "definition": "stock exchange"
     },
     {
-        "vocab": "Fahrer",
+        "word": "Fahrer",
         "pos": "Noun",
         "definition": "driver"
     },
     {
-        "vocab": "Mädchen",
+        "word": "Mädchen",
         "pos": "Noun",
         "definition": "girl",
         "description": "The German word “Mädchen” means “girl”. It is derived from the High German noun\r\n “Magd” which means “maid” plus the diminutive “-chen”. Here, by adding this diminutive the grammatical\r\n gender of this word changes from feminine to neuter. In fact, the gender of German nouns is often related to the word\r\n ending."
     },
     {
-        "vocab": "Ermittlung",
+        "word": "Ermittlung",
         "pos": "Noun",
         "definition": "investigation"
     },
     {
-        "vocab": "Per",
+        "word": "Per",
         "pos": "Preposition",
         "definition": "by"
     },
     {
-        "vocab": "Hintergrund",
+        "word": "Hintergrund",
         "pos": "Noun",
         "definition": "background"
     },
     {
-        "vocab": "Kraft",
+        "word": "Kraft",
         "pos": "Noun",
         "definition": "power"
     },
     {
-        "vocab": "Form",
+        "word": "Form",
         "pos": "Noun",
         "definition": "form"
     },
     {
-        "vocab": "Nämlich",
+        "word": "Nämlich",
         "pos": "Adjective",
         "definition": "same"
     },
     {
-        "vocab": "Bundesregierung",
+        "word": "Bundesregierung",
         "pos": "Noun",
         "definition": "federal government"
     },
     {
-        "vocab": "Krieg",
+        "word": "Krieg",
         "pos": "Noun",
         "definition": "war"
     },
     {
-        "vocab": "Sichern",
+        "word": "Sichern",
         "pos": "Verb",
         "definition": "to secure"
     },
     {
-        "vocab": "Weltweit",
+        "word": "Weltweit",
         "pos": "Adjective",
         "definition": "worldwide"
     },
     {
-        "vocab": "Mutter",
+        "word": "Mutter",
         "pos": "Noun",
         "definition": "mother"
     },
     {
-        "vocab": "Vorstellen",
+        "word": "Vorstellen",
         "pos": "Verb",
         "definition": "to represent, to introduce"
     },
     {
-        "vocab": "Tat",
+        "word": "Tat",
         "pos": "Noun",
         "definition": "deed"
     },
     {
-        "vocab": "Passieren",
+        "word": "Passieren",
         "pos": "Verb",
         "definition": "to happen"
     },
     {
-        "vocab": "Verlaufen",
+        "word": "Verlaufen",
         "pos": "Verb",
         "definition": "to get lost"
     },
     {
-        "vocab": "Gewinn",
+        "word": "Gewinn",
         "pos": "Noun",
         "definition": "profit"
     },
     {
-        "vocab": "Lernen",
+        "word": "Lernen",
         "pos": "Verb",
         "definition": "to learn"
     },
     {
-        "vocab": "Sperren",
+        "word": "Sperren",
         "pos": "Verb",
         "definition": "to close off, to bar"
     },
     {
-        "vocab": "Verlangen",
+        "word": "Verlangen",
         "pos": "Verb",
         "definition": "to ask for"
     },
     {
-        "vocab": "Individuell",
+        "word": "Individuell",
         "pos": "Adjective",
         "definition": "individual"
     },
     {
-        "vocab": "Ursache",
+        "word": "Ursache",
         "pos": "Noun",
         "definition": "cause"
     },
     {
-        "vocab": "Daraufhin",
+        "word": "Daraufhin",
         "pos": "Adverb",
         "definition": "thereupon"
     },
     {
-        "vocab": "Lesen",
+        "word": "Lesen",
         "pos": "Verb",
         "definition": "to read"
     },
     {
-        "vocab": "Bisherig",
+        "word": "Bisherig",
         "pos": "Adjective",
         "definition": "previous"
     },
     {
-        "vocab": "Deutsche",
+        "word": "Deutsche",
         "pos": "Adjective",
         "definition": "German"
     },
     {
-        "vocab": "Technisch",
+        "word": "Technisch",
         "pos": "Adjective",
         "definition": "technical"
     },
     {
-        "vocab": "Wirtschaft",
+        "word": "Wirtschaft",
         "pos": "Noun",
         "definition": "economy"
     },
     {
-        "vocab": "Erzielen",
+        "word": "Erzielen",
         "pos": "Verb",
         "definition": "to achieve"
     },
     {
-        "vocab": "Entscheidend",
+        "word": "Entscheidend",
         "pos": "Adjective",
         "definition": "decisive"
     },
     {
-        "vocab": "Warnen",
+        "word": "Warnen",
         "pos": "Verb",
         "definition": "to warn"
     },
     {
-        "vocab": "Sprache",
+        "word": "Sprache",
         "pos": "Noun",
         "definition": "language",
         "description": "The German word “Sprache” has similar forms in several other Germanic languages.\r\n In Swedish for instance, the corresponding word is “språk”. See this language comparison of German and\r\n Swedish."
     },
     {
-        "vocab": "Schwerpunkt",
+        "word": "Schwerpunkt",
         "pos": "Noun",
         "definition": "focus"
     },
     {
-        "vocab": "Teuer",
+        "word": "Teuer",
         "pos": "Adjective",
         "definition": "dear"
     },
     {
-        "vocab": "Privat",
+        "word": "Privat",
         "pos": "Adjective",
         "definition": "private"
     },
     {
-        "vocab": "Gestalten",
+        "word": "Gestalten",
         "pos": "Verb",
         "definition": "to shape"
     },
     {
-        "vocab": "Staatsanwaltschaft",
+        "word": "Staatsanwaltschaft",
         "pos": "Noun",
         "definition": "public prosecutor's office"
     },
     {
-        "vocab": "Leiden",
+        "word": "Leiden",
         "pos": "Verb",
         "definition": "to suffer"
     },
     {
-        "vocab": "Gott",
+        "word": "Gott",
         "pos": "Noun",
         "definition": "God"
     },
     {
-        "vocab": "Experte",
+        "word": "Experte",
         "pos": "Noun",
         "definition": "expert"
     },
     {
-        "vocab": "Lage",
+        "word": "Lage",
         "pos": "Noun",
         "definition": "situation"
     },
     {
-        "vocab": "Risiko",
+        "word": "Risiko",
         "pos": "Noun",
         "definition": "risk"
     },
     {
-        "vocab": "Stimmung",
+        "word": "Stimmung",
         "pos": "Noun",
         "definition": "mood"
     },
     {
-        "vocab": "Unfall",
+        "word": "Unfall",
         "pos": "Noun",
         "definition": "accident"
     },
     {
-        "vocab": "Vollständig",
+        "word": "Vollständig",
         "pos": "Adjective",
         "definition": "complete"
     },
     {
-        "vocab": "Benutzen",
+        "word": "Benutzen",
         "pos": "Verb",
         "definition": "to use"
     },
     {
-        "vocab": "Ebenso",
+        "word": "Ebenso",
         "pos": "Adverb",
         "definition": "just the same, equally"
     },
     {
-        "vocab": "Aktion",
+        "word": "Aktion",
         "pos": "Noun",
         "definition": "action"
     },
     {
-        "vocab": "Viele",
+        "word": "Viele",
         "pos": "Adjective",
         "definition": "many"
     },
     {
-        "vocab": "Sommer",
+        "word": "Sommer",
         "pos": "Noun",
         "definition": "summer"
     },
     {
-        "vocab": "Vorteil",
+        "word": "Vorteil",
         "pos": "Noun",
         "definition": "advantage",
         "description": "The German word “Vorteil” (advantage) and its antonym “Nachteil” (disadvantage)\r\n are both derived from the word “Teil,” which means “part”. The former term contains the prefix “vor-”\r\n (meaning “in front of”), while the latter contains the prefix “nach-” (meaning “after” or “behind”)."
     },
     {
-        "vocab": "Zuletzt",
+        "word": "Zuletzt",
         "pos": "Adverb",
         "definition": "finally"
     },
     {
-        "vocab": "Gründen",
+        "word": "Gründen",
         "pos": "Verb",
         "definition": "to build"
     },
     {
-        "vocab": "Diskussion",
+        "word": "Diskussion",
         "pos": "Noun",
         "definition": "discussion"
     },
     {
-        "vocab": "Schwach",
+        "word": "Schwach",
         "pos": "Adjective",
         "definition": "weak"
     },
     {
-        "vocab": "Lieben",
+        "word": "Lieben",
         "pos": "Verb",
         "definition": "to love"
     },
     {
-        "vocab": "Erstellen",
+        "word": "Erstellen",
         "pos": "Verb",
         "definition": "to create"
     },
     {
-        "vocab": "Farbe",
+        "word": "Farbe",
         "pos": "Noun",
         "definition": "color"
     },
     {
-        "vocab": "Gefahr",
+        "word": "Gefahr",
         "pos": "Noun",
         "definition": "danger"
     },
     {
-        "vocab": "Ständig",
+        "word": "Ständig",
         "pos": "Adjective",
         "definition": "constant"
     },
     {
-        "vocab": "Band",
+        "word": "Band",
         "pos": "Noun",
         "definition": "band"
     },
     {
-        "vocab": "Scheitern",
+        "word": "Scheitern",
         "pos": "Verb",
         "definition": "to fail"
     },
     {
-        "vocab": "Herr",
+        "word": "Herr",
         "pos": "Noun",
         "definition": "man",
         "description": "The word “Herr” is a more formal synonym of the word “Mann” which means “man”. It\r\n is also used as the conventional title of respect to address a man, equivalent to the English term “Mr”."
     },
     {
-        "vocab": "Mindestens",
+        "word": "Mindestens",
         "pos": "Adverb",
         "definition": "at least"
     },
     {
-        "vocab": "Prüfen",
+        "word": "Prüfen",
         "pos": "Verb",
         "definition": "to examine"
     },
     {
-        "vocab": "Ausstellung",
+        "word": "Ausstellung",
         "pos": "Noun",
         "definition": "exhibition"
     },
     {
-        "vocab": "Richtung",
+        "word": "Richtung",
         "pos": "Noun",
         "definition": "direction"
     },
     {
-        "vocab": "Rot",
+        "word": "Rot",
         "pos": "Adjective",
         "definition": "red"
     },
     {
-        "vocab": "Voraussetzung",
+        "word": "Voraussetzung",
         "pos": "Noun",
         "definition": "assumption, requirement"
     },
     {
-        "vocab": "Grüne",
+        "word": "Grüne",
         "pos": "Adjective",
         "definition": "green",
         "description": "The adjective “grüne” is also used as a proper noun to describe the green\r\n political party in Germany: “die Grünen”."
     },
     {
-        "vocab": "Hin",
+        "word": "Hin",
         "pos": "Adverb",
         "definition": "there"
     },
     {
-        "vocab": "Liste",
+        "word": "Liste",
         "pos": "Noun",
         "definition": "list"
     },
     {
-        "vocab": "Täglich",
+        "word": "Täglich",
         "pos": "Adjective",
         "definition": "daily"
     },
     {
-        "vocab": "Nötig",
+        "word": "Nötig",
         "pos": "Adjective",
         "definition": "necessary"
     },
     {
-        "vocab": "Beschließen",
+        "word": "Beschließen",
         "pos": "Verb",
         "definition": "to conclude"
     },
     {
-        "vocab": "Häufig",
+        "word": "Häufig",
         "pos": "Adjective",
         "definition": "frequent"
     },
     {
-        "vocab": "Grundlage",
+        "word": "Grundlage",
         "pos": "Noun",
         "definition": "basis"
     },
     {
-        "vocab": "Kampf",
+        "word": "Kampf",
         "pos": "Noun",
         "definition": "fight"
     },
     {
-        "vocab": "Konkret",
+        "word": "Konkret",
         "pos": "Adjective",
         "definition": "tangible"
     },
     {
-        "vocab": "Sinn",
+        "word": "Sinn",
         "pos": "Noun",
         "definition": "sense"
     },
     {
-        "vocab": "Nachmittag",
+        "word": "Nachmittag",
         "pos": "Noun",
         "definition": "afternoon"
     },
     {
-        "vocab": "Trainer",
+        "word": "Trainer",
         "pos": "Noun",
         "definition": "coach"
     },
     {
-        "vocab": "Tod",
+        "word": "Tod",
         "pos": "Noun",
         "definition": "death"
     },
     {
-        "vocab": "Fehler",
+        "word": "Fehler",
         "pos": "Noun",
         "definition": "mistake"
     },
     {
-        "vocab": "Suche",
+        "word": "Suche",
         "pos": "Noun",
         "definition": "search"
     },
     {
-        "vocab": "Bau",
+        "word": "Bau",
         "pos": "Noun",
         "definition": "construction"
     },
     {
-        "vocab": "Breit",
+        "word": "Breit",
         "pos": "Adjective",
         "definition": "wide"
     },
     {
-        "vocab": "Modell",
+        "word": "Modell",
         "pos": "Noun",
         "definition": "model"
     },
     {
-        "vocab": "Fördern",
+        "word": "Fördern",
         "pos": "Verb",
         "definition": "to further"
     },
     {
-        "vocab": "Fenster",
+        "word": "Fenster",
         "pos": "Noun",
         "definition": "window"
     },
     {
-        "vocab": "Klasse",
+        "word": "Klasse",
         "pos": "Noun",
         "definition": "class"
     },
     {
-        "vocab": "Freund",
+        "word": "Freund",
         "pos": "Noun",
         "definition": "friend"
     },
     {
-        "vocab": "Besuch",
+        "word": "Besuch",
         "pos": "Noun",
         "definition": "visit"
     },
     {
-        "vocab": "Normal",
+        "word": "Normal",
         "pos": "Adjective",
         "definition": "ordinary"
     },
     {
-        "vocab": "Behörde",
+        "word": "Behörde",
         "pos": "Noun",
         "definition": "authority"
     },
     {
-        "vocab": "Ausschließen",
+        "word": "Ausschließen",
         "pos": "Verb",
         "definition": "to exclude"
     },
     {
-        "vocab": "Analyst",
+        "word": "Analyst",
         "pos": "Noun",
         "definition": "analyst"
     },
     {
-        "vocab": "Ruhig",
+        "word": "Ruhig",
         "pos": "Adjective",
         "definition": "quiet"
     },
     {
-        "vocab": "Nachricht",
+        "word": "Nachricht",
         "pos": "Noun",
         "definition": "news"
     },
     {
-        "vocab": "Lassen",
+        "word": "Lassen",
         "pos": "Verb",
         "definition": "to allow, to let"
     },
     {
-        "vocab": "Saison",
+        "word": "Saison",
         "pos": "Noun",
         "definition": "season"
     },
     {
-        "vocab": "Geraten",
+        "word": "Geraten",
         "pos": "Verb",
         "definition": "to turn out"
     },
     {
-        "vocab": "Wettbewerb",
+        "word": "Wettbewerb",
         "pos": "Noun",
         "definition": "competition"
     },
     {
-        "vocab": "Zumindest",
+        "word": "Zumindest",
         "pos": "Adverb",
         "definition": "at least"
     },
     {
-        "vocab": "Erfahren",
+        "word": "Erfahren",
         "pos": "Adjective",
         "definition": "experienced"
     },
     {
-        "vocab": "Kontakt",
+        "word": "Kontakt",
         "pos": "Noun",
         "definition": "contact"
     },
     {
-        "vocab": "Vater",
+        "word": "Vater",
         "pos": "Noun",
         "definition": "father"
     },
     {
-        "vocab": "Krise",
+        "word": "Krise",
         "pos": "Noun",
         "definition": "crisis"
     },
     {
-        "vocab": "Erwartung",
+        "word": "Erwartung",
         "pos": "Noun",
         "definition": "expectation"
     },
     {
-        "vocab": "Profitieren",
+        "word": "Profitieren",
         "pos": "Verb",
         "definition": "to benefit"
     },
     {
-        "vocab": "Zug",
+        "word": "Zug",
         "pos": "Noun",
         "definition": "train",
         "description": "The primary meaning of the German word “Zug” is “train.” It is a common word\r\n because Germany has an extensive railway network, and trains are a popular mode of transportation within\r\n the country."
     },
     {
-        "vocab": "Fortsetzen",
+        "word": "Fortsetzen",
         "pos": "Verb",
         "definition": "to continue"
     },
     {
-        "vocab": "Erleiden",
+        "word": "Erleiden",
         "pos": "Verb",
         "definition": "to suffer"
     },
     {
-        "vocab": "Einrichten",
+        "word": "Einrichten",
         "pos": "Verb",
         "definition": "to establish"
     },
     {
-        "vocab": "Wochenende",
+        "word": "Wochenende",
         "pos": "Noun",
         "definition": "weekend"
     },
     {
-        "vocab": "Kritisieren",
+        "word": "Kritisieren",
         "pos": "Verb",
         "definition": "to criticize"
     },
     {
-        "vocab": "Werk",
+        "word": "Werk",
         "pos": "Noun",
         "definition": "work",
         "description": "The German words “Werk” and “Arbeit” are often both translated to “work” in\r\n English, but their meanings differ. The term “Werk” refers to the result of working (like a work of art,\r\n a literary work, or an achievement), whereas “Arbeit” refers to the act of working, focusing on labor or\r\n effort."
     },
     {
-        "vocab": "Wechseln",
+        "word": "Wechseln",
         "pos": "Verb",
         "definition": "to change"
     },
     {
-        "vocab": "Verlust",
+        "word": "Verlust",
         "pos": "Noun",
         "definition": "loss"
     },
     {
-        "vocab": "Änderung",
+        "word": "Änderung",
         "pos": "Noun",
         "definition": "modification"
     },
     {
-        "vocab": "Medium",
+        "word": "Medium",
         "pos": "Noun",
         "definition": "medium"
     },
     {
-        "vocab": "Stück",
+        "word": "Stück",
         "pos": "Noun",
         "definition": "piece"
     },
     {
-        "vocab": "Heutig",
+        "word": "Heutig",
         "pos": "Adjective",
         "definition": "today's"
     },
     {
-        "vocab": "Zufrieden",
+        "word": "Zufrieden",
         "pos": "Adjective",
         "definition": "satisfied"
     },
     {
-        "vocab": "Liebe",
+        "word": "Liebe",
         "pos": "Noun",
         "definition": "love"
     },
     {
-        "vocab": "Bahn",
+        "word": "Bahn",
         "pos": "Noun",
         "definition": "route, railway",
         "description": "The most common meaning of the word “Bahn” in German refers to a railway. This\r\n term appears in the name of the German national railway system, known as “Deutsche Bahn” (German\r\n Railways)."
     },
     {
-        "vocab": "Schwarz",
+        "word": "Schwarz",
         "pos": "Adjective",
         "definition": "black"
     },
     {
-        "vocab": "Längst",
+        "word": "Längst",
         "pos": "Adverb",
         "definition": "long ago"
     },
     {
-        "vocab": "Hamburg",
+        "word": "Hamburg",
         "pos": "Propernoun",
         "definition": "Hamburg"
     },
     {
-        "vocab": "Wünschen",
+        "word": "Wünschen",
         "pos": "Verb",
         "definition": "to wish"
     },
     {
-        "vocab": "Bedeutung",
+        "word": "Bedeutung",
         "pos": "Noun",
         "definition": "meaning"
     },
     {
-        "vocab": "Tief",
+        "word": "Tief",
         "pos": "Adjective",
         "definition": "deep"
     },
     {
-        "vocab": "Sachschaden",
+        "word": "Sachschaden",
         "pos": "Noun",
         "definition": "damage",
         "description": "The word Sachschaden is a compound noun created from Sache\r\n (“thing”) and Schaden (“damage”). It is a German vocabulary word that is most often used when\r\n dealing with insurance claims."
     },
     {
-        "vocab": "Erklären",
+        "word": "Erklären",
         "pos": "Verb",
         "definition": "to explain"
     },
     {
-        "vocab": "Hingegen",
+        "word": "Hingegen",
         "pos": "Adverb",
         "definition": "on the other hand"
     },
     {
-        "vocab": "Gern",
+        "word": "Gern",
         "pos": "Adverb",
         "definition": "gladly"
     },
     {
-        "vocab": "Meinung",
+        "word": "Meinung",
         "pos": "Noun",
         "definition": "opinion"
     },
     {
-        "vocab": "Zugleich",
+        "word": "Zugleich",
         "pos": "Adverb",
         "definition": "at the same time"
     },
     {
-        "vocab": "Herzlich",
+        "word": "Herzlich",
         "pos": "Adjective",
         "definition": "warm",
         "description": "The adjective herzlich is formed by adding the suffix -lich to the\r\n noun Herz (“heart”). You will find this word most commonly used in the phrase “Herzlich\r\n Willkommen” which means “warm welcome”."
     },
     {
-        "vocab": "Zusammenarbeit",
+        "word": "Zusammenarbeit",
         "pos": "Noun",
         "definition": "cooperation",
         "description": "“Zusammenarbeit” is a compound noun formed by combining the adverb\r\n zusammen (“together”) and the noun Arbeit (“work”)."
     },
     {
-        "vocab": "Tatsächlich",
+        "word": "Tatsächlich",
         "pos": "Adjective",
         "definition": "actual",
         "description": "The word tatsächlich can be used either as an adjective or as an adverb.\r\n It is formed by applying the suffix -lich to the noun Tatsache (“fact”)."
     },
     {
-        "vocab": "Zeitung",
+        "word": "Zeitung",
         "pos": "Noun",
         "definition": "newspaper"
     },
     {
-        "vocab": "Ziemlich",
+        "word": "Ziemlich",
         "pos": "Adverb",
         "definition": "quite"
     },
     {
-        "vocab": "Darin",
+        "word": "Darin",
         "pos": "Adverb",
         "definition": "in it"
     },
     {
-        "vocab": "Schützen",
+        "word": "Schützen",
         "pos": "Verb",
         "definition": "to defend"
     },
     {
-        "vocab": "Los",
+        "word": "Los",
         "pos": "Adjective",
         "definition": "off"
     },
     {
-        "vocab": "Reise",
+        "word": "Reise",
         "pos": "Noun",
         "definition": "journey"
     },
     {
-        "vocab": "Grundsätzlich",
+        "word": "Grundsätzlich",
         "pos": "Adjective",
         "definition": "fundamental, on principle"
     },
     {
-        "vocab": "Trend",
+        "word": "Trend",
         "pos": "Noun",
         "definition": "trend"
     },
     {
-        "vocab": "Leisten",
+        "word": "Leisten",
         "pos": "Verb",
         "definition": "to perform a task"
     },
     {
-        "vocab": "Verschwinden",
+        "word": "Verschwinden",
         "pos": "Verb",
         "definition": "to disappear"
     },
     {
-        "vocab": "Meinen",
+        "word": "Meinen",
         "pos": "Verb",
         "definition": "to think"
     },
     {
-        "vocab": "Vertreten",
+        "word": "Vertreten",
         "pos": "Verb",
         "definition": "to represent"
     },
     {
-        "vocab": "Rücken",
+        "word": "Rücken",
         "pos": "Verb",
         "definition": "to move"
     },
     {
-        "vocab": "Technik",
+        "word": "Technik",
         "pos": "Noun",
         "definition": "technology"
     },
     {
-        "vocab": "Trotz",
+        "word": "Trotz",
         "pos": "Preposition",
         "definition": "in spite of"
     },
     {
-        "vocab": "Mal",
+        "word": "Mal",
         "pos": "Noun",
         "definition": "time"
     },
     {
-        "vocab": "Körper",
+        "word": "Körper",
         "pos": "Noun",
         "definition": "body"
     },
     {
-        "vocab": "Unterschied",
+        "word": "Unterschied",
         "pos": "Noun",
         "definition": "difference"
     },
     {
-        "vocab": "Mehrheit",
+        "word": "Mehrheit",
         "pos": "Noun",
         "definition": "majority"
     },
     {
-        "vocab": "Behandeln",
+        "word": "Behandeln",
         "pos": "Verb",
         "definition": "to treat"
     },
     {
-        "vocab": "Material",
+        "word": "Material",
         "pos": "Noun",
         "definition": "material"
     },
     {
-        "vocab": "Runde",
+        "word": "Runde",
         "pos": "Noun",
         "definition": "round"
     },
     {
-        "vocab": "Luft",
+        "word": "Luft",
         "pos": "Noun",
         "definition": "air"
     },
     {
-        "vocab": "Begrüßen",
+        "word": "Begrüßen",
         "pos": "Verb",
         "definition": "to welcome"
     },
     {
-        "vocab": "Fan",
+        "word": "Fan",
         "pos": "Noun",
         "definition": "fan"
     },
     {
-        "vocab": "Grad",
+        "word": "Grad",
         "pos": "Noun",
         "definition": "degree"
     },
     {
-        "vocab": "Spur",
+        "word": "Spur",
         "pos": "Noun",
         "definition": "trace"
     },
     {
-        "vocab": "Drehen",
+        "word": "Drehen",
         "pos": "Verb",
         "definition": "to turn"
     },
     {
-        "vocab": "Glauben",
+        "word": "Glauben",
         "pos": "Verb",
         "definition": "to believe"
     },
     {
-        "vocab": "Erweitern",
+        "word": "Erweitern",
         "pos": "Verb",
         "definition": "to extend"
     },
     {
-        "vocab": "Alternative",
+        "word": "Alternative",
         "pos": "Noun",
         "definition": "alternative"
     },
     {
-        "vocab": "Mittel",
+        "word": "Mittel",
         "pos": "Noun",
         "definition": "agent"
     },
     {
-        "vocab": "Arbeitsplatz",
+        "word": "Arbeitsplatz",
         "pos": "Noun",
         "definition": "workplace"
     },
     {
-        "vocab": "Äußern",
+        "word": "Äußern",
         "pos": "Verb",
         "definition": "to express"
     },
     {
-        "vocab": "Europa",
+        "word": "Europa",
         "pos": "Propernoun",
         "definition": "Europe"
     },
     {
-        "vocab": "Erfüllen",
+        "word": "Erfüllen",
         "pos": "Verb",
         "definition": "to fill"
     },
     {
-        "vocab": "Wetter",
+        "word": "Wetter",
         "pos": "Noun",
         "definition": "weather"
     },
     {
-        "vocab": "Boden",
+        "word": "Boden",
         "pos": "Noun",
         "definition": "ground"
     },
     {
-        "vocab": "Erleben",
+        "word": "Erleben",
         "pos": "Verb",
         "definition": "to experience"
     },
     {
-        "vocab": "Hinweis",
+        "word": "Hinweis",
         "pos": "Noun",
         "definition": "hint"
     },
     {
-        "vocab": "Zuerst",
+        "word": "Zuerst",
         "pos": "Adverb",
         "definition": "first"
     },
     {
-        "vocab": "Sogenannter",
+        "word": "Sogenannter",
         "pos": "Adjective",
         "definition": "so-called"
     },
     {
-        "vocab": "Offenbar",
+        "word": "Offenbar",
         "pos": "Adjective",
         "definition": "apparent"
     },
     {
-        "vocab": "Wann",
+        "word": "Wann",
         "pos": "Adverb",
         "definition": "when"
     },
     {
-        "vocab": "München",
+        "word": "München",
         "pos": "Propernoun",
         "definition": "Munich",
         "description": "München (Munich in English) frequently appears in German language texts because\r\n it is the name of the capital of Bavaria, a state in southern Germany that is famous for its Oktoberfest\r\n (an annual festival that takes place from late September to the first weekend in October where visitors\r\n can enjoy local beer)."
     },
     {
-        "vocab": "Streit",
+        "word": "Streit",
         "pos": "Noun",
         "definition": "dispute"
     },
     {
-        "vocab": "Werfen",
+        "word": "Werfen",
         "pos": "Verb",
         "definition": "to throw"
     },
     {
-        "vocab": "Entdecken",
+        "word": "Entdecken",
         "pos": "Verb",
         "definition": "to discover"
     },
     {
-        "vocab": "Start",
+        "word": "Start",
         "pos": "Noun",
         "definition": "start"
     },
     {
-        "vocab": "Beginn",
+        "word": "Beginn",
         "pos": "Noun",
         "definition": "beginning"
     },
     {
-        "vocab": "Verlassen",
+        "word": "Verlassen",
         "pos": "Verb",
         "definition": "to leave"
     },
     {
-        "vocab": "Morgen",
+        "word": "Morgen",
         "pos": "Noun",
         "definition": "morning"
     },
     {
-        "vocab": "Fertig",
+        "word": "Fertig",
         "pos": "Adjective",
         "definition": "ready"
     },
     {
-        "vocab": "Zuständig",
+        "word": "Zuständig",
         "pos": "Adjective",
         "definition": "competent"
     },
     {
-        "vocab": "Leiten",
+        "word": "Leiten",
         "pos": "Verb",
         "definition": "to lead",
         "description": "The German verb “leiten” and the English verb “to lead” are cognates, which means\r\n that both terms originate from a common etymological ancestor."
     },
     {
-        "vocab": "Menge",
+        "word": "Menge",
         "pos": "Noun",
         "definition": "quantity"
     },
     {
-        "vocab": "Licht",
+        "word": "Licht",
         "pos": "Noun",
         "definition": "light"
     },
     {
-        "vocab": "Finanziell",
+        "word": "Finanziell",
         "pos": "Adjective",
         "definition": "financial"
     },
     {
-        "vocab": "Amerikanisch",
+        "word": "Amerikanisch",
         "pos": "Adjective",
         "definition": "American"
     },
     {
-        "vocab": "Sparen",
+        "word": "Sparen",
         "pos": "Verb",
         "definition": "to save up"
     },
     {
-        "vocab": "Erstmals",
+        "word": "Erstmals",
         "pos": "Adverb",
         "definition": "for the first time"
     },
     {
-        "vocab": "Endgültig",
+        "word": "Endgültig",
         "pos": "Adjective",
         "definition": "final",
         "description": "The German adjective “endgültig” is formed by combining the noun “Ende” which\r\n means “end” and the word “gültig” which means “valid”."
     },
     {
-        "vocab": "Insbesondere",
+        "word": "Insbesondere",
         "pos": "Adverb",
         "definition": "in particular"
     },
     {
-        "vocab": "Haben",
+        "word": "Haben",
         "pos": "Noun",
         "definition": "credit"
     },
     {
-        "vocab": "Rahmen",
+        "word": "Rahmen",
         "pos": "Noun",
         "definition": "frame"
     },
     {
-        "vocab": "Günstig",
+        "word": "Günstig",
         "pos": "Adjective",
         "definition": "favourable",
         "description": "The adjective “günstig” is formed by adding the suffix “-ig” to the noun “Gunst”\r\n which means “favor”. It can also mean “affordable” or “cheap”. As such this German word is frequently\r\n used in advertisements."
     },
     {
-        "vocab": "Geplant",
+        "word": "Geplant",
         "pos": "Adjective",
         "definition": "planned"
     },
     {
-        "vocab": "Produktion",
+        "word": "Produktion",
         "pos": "Noun",
         "definition": "production"
     },
     {
-        "vocab": "Wesentlich",
+        "word": "Wesentlich",
         "pos": "Adjective",
         "definition": "significant"
     },
     {
-        "vocab": "Organisieren",
+        "word": "Organisieren",
         "pos": "Verb",
         "definition": "to organize"
     },
     {
-        "vocab": "Feuer",
+        "word": "Feuer",
         "pos": "Noun",
         "definition": "fire"
     },
     {
-        "vocab": "Verletzung",
+        "word": "Verletzung",
         "pos": "Noun",
         "definition": "injury"
     },
     {
-        "vocab": "Soldat",
+        "word": "Soldat",
         "pos": "Noun",
         "definition": "soldier"
     },
     {
-        "vocab": "Verhalten",
+        "word": "Verhalten",
         "pos": "Adjective",
         "definition": "restrained"
     },
     {
-        "vocab": "Festnehmen",
+        "word": "Festnehmen",
         "pos": "Verb",
         "definition": "to arrest"
     },
     {
-        "vocab": "Ausschließlich",
+        "word": "Ausschließlich",
         "pos": "Adjective",
         "definition": "exclusive"
     },
     {
-        "vocab": "Funktion",
+        "word": "Funktion",
         "pos": "Noun",
         "definition": "function"
     },
     {
-        "vocab": "Zuschauer",
+        "word": "Zuschauer",
         "pos": "Noun",
         "definition": "viewer"
     },
     {
-        "vocab": "Gefährlich",
+        "word": "Gefährlich",
         "pos": "Adjective",
         "definition": "dangerous"
     },
     {
-        "vocab": "Betreiben",
+        "word": "Betreiben",
         "pos": "Verb",
         "definition": "to operate"
     },
     {
-        "vocab": "Michael",
+        "word": "Michael",
         "pos": "Propernoun",
         "definition": "Michael"
     },
     {
-        "vocab": "Baum",
+        "word": "Baum",
         "pos": "Noun",
         "definition": "tree"
     },
     {
-        "vocab": "Bezahlen",
+        "word": "Bezahlen",
         "pos": "Verb",
         "definition": "to pay"
     },
     {
-        "vocab": "Beteiligen",
+        "word": "Beteiligen",
         "pos": "Verb",
         "definition": "to participate"
     },
     {
-        "vocab": "Laufend",
+        "word": "Laufend",
         "pos": "Verb",
         "definition": "constantly"
     },
     {
-        "vocab": "Kontrolle",
+        "word": "Kontrolle",
         "pos": "Noun",
         "definition": "control"
     },
     {
-        "vocab": "Nah",
+        "word": "Nah",
         "pos": "Adjective",
         "definition": "close"
     },
     {
-        "vocab": "Gefühl",
+        "word": "Gefühl",
         "pos": "Noun",
         "definition": "feeling"
     },
     {
-        "vocab": "Wirtschaftlich",
+        "word": "Wirtschaftlich",
         "pos": "Adjective",
         "definition": "economical"
     },
     {
-        "vocab": "Anmeldung",
+        "word": "Anmeldung",
         "pos": "Noun",
         "definition": "registration"
     },
     {
-        "vocab": "Anzeigen",
+        "word": "Anzeigen",
         "pos": "Verb",
         "definition": "to display",
         "description": "The verb “anzeigen” can also mean “to report someone” in the context of law."
     },
     {
-        "vocab": "Vorjahr",
+        "word": "Vorjahr",
         "pos": "Noun",
         "definition": "previous year"
     },
     {
-        "vocab": "Begleiten",
+        "word": "Begleiten",
         "pos": "Verb",
         "definition": "to accompany"
     },
     {
-        "vocab": "Traum",
+        "word": "Traum",
         "pos": "Noun",
         "definition": "dream"
     },
     {
-        "vocab": "Sozial",
+        "word": "Sozial",
         "pos": "Adjective",
         "definition": "social"
     },
     {
-        "vocab": "Auftrag",
+        "word": "Auftrag",
         "pos": "Noun",
         "definition": "assignment"
     },
     {
-        "vocab": "Wagen",
+        "word": "Wagen",
         "pos": "Noun",
         "definition": "car"
     },
     {
-        "vocab": "Überprüfen",
+        "word": "Überprüfen",
         "pos": "Verb",
         "definition": "to check"
     },
     {
-        "vocab": "Hierzu",
+        "word": "Hierzu",
         "pos": "Adverb",
         "definition": "hereto"
     },
     {
-        "vocab": "Regelmäßig",
+        "word": "Regelmäßig",
         "pos": "Adjective",
         "definition": "regular"
     },
     {
-        "vocab": "Bürger",
+        "word": "Bürger",
         "pos": "Noun",
         "definition": "citizen"
     },
     {
-        "vocab": "Veränderung",
+        "word": "Veränderung",
         "pos": "Noun",
         "definition": "change"
     },
     {
-        "vocab": "Ausgabe",
+        "word": "Ausgabe",
         "pos": "Noun",
         "definition": "edition"
     },
     {
-        "vocab": "Dorf",
+        "word": "Dorf",
         "pos": "Noun",
         "definition": "village"
     },
     {
-        "vocab": "Beschreiben",
+        "word": "Beschreiben",
         "pos": "Verb",
         "definition": "to describe"
     },
     {
-        "vocab": "Historisch",
+        "word": "Historisch",
         "pos": "Adjective",
         "definition": "historical"
     },
     {
-        "vocab": "Dich",
+        "word": "Dich",
         "pos": "Pronoun",
         "definition": "you"
     },
     {
-        "vocab": "Vergleich",
+        "word": "Vergleich",
         "pos": "Noun",
         "definition": "comparison"
     },
     {
-        "vocab": "Prozess",
+        "word": "Prozess",
         "pos": "Noun",
         "definition": "process",
         "description": "The German word “Prozess” can mean either “process” or “trial”. For example, this\r\n term serves as the title of a novel by the German-speaking author Franz Kafka, titled “Der Prozess” (The\r\n Trial)."
     },
     {
-        "vocab": "Weg",
+        "word": "Weg",
         "pos": "Adverb",
         "definition": "away"
     },
     {
-        "vocab": "Reihe",
+        "word": "Reihe",
         "pos": "Noun",
         "definition": "row"
     },
     {
-        "vocab": "Hersteller",
+        "word": "Hersteller",
         "pos": "Noun",
         "definition": "manufacturer"
     },
     {
-        "vocab": "Belegen",
+        "word": "Belegen",
         "pos": "Verb",
         "definition": "to document"
     },
     {
-        "vocab": "Glück",
+        "word": "Glück",
         "pos": "Noun",
         "definition": "happiness"
     },
     {
-        "vocab": "Einrichtung",
+        "word": "Einrichtung",
         "pos": "Noun",
         "definition": "facility"
     },
     {
-        "vocab": "Kämpfen",
+        "word": "Kämpfen",
         "pos": "Verb",
         "definition": "to fight"
     },
     {
-        "vocab": "Mitte",
+        "word": "Mitte",
         "pos": "Noun",
         "definition": "middle"
     },
     {
-        "vocab": "Präsident",
+        "word": "Präsident",
         "pos": "Noun",
         "definition": "president"
     },
     {
-        "vocab": "Junge",
+        "word": "Junge",
         "pos": "Noun",
         "definition": "boy"
     },
     {
-        "vocab": "Aktiv",
+        "word": "Aktiv",
         "pos": "Adjective",
         "definition": "active"
     },
     {
-        "vocab": "Vermeiden",
+        "word": "Vermeiden",
         "pos": "Verb",
         "definition": "to avoid"
     },
     {
-        "vocab": "Wirkung",
+        "word": "Wirkung",
         "pos": "Noun",
         "definition": "effect"
     },
     {
-        "vocab": "Durchaus",
+        "word": "Durchaus",
         "pos": "Adverb",
         "definition": "absolutely"
     },
     {
-        "vocab": "Regelung",
+        "word": "Regelung",
         "pos": "Noun",
         "definition": "regulation"
     },
     {
-        "vocab": "Ausbildung",
+        "word": "Ausbildung",
         "pos": "Noun",
         "definition": "education"
     },
     {
-        "vocab": "Verbieten",
+        "word": "Verbieten",
         "pos": "Verb",
         "definition": "to forbid"
     },
     {
-        "vocab": "Handel",
+        "word": "Handel",
         "pos": "Noun",
         "definition": "trade"
     },
     {
-        "vocab": "Eng",
+        "word": "Eng",
         "pos": "Adjective",
         "definition": "narrow"
     },
     {
-        "vocab": "Greifen",
+        "word": "Greifen",
         "pos": "Verb",
         "definition": "to grab"
     },
     {
-        "vocab": "Klettern",
+        "word": "Klettern",
         "pos": "Verb",
         "definition": "to climb"
     },
     {
-        "vocab": "Behandlung",
+        "word": "Behandlung",
         "pos": "Noun",
         "definition": "treatment"
     },
     {
-        "vocab": "Nachfrage",
+        "word": "Nachfrage",
         "pos": "Noun",
         "definition": "demand"
     },
     {
-        "vocab": "Zerstören",
+        "word": "Zerstören",
         "pos": "Verb",
         "definition": "to destroy"
     },
     {
-        "vocab": "Schutz",
+        "word": "Schutz",
         "pos": "Noun",
         "definition": "protection"
     },
     {
-        "vocab": "Artikel",
+        "word": "Artikel",
         "pos": "Noun",
         "definition": "article"
     },
     {
-        "vocab": "Automatisch",
+        "word": "Automatisch",
         "pos": "Adjective",
         "definition": "automatic"
     },
     {
-        "vocab": "Service",
+        "word": "Service",
         "pos": "Noun",
         "definition": "service"
     },
     {
-        "vocab": "Publikum",
+        "word": "Publikum",
         "pos": "Noun",
         "definition": "audience"
     },
     {
-        "vocab": "Bevölkerung",
+        "word": "Bevölkerung",
         "pos": "Noun",
         "definition": "population"
     },
     {
-        "vocab": "Beraten",
+        "word": "Beraten",
         "pos": "Verb",
         "definition": "to discuss"
     },
     {
-        "vocab": "Parlament",
+        "word": "Parlament",
         "pos": "Noun",
         "definition": "parliament"
     },
     {
-        "vocab": "Stets",
+        "word": "Stets",
         "pos": "Adverb",
         "definition": "always"
     },
     {
-        "vocab": "Strecke",
+        "word": "Strecke",
         "pos": "Noun",
         "definition": "route"
     },
     {
-        "vocab": "Protest",
+        "word": "Protest",
         "pos": "Noun",
         "definition": "protest"
     },
     {
-        "vocab": "Vielmehr",
+        "word": "Vielmehr",
         "pos": "Adverb",
         "definition": "rather"
     },
     {
-        "vocab": "Unterdessen",
+        "word": "Unterdessen",
         "pos": "Adverb",
         "definition": "meanwhile"
     },
     {
-        "vocab": "Forderung",
+        "word": "Forderung",
         "pos": "Noun",
         "definition": "a demand"
     },
     {
-        "vocab": "Umfangreich",
+        "word": "Umfangreich",
         "pos": "Adjective",
         "definition": "extensive"
     },
     {
-        "vocab": "Führung",
+        "word": "Führung",
         "pos": "Noun",
         "definition": "leadership"
     },
     {
-        "vocab": "Zentral",
+        "word": "Zentral",
         "pos": "Adjective",
         "definition": "central"
     },
     {
-        "vocab": "Jährlich",
+        "word": "Jährlich",
         "pos": "Adjective",
         "definition": "yearly"
     },
     {
-        "vocab": "Computer",
+        "word": "Computer",
         "pos": "Noun",
         "definition": "computer"
     },
     {
-        "vocab": "Massiv",
+        "word": "Massiv",
         "pos": "Adjective",
         "definition": "solid"
     },
     {
-        "vocab": "Reden",
+        "word": "Reden",
         "pos": "Verb",
         "definition": "to talk"
     },
     {
-        "vocab": "Bewegung",
+        "word": "Bewegung",
         "pos": "Noun",
         "definition": "motion"
     },
     {
-        "vocab": "Kaufen",
+        "word": "Kaufen",
         "pos": "Verb",
         "definition": "to buy"
     },
     {
-        "vocab": "Retten",
+        "word": "Retten",
         "pos": "Verb",
         "definition": "to rescue"
     },
     {
-        "vocab": "Vorbereitung",
+        "word": "Vorbereitung",
         "pos": "Noun",
         "definition": "preparation"
     },
     {
-        "vocab": "Gegner",
+        "word": "Gegner",
         "pos": "Noun",
         "definition": "opponent"
     },
     {
-        "vocab": "Neun",
+        "word": "Neun",
         "pos": "Numeral",
         "definition": "nine"
     },
     {
-        "vocab": "Erlauben",
+        "word": "Erlauben",
         "pos": "Verb",
         "definition": "to allow"
     },
     {
-        "vocab": "Gesetzlich",
+        "word": "Gesetzlich",
         "pos": "Adjective",
         "definition": "lawful"
     },
     {
-        "vocab": "Hund",
+        "word": "Hund",
         "pos": "Noun",
         "definition": "dog"
     },
     {
-        "vocab": "Verdienen",
+        "word": "Verdienen",
         "pos": "Verb",
         "definition": "to earn"
     },
     {
-        "vocab": "Festlegen",
+        "word": "Festlegen",
         "pos": "Verb",
         "definition": "to determine"
     },
     {
-        "vocab": "Anteil",
+        "word": "Anteil",
         "pos": "Noun",
         "definition": "share"
     },
     {
-        "vocab": "Kunst",
+        "word": "Kunst",
         "pos": "Noun",
         "definition": "art",
         "description": "The term “Kunst” (meaning “art”) is a common German word because art has played\r\n an important role in German-speaking countries for centuries. In addition to famous musicians such as\r\n Mozart, and famous writers such as Goethe, several well-known visual artists were native German\r\n speakers, for example, Paul Klee, Otto Dix, and Caspar David Friedrich."
     },
     {
-        "vocab": "Hotel",
+        "word": "Hotel",
         "pos": "Noun",
         "definition": "hotel"
     },
     {
-        "vocab": "Mussten",
+        "word": "Mussten",
         "pos": "Verb",
         "definition": "had to"
     },
     {
-        "vocab": "Passen",
+        "word": "Passen",
         "pos": "Verb",
         "definition": "to fit"
     },
     {
-        "vocab": "Vorstellung",
+        "word": "Vorstellung",
         "pos": "Noun",
         "definition": "idea"
     },
     {
-        "vocab": "Fahrt",
+        "word": "Fahrt",
         "pos": "Noun",
         "definition": "ride"
     },
     {
-        "vocab": "Sowie",
+        "word": "Sowie",
         "pos": "Conjunction",
         "definition": "such as"
     },
     {
-        "vocab": "Fühlen",
+        "word": "Fühlen",
         "pos": "Verb",
         "definition": "to feel"
     },
     {
-        "vocab": "Lauten",
+        "word": "Lauten",
         "pos": "Verb",
         "definition": "to sound"
     },
     {
-        "vocab": "Recht",
+        "word": "Recht",
         "pos": "Adjective",
         "definition": "to the right"
     },
     {
-        "vocab": "Weitgehend",
+        "word": "Weitgehend",
         "pos": "Adjective",
         "definition": "extensive"
     },
     {
-        "vocab": "Hälfte",
+        "word": "Hälfte",
         "pos": "Noun",
         "definition": "half"
     },
     {
-        "vocab": "Klingen",
+        "word": "Klingen",
         "pos": "Verb",
         "definition": "to ring"
     },
     {
-        "vocab": "Prüfung",
+        "word": "Prüfung",
         "pos": "Noun",
         "definition": "examination"
     },
     {
-        "vocab": "Branche",
+        "word": "Branche",
         "pos": "Noun",
         "definition": "industry"
     },
     {
-        "vocab": "Peter",
+        "word": "Peter",
         "pos": "Propernoun",
         "definition": "Peter"
     },
     {
-        "vocab": "Empfehlen",
+        "word": "Empfehlen",
         "pos": "Verb",
         "definition": "to recommend"
     },
     {
-        "vocab": "Untersuchen",
+        "word": "Untersuchen",
         "pos": "Verb",
         "definition": "to investigate"
     },
     {
-        "vocab": "Zeitpunkt",
+        "word": "Zeitpunkt",
         "pos": "Noun",
         "definition": "time",
         "description": "“Zeitpunkt” is a compound noun formed by combining the noun “Zeit” (which means\r\n “time”) and the noun “Punkt” (which means “point”). As such, it refers to a specific point in time."
     },
     {
-        "vocab": "Wachstum",
+        "word": "Wachstum",
         "pos": "Noun",
         "definition": "growth"
     },
     {
-        "vocab": "Position",
+        "word": "Position",
         "pos": "Noun",
         "definition": "position"
     },
     {
-        "vocab": "Russisch",
+        "word": "Russisch",
         "pos": "Adjective",
         "definition": "Russian"
     },
     {
-        "vocab": "Möglicherweise",
+        "word": "Möglicherweise",
         "pos": "Adverb",
         "definition": "possibly"
     },
     {
-        "vocab": "Verantwortung",
+        "word": "Verantwortung",
         "pos": "Noun",
         "definition": "responsibility"
     },
     {
-        "vocab": "Anfrage",
+        "word": "Anfrage",
         "pos": "Noun",
         "definition": "request"
     },
     {
-        "vocab": "Ablehnen",
+        "word": "Ablehnen",
         "pos": "Verb",
         "definition": "to decline"
     },
     {
-        "vocab": "Übrigens",
+        "word": "Übrigens",
         "pos": "Adverb",
         "definition": "by the way, apart from that"
     },
     {
-        "vocab": "Ausnahme",
+        "word": "Ausnahme",
         "pos": "Noun",
         "definition": "exception"
     },
     {
-        "vocab": "Bitten",
+        "word": "Bitten",
         "pos": "Verb",
         "definition": "to request"
     },
     {
-        "vocab": "Hierbei",
+        "word": "Hierbei",
         "pos": "Adverb",
         "definition": "hereby"
     },
     {
-        "vocab": "Reaktion",
+        "word": "Reaktion",
         "pos": "Noun",
         "definition": "reaction"
     },
     {
-        "vocab": "Erinnern",
+        "word": "Erinnern",
         "pos": "Verb",
         "definition": "to remind"
     },
     {
-        "vocab": "Stoßen",
+        "word": "Stoßen",
         "pos": "Verb",
         "definition": "to push"
     },
     {
-        "vocab": "Wohnen",
+        "word": "Wohnen",
         "pos": "Verb",
         "definition": "to reside"
     },
     {
-        "vocab": "Zimmer",
+        "word": "Zimmer",
         "pos": "Noun",
         "definition": "room"
     },
     {
-        "vocab": "Zustimmen",
+        "word": "Zustimmen",
         "pos": "Verb",
         "definition": "to agree"
     },
     {
-        "vocab": "Immerhin",
+        "word": "Immerhin",
         "pos": "Adverb",
         "definition": "anyhow, after all"
     },
     {
-        "vocab": "Mancher",
+        "word": "Mancher",
         "pos": "Pronoun",
         "definition": "many, some"
     },
     {
-        "vocab": "Partie",
+        "word": "Partie",
         "pos": "Noun",
         "definition": "match"
     },
     {
-        "vocab": "Ehemalig",
+        "word": "Ehemalig",
         "pos": "Adjective",
         "definition": "former"
     },
     {
-        "vocab": "Beratung",
+        "word": "Beratung",
         "pos": "Noun",
         "definition": "discussion"
     },
     {
-        "vocab": "Erheben",
+        "word": "Erheben",
         "pos": "Verb",
         "definition": "to raise"
     },
     {
-        "vocab": "Vermutlich",
+        "word": "Vermutlich",
         "pos": "Adjective",
         "definition": "suspected"
     },
     {
-        "vocab": "Verkauf",
+        "word": "Verkauf",
         "pos": "Noun",
         "definition": "sale"
     },
     {
-        "vocab": "Praktisch",
+        "word": "Praktisch",
         "pos": "Adjective",
         "definition": "practical"
     },
     {
-        "vocab": "Unklar",
+        "word": "Unklar",
         "pos": "Adjective",
         "definition": "unclear"
     },
     {
-        "vocab": "Eindeutig",
+        "word": "Eindeutig",
         "pos": "Adjective",
         "definition": "unambiguous"
     },
     {
-        "vocab": "Koalition",
+        "word": "Koalition",
         "pos": "Noun",
         "definition": "coalition"
     },
     {
-        "vocab": "Linie",
+        "word": "Linie",
         "pos": "Noun",
         "definition": "line"
     },
     {
-        "vocab": "Indes",
+        "word": "Indes",
         "pos": "Adverb",
         "definition": "however"
     },
     {
-        "vocab": "Museum",
+        "word": "Museum",
         "pos": "Noun",
         "definition": "museum"
     },
     {
-        "vocab": "Verfolgen",
+        "word": "Verfolgen",
         "pos": "Verb",
         "definition": "to pursue"
     },
     {
-        "vocab": "Gefährden",
+        "word": "Gefährden",
         "pos": "Verb",
         "definition": "to endanger"
     },
     {
-        "vocab": "Bestellen",
+        "word": "Bestellen",
         "pos": "Verb",
         "definition": "to order"
     },
     {
-        "vocab": "Plötzlich",
+        "word": "Plötzlich",
         "pos": "Adjective",
         "definition": "sudden"
     },
     {
-        "vocab": "Partner",
+        "word": "Partner",
         "pos": "Noun",
         "definition": "partner"
     },
     {
-        "vocab": "Bedürfen",
+        "word": "Bedürfen",
         "pos": "Verb",
         "definition": "to require"
     },
     {
-        "vocab": "Anspruch",
+        "word": "Anspruch",
         "pos": "Noun",
         "definition": "claim, demand"
     },
     {
-        "vocab": "Thomas",
+        "word": "Thomas",
         "pos": "Propernoun",
         "definition": "Thomas"
     },
     {
-        "vocab": "Erleichtern",
+        "word": "Erleichtern",
         "pos": "Verb",
         "definition": "to facilitate"
     },
     {
-        "vocab": "Laden",
+        "word": "Laden",
         "pos": "Verb",
         "definition": "to load"
     },
     {
-        "vocab": "Weise",
+        "word": "Weise",
         "pos": "Noun",
         "definition": "way"
     },
     {
-        "vocab": "Polizist",
+        "word": "Polizist",
         "pos": "Noun",
         "definition": "police"
     },
     {
-        "vocab": "Freude",
+        "word": "Freude",
         "pos": "Noun",
         "definition": "joy"
     },
     {
-        "vocab": "Zeichen",
+        "word": "Zeichen",
         "pos": "Noun",
         "definition": "sign"
     },
     {
-        "vocab": "Anstieg",
+        "word": "Anstieg",
         "pos": "Noun",
         "definition": "rise"
     },
     {
-        "vocab": "Planung",
+        "word": "Planung",
         "pos": "Noun",
         "definition": "planning"
     },
     {
-        "vocab": "Schiff",
+        "word": "Schiff",
         "pos": "Noun",
         "definition": "ship",
         "description": "The German word “Schiff” (meaning “ship”) is frequently used because Germany has\r\n nearly 1500 miles of coastline and Germany's largest seaport, Hamburg, is the third-largest in Europe\r\n (after Rotterdam in the Netherlands and Antwerp in Belgium)."
     },
     {
-        "vocab": "Geeignet",
+        "word": "Geeignet",
         "pos": "Adjective",
         "definition": "suitable"
     },
     {
-        "vocab": "Aufgrund",
+        "word": "Aufgrund",
         "pos": "Preposition",
         "definition": "because of"
     },
     {
-        "vocab": "Natur",
+        "word": "Natur",
         "pos": "Noun",
         "definition": "nature"
     },
     {
-        "vocab": "Klären",
+        "word": "Klären",
         "pos": "Verb",
         "definition": "to clear up"
     },
     {
-        "vocab": "Stattdessen",
+        "word": "Stattdessen",
         "pos": "Adverb",
         "definition": "instead"
     },
     {
-        "vocab": "Scharf",
+        "word": "Scharf",
         "pos": "Adjective",
         "definition": "sharp"
     },
     {
-        "vocab": "Übrig",
+        "word": "Übrig",
         "pos": "Adjective",
         "definition": "remaining, residual"
     },
     {
-        "vocab": "Aufbau",
+        "word": "Aufbau",
         "pos": "Noun",
         "definition": "construction"
     },
     {
-        "vocab": "Niedrig",
+        "word": "Niedrig",
         "pos": "Adjective",
         "definition": "low"
     },
     {
-        "vocab": "Verzichten",
+        "word": "Verzichten",
         "pos": "Verb",
         "definition": "to give up"
     },
     {
-        "vocab": "Nähe",
+        "word": "Nähe",
         "pos": "Noun",
         "definition": "nearness"
     },
     {
-        "vocab": "Rennen",
+        "word": "Rennen",
         "pos": "Verb",
         "definition": "to run"
     },
     {
-        "vocab": "Schweizer",
+        "word": "Schweizer",
         "pos": "Noun",
         "definition": "a Swiss person"
     },
     {
-        "vocab": "Erzählen",
+        "word": "Erzählen",
         "pos": "Verb",
         "definition": "to tell"
     },
     {
-        "vocab": "Ausbauen",
+        "word": "Ausbauen",
         "pos": "Verb",
         "definition": "to extend"
     },
     {
-        "vocab": "Reduzieren",
+        "word": "Reduzieren",
         "pos": "Verb",
         "definition": "to reduce"
     },
     {
-        "vocab": "Leer",
+        "word": "Leer",
         "pos": "Adjective",
         "definition": "empty"
     },
     {
-        "vocab": "Wahr",
+        "word": "Wahr",
         "pos": "Adjective",
         "definition": "true"
     },
     {
-        "vocab": "Herbst",
+        "word": "Herbst",
         "pos": "Noun",
         "definition": "autumn",
         "description": "The German word “Herbst” (meaning “autumn”) has the same etymological ancestor as\r\n the English word “harvest”. Both terms can be traced back to the Proto-West Germanic language."
     },
     {
-        "vocab": "Jederzeit",
+        "word": "Jederzeit",
         "pos": "Adverb",
         "definition": "anytime, always",
         "description": "The adverb “jederzeit” is formed by combining the pronoun “jeder” (which means\r\n “any”) and the noun “Zeit” (which means “time”)."
     },
     {
-        "vocab": "Fliegen",
+        "word": "Fliegen",
         "pos": "Verb",
         "definition": "to fly"
     },
     {
-        "vocab": "Riesig",
+        "word": "Riesig",
         "pos": "Adjective",
         "definition": "gigantic"
     }

@@ -1,55 +1,19 @@
 package main
 
 import (
-	"encoding/json"
+	"bufio"
 	"fmt"
 	"log"
 	"os"
+	"strings"
 )
 
-type WordAdvanced []WordAdvancedElement
-
-func UnmarshalWordAdvanced(data []byte) (WordAdvanced, error) {
-	var r WordAdvanced
-	err := json.Unmarshal(data, &r)
-	return r, err
-}
-
-func (r *WordAdvanced) Marshal() ([]byte, error) {
-	return json.Marshal(r)
-}
-
-type WordAdvancedElement struct {
-	Word       string  `json:"Word"`
-	Pos         Pos     `json:"pos"`
-	Definition  string  `json:"definition"`
-	Description *string `json:"description,omitempty"`
-}
-
-type Pos string
-
-const (
-	Adjective   Pos = "Adjective"
-	Adverb      Pos = "Adverb"
-	Article     Pos = "Article"
-	Conjunction Pos = "Conjunction"
-	Determiner  Pos = "Determiner"
-	Noun        Pos = "Noun"
-	Numeral     Pos = "Numeral"
-	Particle    Pos = "Particle"
-	Preposition Pos = "Preposition"
-	Pronoun     Pos = "Pronoun"
-	Propernoun  Pos = "Propernoun"
-	Verb        Pos = "Verb"
-)
-
-func PlayAdvanced() {
+func PlayAdvanced(scanner *bufio.Scanner, numWords int, correct *int) {
 	file, err := os.ReadFile("./Top1000.json")
 
 	if err != nil {
 		log.Fatal(err)
 	}
-
 
 	Words, err := UnmarshalWordAdvanced(file)
 
@@ -57,11 +21,28 @@ func PlayAdvanced() {
 		log.Fatal(err)
 	}
 
-	for _, i := range Words {
-		fmt.Println(i.Word)
-		fmt.Println(i.Pos)
-		fmt.Println(i.Definition)
-		fmt.Println(i.Description)
+	for i := 0; i < numWords; i++ {
+		word := Words[0]
 
+		if err != nil {
+			log.Fatal(err)
+		}
+
+		fmt.Println("\nDefinition: " + word.Definition + " (Pos: " + string(word.Pos) + ")")
+
+		scanner.Scan()
+
+		input := scanner.Text()
+
+		if strings.EqualFold(strings.TrimSpace(input), word.Word) {
+			fmt.Println(string(colorGreen), "✔ Correct", string(colorReset))
+			*correct++
+		} else {
+			fmt.Println(string(colorRed), "❌ Incorrect", string(colorReset))
+			fmt.Println(string(colorGreen), "Correct Answer: "+word.Word, string(colorReset))
+			if word.Description != nil {
+				fmt.Println(string(colorYellow), "Additional Information Word: "+*word.Description, string(colorReset))
+			}
+		}
 	}
 }
