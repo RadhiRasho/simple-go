@@ -5,6 +5,7 @@ use (
 	./basics
 	./fileio
 	./games/game-of-life
+	./games/german
 	./games/snake
 	./gin-server
 	./goroutines
