@@ -15,30 +15,31 @@ func main() {
 		os.Exit(1)
 	}
 
-	flag.String("Help", "", "Help")
-	flag.String("Top1000", "", "Top 1000")
+	flag.String("challenge", "", "Challenge mode with over 1000 most common words")
 
 	flag.Parse()
 
 	main := strings.ToLower(flag.Arg(0))
 
 	if main == "help" {
-		fmt.Println("Usage: german [top1000] | [help] | [no arguments]")
+		fmt.Println("Usage: german [challenge] | [help] | [no arguments]")
+		fmt.Println("Options:")
+		flag.PrintDefaults()
 		os.Exit(0)
 	}
 
-	var top1000 string
-	if main == "top1000" {
-		top1000 = "y"
+	var challenge string
+	if main == "challenge" {
+		challenge = "y"
 	}
 
 	scanner := bufio.NewScanner(os.Stdin)
 
-	if top1000 == "" {
-		fmt.Println("Would you like to play Top 1000 (Y/N)? (Default: N)")
+	if challenge == "" {
+		fmt.Println("Would you like to take on the Challenge Mode (Y/N)? (Default: N)")
 		scanner.Scan()
 
-		top1000 = scanner.Text()
+		challenge = scanner.Text()
 	}
 
 	fmt.Println("How many would you like to try out? (default: 10)")
@@ -54,7 +55,7 @@ func main() {
 
 	correct := 0
 
-	if strings.ToLower(top1000) == "y" {
+	if strings.ToLower(challenge) == "y" {
 		PlayAdvanced(scanner, numWords, &correct)
 	} else {
 		PlayKnownWords(scanner, numWords, &correct)

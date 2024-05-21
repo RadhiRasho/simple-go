@@ -18,12 +18,22 @@ func PlayAdvanced(scanner *bufio.Scanner, numWords int, correct *int) {
 
 	Words, err := UnmarshalWordAdvanced(file)
 
+	usedWords := make(map[string]bool)
+
 	if err != nil {
 		log.Fatal(err)
 	}
 
 	for i := 0; i < numWords; i++ {
+		var word WordAdvancedElement
+		for {
 		word := Words[rand.Intn(len(Words))]
+			if !usedWords[word.Word] {
+				break
+			}
+		}
+
+		usedWords[word.Word] = true
 
 		if err != nil {
 			log.Fatal(err)
@@ -42,7 +52,7 @@ func PlayAdvanced(scanner *bufio.Scanner, numWords int, correct *int) {
 			fmt.Println(string(colorRed), "❌ Incorrect", string(colorReset))
 			fmt.Println(string(colorGreen), "Correct Answer: "+word.Word, string(colorReset))
 			if word.Description != nil {
-				fmt.Println(string(colorYellow), "Additional Information Word: "+*word.Description, string(colorReset))
+				fmt.Println(string(colorYellow), "Additional Information: "+*word.Description, string(colorReset))
 			}
 		}
 	}
