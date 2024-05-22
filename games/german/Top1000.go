@@ -27,7 +27,7 @@ func PlayAdvanced(scanner *bufio.Scanner, numWords int, correct *int) {
 	for i := 0; i < numWords; i++ {
 		var word WordAdvancedElement
 		for {
-		word := Words[rand.Intn(len(Words))]
+		word = Words[rand.Intn(len(Words))]
 			if !usedWords[word.Word] {
 				break
 			}
