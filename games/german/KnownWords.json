@@ -1,0 +1,3712 @@
+[
+    {
+        "word": "a",
+        "EnglishSentence": "I have a cat.",
+        "pos": "article",
+        "definition": [
+            "A"
+        ],
+        "description": "The indefinite article is used when referring to a single instance of something, e.g. a person, a thing, a place, a concept, an idea, etc.\n It is used before singular nouns that are countable. The indefinite article is also used to refer to a single instance of a non-countable noun."
+    },
+    {
+        "word": "aber",
+        "EnglishSentence": "I like cats, but I don't like dogs.",
+        "pos": "conjunction",
+        "definition": [
+            "but",
+            "however"
+        ],
+        "description": "The conjunction 'aber' is used to express a contrast or opposition between two statements or ideas.\n It is used to introduce a statement that contrasts with or contradicts the previous statement."
+    },
+    {
+        "word": "Abfahrt",
+        "EnglishSentence": "The train's departure is at 3:00 PM.",
+        "pos": "noun",
+        "definition": [
+            "departure"
+        ],
+        "description": "The noun 'Abfahrt' means 'departure' in English. It refers to the act of leaving or setting out on a journey or trip.\n It is often used in the context of transportation, such as trains, buses, planes, etc."
+    },
+    {
+        "word": "ach",
+        "EnglishSentence": "Ach, I forgot my keys at home.",
+        "pos": "interjection",
+        "definition": [
+            "oh",
+            "alas"
+        ],
+        "description": "The interjection 'ach' is used to express a variety of emotions or reactions, such as surprise, disappointment, frustration, sympathy, etc.\n It is often used to convey a sense of resignation or acceptance of a situation."
+    },
+    {
+        "word": "acht",
+        "EnglishSentence": "The meeting is at eight o'clock.",
+        "pos": "numeral",
+        "definition": [
+            "eight",
+            "8"
+        ],
+        "description": "The numeral 'acht' means 'eight' in English. It is used to represent the number 8 in counting or numerical expressions.\n It is a cardinal number that comes after seven and before nine."
+    },
+    {
+        "word": "Achtung",
+        "EnglishSentence": "Achtung! Watch out for the falling debris.",
+        "pos": "noun interjection",
+        "definition": [
+            "attention",
+            "watch out",
+            "look out",
+            "beware",
+            "warning"
+        ],
+        "description": "The noun 'Achtung' is used as an interjection to get someone's attention or warn them about a potential danger or hazard.\n It is often used in situations where immediate action or caution is required."
+    },
+    {
+        "word": "alt",
+        "EnglishSentence": "The building is old and in need of repairs.",
+        "pos": "adjective",
+        "definition": [
+            "old",
+            "aged"
+        ],
+        "description": "The adjective 'alt' means 'old' in English. It is used to describe something or someone that has been in existence for a long time or is no longer new.\n It can refer to the age of a person, object, building, etc."
+    },
+    {
+        "word": "am Wochenende",
+        "EnglishSentence": "I like to go hiking on the weekend.",
+        "pos": "adverb",
+        "definition": [
+            "on the weekend"
+        ],
+        "description": "The adverbial phrase 'am Wochenende' means 'on the weekend' in English. It is used to indicate a specific time or period, such as a weekend.\n It is often used to talk about activities or events that take place on weekends."
+    },
+    {
+        "word": "am",
+        "EnglishSentence": "The book is on the table.",
+        "pos": "noun",
+        "definition": [
+            "on"
+        ],
+        "description": "The noun 'am' means 'on' in English. It is used to indicate a specific location or position in relation to something else.\n It is often used in combination with other prepositions to indicate the direction or location of an action or event."
+    },
+    {
+        "word": "Amerika",
+        "EnglishSentence": "I want to visit America one day.",
+        "pos": "noun",
+        "definition": [
+            "America",
+            "USA"
+        ],
+        "description": "The noun 'Amerika' means 'America' or 'USA' in English. It refers to the continent or country located in the Western Hemisphere.\n It is often used to refer to the United States of America or North and South America collectively."
+    },
+    {
+        "word": "Anwalt",
+        "EnglishSentence": "I need to consult with my lawyer before signing the contract.",
+        "pos": "noun masculine",
+        "definition": [
+            "lawyer",
+            "attorney"
+        ],
+        "description": "The noun 'Anwalt' means 'lawyer' or 'attorney' in English. It refers to a legal professional who provides advice and representation to clients in legal matters.\n Anwälte specialize in various areas of law, such as criminal, civil, family, or corporate law."
+    },
+    {
+        "word": "Anwältin",
+        "EnglishSentence": "The attorney is representing the defendant in court.",
+        "pos": "noun feminine",
+        "definition": [
+            "lawyer",
+            "a lawyer"
+        ],
+        "description": "The noun 'Änwalt' means 'lawyer' or 'attorney' in English. It refers to a legal professional who provides advice and representation to clients in legal matters.\n Anwälte specialize in various areas of law, such as criminal, civil, family, or corporate law. The feminine form 'Anwältin' is used"
+    },
+    {
+        "word": "Apotheke",
+        "EnglishSentence": "I need to pick up my prescription at the pharmacy.",
+        "pos": "noun feminine",
+        "definition": [
+            "pharmacy",
+            "drugstore"
+        ],
+        "description": "The noun 'Apotheke' means 'pharmacy' or 'drugstore' in English. It refers to a retail establishment where prescription medications, over-the-counter drugs, and other health-related products are sold.\n Apotheken are staffed by pharmacists who dispense medications and provide health advice to customers."
+    },
+    {
+        "word": "Arbeit",
+        "EnglishSentence": "I have a lot of work to do this week.",
+        "pos": "noun feminine",
+        "definition": [
+            "work",
+            "job",
+            "piece of work"
+        ],
+        "description": "The noun 'Arbeit' means 'work' or 'job' in English. It refers to the physical or mental effort required to complete a task or achieve a goal.\n Arbeit can also refer to a specific task, project, or assignment that needs to be completed."
+    },
+    {
+        "word": "Arzt",
+        "EnglishSentence": "The doctor prescribed medication for my illness.",
+        "pos": "noun masculine",
+        "definition": [
+            "doctor",
+            "physician",
+            "medic"
+        ],
+        "description": "The noun 'Arzt' means 'doctor' or 'physician' in English. It refers to a medical professional who diagnoses, treats, and prevents illnesses and injuries in patients.\n Ärzte can specialize in various areas of medicine, such as pediatrics, surgery, internal medicine, or psychiatry."
+    },
+    {
+        "word": "au",
+        "EnglishSentence": "Ouch! That hurt.",
+        "pos": "interjection",
+        "definition": [
+            "ow",
+            "oh",
+            "ouch",
+            "ouch!"
+        ],
+        "description": "The interjection 'au' is used to express pain, discomfort, or surprise in response to physical injury or emotional distress.\n It is often used to indicate that something is causing discomfort or pain."
+    },
+    {
+        "word": "auch",
+        "EnglishSentence": "I like pizza, and I also like pasta.",
+        "pos": "adverb",
+        "definition": [
+            "also",
+            "as well",
+            "too"
+        ],
+        "description": "The adverb 'auch' means 'also', 'as well', or 'too' in English. It is used to indicate that something is in addition to or in agreement with something else.\n It is often used to express agreement, confirmation, or similarity."
+    },
+    {
+        "word": "auf Wiedersehen",
+        "EnglishSentence": "Goodbye, see you later.",
+        "pos": "interjection",
+        "definition": [
+            "goodbye",
+            "farewell",
+            "see you again"
+        ],
+        "description": "The interjection 'auf Wiedersehen' means 'goodbye', 'farewell', or 'see you again' in English. It is used to bid someone farewell or express the hope of seeing them again in the future.\n It is a polite and formal way of saying goodbye in German."
+    },
+    {
+        "word": "auf",
+        "EnglishSentence": "The book is on the table.",
+        "pos": "preposition",
+        "definition": [
+            "on",
+            "onto",
+            "to",
+            "at"
+        ],
+        "description": "The preposition 'auf' means 'on', 'onto', 'to', or 'at' in English. It is used to indicate the direction, location, or position of an action or event in relation to something else.\n It is often used in combination with other prepositions to indicate the movement or placement of an object or person."
+    },
+    {
+        "word": "aufgeregt",
+        "EnglishSentence": "I'm excited to see the new movie.",
+        "pos": "adjective",
+        "definition": [
+            "excited",
+            "agitated"
+        ],
+        "description": "The adjective 'aufgeregt' means 'excited' or 'agitated' in English. It is used to describe a state of heightened emotion or anticipation in response to a positive or negative stimulus.\n Aufgeregte people may feel nervous, anxious, or enthusiastic about something."
+    },
+    {
+        "word": "aufregend",
+        "EnglishSentence": "The roller coaster ride was thrilling and exciting.",
+        "pos": "adjective",
+        "definition": [
+            "exciting",
+            "thrilling"
+        ],
+        "description": "The adjective 'aufregend' means 'exciting' or 'thrilling' in English. It is used to describe something that is stimulating, engaging, or emotionally arousing.\n Aufregende experiences or events may be enjoyable, suspenseful, or memorable."
+    },
+    {
+        "word": "Aufzug",
+        "EnglishSentence": "The elevator is out of order.",
+        "pos": "noun masculine",
+        "definition": [
+            "elevator",
+            "lift"
+        ],
+        "description": "The noun 'Aufzug' means 'elevator' or 'lift' in English. It refers to a mechanical device used to transport people or goods between different floors or levels of a building.\n Aufzüge are commonly found in hotels, office buildings, shopping malls, and other multi-story structures."
+    },
+    {
+        "word": "aus",
+        "EnglishSentence": "I'm from Germany.",
+        "pos": "preposition",
+        "definition": [
+            "from",
+            "out of",
+            "off",
+            "out"
+        ],
+        "description": "The preposition 'aus' means 'from', 'out of', 'off', or 'out' in English. It is used to indicate the origin, source, or starting point of an action or event.\n It is often used in combination with other prepositions to indicate the movement or direction of an object or person."
+    },
+    {
+        "word": "Badezimmer",
+        "EnglishSentence": "I need to use the bathroom.",
+        "pos": "noun neuter",
+        "definition": [
+            "bathroom",
+            "restroom",
+            "washroom"
+        ],
+        "description": "The noun 'Badezimmer' means 'bathroom', 'restroom', or 'washroom' in English. It refers to a room or space in a building that is equipped with facilities for personal hygiene, such as a toilet, sink, and shower or bathtub.\n Badezimmer are commonly found in homes, hotels, restaurants, and other public places."
+    },
+    {
+        "word": "Bahnhof",
+        "EnglishSentence": "The train station is crowded with commuters.",
+        "pos": "noun masculine",
+        "definition": [
+            "train station",
+            "railway station",
+            "rail station"
+        ],
+        "description": "The noun 'Bahnhof' means 'train station', 'railway station', or 'rail station' in English. It refers to a facility or building where trains arrive and depart, passengers board and alight, and goods are loaded and unloaded.\n Bahnhöfe are important transportation hubs in cities and towns."
+    },
+    {
+        "word": "Basketball",
+        "EnglishSentence": "I enjoy playing basketball with my friends.",
+        "pos": "noun masculine",
+        "definition": [
+            "basketball"
+        ],
+        "description": "The noun 'Basketball' means 'basketball' in English. It refers to a team sport played on a rectangular court with a hoop and backboard at each end.\n Basketball is played by two teams of five players each, who try to score points by shooting the ball through the opponent's hoop."
+    },
+    {
+        "word": "Bequem",
+        "EnglishSentence": "The sofa is comfortable and cozy.",
+        "pos": "adjective",
+        "definition": [
+            "comfortable",
+            "comfortably",
+            "convenient"
+        ],
+        "description": "The adjective 'bequem' means 'comfortable', 'comfortably', or 'convenient' in English. It is used to describe something that provides physical ease, relaxation, or convenience.\n Bequeme furniture, clothing, or accommodations are designed to promote comfort and well-being."
+    },
+    {
+        "word": "Beruf",
+        "EnglishSentence": "Teaching is my profession.",
+        "pos": "noun masculine",
+        "definition": [
+            "profession",
+            "occupation",
+            "trade"
+        ],
+        "description": "The noun 'Beruf' means 'profession', 'occupation', or 'trade' in English. It refers to a person's regular or principal activity, job, or vocation that provides income or livelihood.\n Berufe can be classified into various categories, such as healthcare, education, business, technology, or the arts."
+    },
+    {
+        "word": "Bett",
+        "EnglishSentence": "I like to read in bed before going to sleep.",
+        "pos": "noun neuter",
+        "definition": [
+            "bed"
+        ],
+        "description": "The noun 'Bett' means 'bed' in English. It refers to a piece of furniture used for sleeping or resting, typically consisting of a mattress and a frame.\n Betten come in various sizes, styles, and materials, and are commonly found in bedrooms, hotels, dormitories, and other sleeping quarters."
+    },
+    {
+        "word": "bewölkt",
+        "EnglishSentence": "The weather forecast predicts cloudy skies with a chance of rain.",
+        "pos": "adjective",
+        "definition": [
+            "cloudy"
+        ],
+        "description": "The adjective 'bewölkt' means 'cloudy' in English. It is used to describe the weather condition in which the sky is covered with clouds and the sun is obscured.\n Bewölktes weather is often associated with overcast skies, reduced visibility, and the possibility of precipitation."
+    },
+    {
+        "word": "Bibliothek",
+        "EnglishSentence": "I like to study in the library.",
+        "pos": "noun feminine",
+        "definition": [
+            "library"
+        ],
+        "description": "The noun 'Bibliothek' means 'library' in English. It refers to a collection of books, periodicals, and other materials organized for reading, research, and study.\n Bibliotheken are often located in educational institutions, public buildings, and cultural centers."
+    },
+    {
+        "word": "Bier",
+        "EnglishSentence": "I enjoy drinking beer with my friends.",
+        "pos": "noun neuter",
+        "definition": [
+            "beer"
+        ],
+        "description": "The noun 'Bier' means 'beer' in English. It refers to an alcoholic beverage made from fermented grains, typically barley, hops, water, and yeast.\n Bier is a popular drink consumed in many cultures and countries around the world, often in social or celebratory settings."
+    },
+    {
+        "word": "billig",
+        "EnglishSentence": "I bought a cheap shirt at the store.",
+        "pos": "adjective",
+        "definition": [
+            "cheap",
+            "inexpensive",
+            "low-cost"
+        ],
+        "description": "The adjective 'billig' means 'cheap', 'inexpensive', or 'low-cost' in English. It is used to describe something that is priced at a relatively low or affordable level.\n Billige products, services, or accommodations are often considered to be of lesser quality or value."
+    },
+    {
+        "word": "bin",
+        "EnglishSentence": "I am a student.",
+        "pos": "verb",
+        "definition": [
+            "am"
+        ],
+        "description": "The verb 'bin' means 'am' in English. It is the first-person singular form of the verb 'sein' (to be) in the present tense.\n Bin is used to indicate that the subject of the sentence is the speaker or someone or something associated with the speaker."
+    },
+    {
+        "word": "bis bald",
+        "EnglishSentence": "See you soon!",
+        "pos": "interjection",
+        "definition": [
+            "see you soon"
+        ],
+        "description": "The interjection 'bis bald' means 'see you soon' in English. It is used to bid someone farewell with the expectation of meeting or seeing them again in the near future.\n Bis bald is a casual and friendly way of saying goodbye in German."
+    },
+    {
+        "word": "bis später",
+        "EnglishSentence": "See you later!",
+        "pos": "interjection",
+        "definition": [
+            "see you later"
+        ],
+        "description": "The interjection 'bis später' means 'see you later' in English. It is used to bid someone farewell with the expectation of meeting or seeing them again at a later time.\n Bis später is a casual and friendly way of saying goodbye in German."
+    },
+    {
+        "word": "bis",
+        "EnglishSentence": "The store is open until 9:00 PM.",
+        "pos": "preposition",
+        "definition": [
+            "to",
+            "until",
+            "till",
+            "'til"
+        ],
+        "description": "The preposition 'bis' means 'to', 'until', 'till', or ''til' in English. It is used to indicate the endpoint, limit, or duration of an action or event.\n Bis is often used in combination with other prepositions to indicate the time, place, or condition of an action or event."
+    },
+    {
+        "word": "bist",
+        "EnglishSentence": "You are my best friend.",
+        "pos": "verb",
+        "definition": [
+            "are"
+        ],
+        "description": "The verb 'bist' means 'are' in English. It is the second-person singular form of the verb 'sein' (to be) in the present tense.\n Bist is used to indicate that the subject of the sentence is the person or thing being addressed."
+    },
+    {
+        "word": "bitte",
+        "EnglishSentence": "Please pass the salt.",
+        "pos": "interjection",
+        "definition": [
+            "please"
+        ],
+        "description": "The interjection 'bitte' means 'please' in English. It is used to make a polite request, offer, or response in a conversation or interaction.\n Bitte is a common and versatile expression that can be used in a variety of social and formal contexts."
+    },
+    {
+        "word": "Bluse",
+        "EnglishSentence": "I bought a new blouse for the party.",
+        "pos": "noun feminine",
+        "definition": [
+            "blouse",
+            "top"
+        ],
+        "description": "The noun 'Bluse' means 'blouse' or 'top' in English. It refers to a garment typically worn by women, which covers the upper body and may be made of cotton, silk, or other materials."
+    },
+    {
+        "word": "brauchen",
+        "EnglishSentence": "I need a new phone.",
+        "pos": "verb",
+        "definition": [
+            "need",
+            "do need",
+            "require"
+        ],
+        "description": "The verb 'brauchen' means 'need' or 'do need' in English. It is used to express the necessity or requirement for something or someone.\n Brauchen is often used in combination with a noun or pronoun to indicate the object of the need or desire."
+    },
+    {
+        "word": "brauchst",
+        "EnglishSentence": "Do you need help?",
+        "pos": "verb",
+        "definition": [
+            "need",
+            "use",
+            "require"
+        ],
+        "description": "The verb 'brauchst' means 'need' or 'use' in English. It is the second-person singular form of the verb 'brauchen' (to need) in the present tense.\n Brauchst is used to indicate that the subject of the sentence requires or desires something."
+    },
+    {
+        "word": "Brot",
+        "EnglishSentence": "I like to eat bread with butter.",
+        "pos": "noun neuter",
+        "definition": [
+            "bread",
+            "loaf of bread"
+        ],
+        "description": "The noun 'Brot' means 'bread' in English. It refers to a staple food made from flour, water, and yeast or other leavening agents, which is baked or cooked and typically sliced or served as a meal or accompaniment.\n Brot is a common food item in many cultures and cuisines around the world."
+    },
+    {
+        "word": "Bruder",
+        "EnglishSentence": "My brother is coming to visit me next week.",
+        "pos": "noun masculine",
+        "definition": [
+            "brother",
+            "bro"
+        ],
+        "description": "The noun 'Bruder' means 'brother' or 'bro' in English. It refers to a male sibling or a close male friend, often used as a term of endearment between friends."
+    },
+    {
+        "word": "Bäckerei",
+        "EnglishSentence": "I bought fresh bread from the bakery.",
+        "pos": "noun feminine",
+        "definition": [
+            "bakery",
+            "baker's"
+        ],
+        "description": "The noun 'Bäckerei' means 'bakery' or 'baker's' in English. It refers to a retail establishment where bread, pastries, cakes, and other baked goods are made and sold.\n Bäckereien are often run by bakers or pastry chefs who specialize in the art of baking."
+    },
+    {
+        "word": "Bär",
+        "EnglishSentence": "The teddy bear is my favorite toy.",
+        "pos": "noun masculine",
+        "definition": [
+            "bear",
+            "teddy bear"
+        ],
+        "description": "The noun 'Bär' means 'bear' or 'teddy bear' in English. It refers to a large, carnivorous mammal with a heavy build, thick fur, and a short tail.\n Bären are found in various habitats around the world and are known for their strength, agility, and intelligence."
+    },
+    {
+        "word": "Bücherregal",
+        "EnglishSentence": "I need to organize my bookshelf.",
+        "pos": "noun neuter",
+        "definition": [
+            "bookcase",
+            "bookshelf"
+        ],
+        "description": "The noun 'Bücherregal' means 'bookcase' or 'bookshelf' in English. It refers to a piece of furniture designed to store and display books, magazines, and other reading materials.\n Bücherregale come in various sizes, styles, and materials, and are commonly found in homes, libraries, and offices."
+    },
+    {
+        "word": "Café",
+        "EnglishSentence": "Let's meet at the café for coffee.",
+        "pos": "noun neuter",
+        "definition": [
+            "café",
+            "coffee shop",
+            "coffeehouse",
+            "coffee bar"
+        ],
+        "description": "The noun 'Café' means 'café', 'coffee shop', 'coffeehouse', or 'coffee bar' in English. It refers to a casual dining establishment that serves coffee, tea, pastries, sandwiches, and other light refreshments.\n Cafés are popular meeting places for socializing, relaxing, or working."
+    },
+    {
+        "word": "cool",
+        "EnglishSentence": "That's a cool car.",
+        "pos": "adjective",
+        "definition": [
+            "cool",
+            "chill",
+            "awesome"
+        ],
+        "description": "The adjective 'cool' means 'cool', 'chill', or 'awesome' in English. It is used to describe something or someone that is stylish, fashionable, or impressive.\n Cool is often used as a positive expression of approval, admiration, or appreciation."
+    },
+    {
+        "word": "Couch",
+        "EnglishSentence": "I like to relax on the couch after a long day.",
+        "pos": "noun feminine",
+        "definition": [
+            "couch"
+        ],
+        "description": "The noun 'Couch' means 'couch' in English. It refers to a piece of furniture designed for seating multiple people, typically with a backrest and armrests.\n Couches are commonly found in living rooms, family rooms, and other communal spaces for relaxation and socializing."
+    },
+    {
+        "word": "da drüben",
+        "EnglishSentence": "The park is over there.",
+        "pos": "adverb",
+        "definition": [
+            "over there"
+        ],
+        "description": "The adverbial phrase 'da drüben' means 'over there' in English. It is used to indicate a specific location or direction that is away from the speaker and the listener.\n Da drüben is often used to point out or refer to something that is not nearby or within reach."
+    },
+    {
+        "word": "danke",
+        "EnglishSentence": "Thank you for your help.",
+        "pos": "interjection",
+        "definition": [
+            "thank you",
+            "thanks"
+        ],
+        "description": "The interjection 'danke' means 'thank you' or 'thanks' in English. It is used to express gratitude, appreciation, or acknowledgment in response to a kind gesture, favor, or gift.\n Danke is a common and polite way of showing thanks in German."
+    },
+    {
+        "word": "das",
+        "EnglishSentence": "This is my book.",
+        "pos": "article pronoun",
+        "definition": [
+            "the",
+            "that",
+            "this"
+        ],
+        "description": "The definite article 'das' is used when referring to a specific instance of something, e.g. a person, a thing, a place, a concept, an idea, etc.\n It is used before singular nouns that are countable. The definite article is also used to refer to a specific instance of a non-countable noun."
+    },
+    {
+        "word": "dein",
+        "EnglishSentence": "My brother likes your sister.",
+        "pos": "pronoun masculine neuter",
+        "definition": [
+            "your",
+            "yours"
+        ],
+        "description": "The possessive pronoun 'dein' means 'your' or 'yours' in English. It is used to indicate ownership, possession, or association with the person or thing being addressed.\n Dein is used before masculine and neuter singular nouns."
+    },
+    {
+        "word": "deine",
+        "EnglishSentence": "Your cat is cute.",
+        "pos": "pronoun feminine",
+        "definition": [
+            "your",
+            "yours"
+        ],
+        "description": "The possessive pronoun 'deine' means 'your' or 'yours' in English. It is used to indicate ownership, possession, or association with the person or thing being addressed.\n Deine is used before feminine singular nouns."
+    },
+    {
+        "word": "deinen",
+        "EnglishSentence": "I like your car.",
+        "pos": "pronoun masculine",
+        "definition": [
+            "your",
+            "to your",
+            "for your",
+            "yours"
+        ],
+        "description": "The possessive pronoun 'deinen' means 'your', 'to your', 'for your', or 'yours' in English. It is used to indicate ownership, possession, or association with the person or thing being addressed.\n Deinen is used before masculine singular nouns."
+    },
+    {
+        "word": "den",
+        "EnglishSentence": "I like the film.",
+        "pos": "article pronoun",
+        "definition": [
+            "the",
+            "that",
+            "this"
+        ],
+        "description": "The definite article 'den' is used when referring to a specific instance of something, e.g. a person, a thing, a place, a concept, an idea, etc.\n It is used before singular nouns that are countable. The definite article is also used to refer to a specific instance of a non-countable noun."
+    },
+    {
+        "word": "der",
+        "EnglishSentence": "The man is tall.",
+        "pos": "article pronoun",
+        "definition": [
+            "the",
+            "that",
+            "this"
+        ],
+        "description": "The definite article 'der' is used when referring to a specific instance of something, e.g. a person, a thing, a place, a concept, an idea, etc.\n It is used before singular nouns that are countable. The definite article is also used to refer to a specific instance of a non-countable noun."
+    },
+    {
+        "word": "Deutsch",
+        "EnglishSentence": "I am learning German.",
+        "definition": [
+            "German"
+        ],
+        "description": "The adjective 'Deutsch' means 'German' in English. It is used to describe something or someone that is related to or associated with the country, language, culture, or people of Germany.\n Deutsch is also used as a noun to refer to the German language."
+    },
+    {
+        "word": "Deutschland",
+        "EnglishSentence": "Germany is a beautiful country.",
+        "definition": [
+            "Germany"
+        ],
+        "description": "The noun 'Deutschland' means 'Germany' in English. It refers to a country located in Central Europe, known for its rich history, culture, and contributions to art, science, and technology.\n Deutschland is a member of the European Union and a major economic and political power in the region."
+    },
+    {
+        "word": "die",
+        "EnglishSentence": "The cat that I saw was white.",
+        "pos": "article pronoun feminine plural",
+        "definition": [
+            "the",
+            "that",
+            "this"
+        ],
+        "description": "The definite article 'die' is used when referring to a specific instance of something, e.g. a person, a thing, a place, a concept, an idea, etc.\n It is used before plural nouns that are countable. The definite article is also used to refer to a specific instance of a non-countable noun."
+    },
+    {
+        "word": "Dienstag",
+        "EnglishSentence": "I have an appointment on Tuesday.",
+        "pos": "noun masculine",
+        "definition": [
+            "Tuesday"
+        ],
+        "description": "The noun 'Dienstag' means 'Tuesday' in English. It refers to the third day of the week, following Monday and preceding Wednesday.\n Dienstag is named after the Norse god Tyr, who was associated with law, justice, and heroic glory."
+    },
+    {
+        "word": "Dollar",
+        "EnglishSentence": "I need to exchange my dollars for euros.",
+        "pos": "noun masculine",
+        "definition": [
+            "dollar",
+            "dollars"
+        ],
+        "description": "The noun 'Dollar' means 'dollar' or 'dollars' in English. It refers to the currency unit used in the United States and several other countries around the world.\n Dollars are commonly used for international trade, investment, and financial transactions."
+    },
+    {
+        "word": "drei",
+        "EnglishSentence": "I have three siblings.",
+        "pos": "numeral",
+        "definition": [
+            "three",
+            "3"
+        ],
+        "description": "The numeral 'drei' means 'three' in English. It is used to indicate the quantity or number of something, typically in reference to a countable object, person, or group.\n Drei is an odd number that comes after two and before four."
+    },
+    {
+        "word": "dreißig",
+        "EnglishSentence": "The speed limit is thirty kilometers per hour.",
+        "pos": "numeral",
+        "definition": [
+            "thirty",
+            "30"
+        ],
+        "description": "The numeral 'dreißig' means 'thirty' in English. It is used to indicate the quantity or number of something, typically in reference to a countable object, person, or group.\n Dreißig is a multiple of ten that comes after twenty-nine and before thirty-one."
+    },
+    {
+        "word": "du",
+        "EnglishSentence": "You are my best friend.",
+        "pos": "pronoun",
+        "definition": [
+            "you"
+        ],
+        "description": "The pronoun 'du' means 'you' in English. It is used to address or refer to the person being spoken to or about in the second person singular.\n Du is used informally and familiarly in German to address friends, family members, children, or pets."
+    },
+    {
+        "word": "dunkel",
+        "EnglishSentence": "The room is dark.",
+        "pos": "adjective",
+        "definition": [
+            "dark"
+        ],
+        "description": "The adjective 'dunkel' means 'dark' in English. It is used to describe the absence of light or the lack of illumination in a space, object, or environment.\n Dunkel is often associated with nighttime, shadows, or the absence of color or brightness."
+    },
+    {
+        "word": "Döner",
+        "EnglishSentence": "I like to eat döner kebab for lunch.",
+        "pos": "noun masculine",
+        "definition": [
+            "doner kebab",
+            "kebab"
+        ],
+        "description": "The noun 'Döner' means 'doner kebab' or 'kebab' in English. It refers to a type of Turkish dish made from seasoned meat cooked on a vertical rotisserie and served in a pita or flatbread with vegetables, sauces, and condiments.\n Döner is a popular street food in many countries and cultures."
+    },
+    {
+        "word": "dünn",
+        "EnglishSentence": "The paper is thin.",
+        "pos": "adjective",
+        "definition": [
+            "thin",
+            "slim",
+            "thinner"
+        ],
+        "description": "The adjective 'dünn' means 'thin', 'slim', or 'thinner' in English. It is used to describe something that has a small or narrow width, depth, or thickness.\n Dünne objects, materials, or structures may be delicate, fragile, or lightweight."
+    },
+    {
+        "word": "eh",
+        "EnglishSentence": "I'll do it anyway.",
+        "pos": "adverb",
+        "definition": [
+            "in any case",
+            "anyway"
+        ],
+        "description": "The adverb 'eh' means 'in any case' or 'anyway' in English. It is used to indicate that something will be done or happen regardless of other factors or circumstances.\n Eh is often used to express indifference, resignation, or determination."
+    },
+    {
+        "word": "ehe",
+        "EnglishSentence": "They got married before the baby was born.",
+        "pos": "conjunction",
+        "definition": [
+            "marriage",
+            "wedlock",
+            "matrimony"
+        ],
+        "description": "The conjunction 'ehe' means 'marriage', 'wedlock', or 'matrimony' in English. It refers to the legal or formal union of two people as partners in a personal relationship, typically involving a ceremony, contract, or commitment.\n Ehe is a social institution that is recognized and regulated by law in many cultures and societies."
+    },
+    {
+        "word": "Ei",
+        "EnglishSentence": "I like to eat eggs for breakfast.",
+        "pos": "noun neuter",
+        "definition": [
+            "egg"
+        ],
+        "description": "The noun 'Ei' means 'egg' in English. It refers to the reproductive body produced by chickens, birds, and other animals, which is used as a food source for humans and other animals.\n Eier are a versatile and nutritious food that can be prepared in various ways, such as boiled, fried, scrambled, or poached."
+    },
+    {
+        "word": "ein",
+        "EnglishSentence": "I have a cat.",
+        "pos": "article pronoun masculine neuter",
+        "definition": [
+            "a",
+            "an"
+        ],
+        "description": "The indefinite article 'ein' is used when referring to a non-specific instance of something, e.g. a person, a thing, a place, a concept, an idea, etc.\n It is used before singular nouns that are countable. The indefinite article is also used to refer to a non-specific instance of a non-countable noun."
+    },
+    {
+        "word": "eine",
+        "EnglishSentence": "I have a dog.",
+        "pos": "article pronoun feminine",
+        "definition": [
+            "an",
+            "a"
+        ],
+        "description": "The indefinite article 'eine' is used when referring to a non-specific instance of something, e.g. a person, a thing, a place, a concept, an idea, etc.\n It is used before singular nouns that are countable. The indefinite article is also used to refer to a non-specific instance of a non-countable noun."
+    },
+    {
+        "word": "einen",
+        "EnglishSentence": "I have a car.",
+        "pos": "article pronoun masculine",
+        "definition": [
+            "an",
+            "a"
+        ],
+        "description": "The indefinite article 'einen' is used when referring to a non-specific instance of something, e.g. a person, a thing, a place, a concept, an idea, etc.\n It is used before singular nouns that are countable. The indefinite article is also used to refer to a non-specific instance of a non-countable noun."
+    },
+    {
+        "word": "einfach",
+        "EnglishSentence": "The solution is simple.",
+        "pos": "adjective",
+        "definition": [
+            "easy",
+            "simple"
+        ],
+        "description": "The adjective 'einfach' means 'easy' or 'simple' in English. It is used to describe something that is not complicated, difficult, or challenging.\n Einfache tasks, problems, or solutions are straightforward, uncomplicated, or accessible."
+    },
+    {
+        "word": "eins",
+        "EnglishSentence": "I have one apple.",
+        "pos": "numeral",
+        "definition": [
+            "one"
+        ],
+        "description": "The numeral 'eins' means 'one' in English. It is used to indicate the quantity or number of something, typically in reference to a countable object, person, or group.\n Eins is the first cardinal number and the base of the decimal numeral system."
+    },
+    {
+        "word": "Eintrittskarte",
+        "EnglishSentence": "I need to buy a ticket for the concert.",
+        "pos": "noun feminine",
+        "definition": [
+            "admission ticket",
+            "[admission/entry/entrance] [ticket/pass/card]"
+        ],
+        "description": "The noun 'Eintrittskarte' means 'admission ticket', 'entry ticket', 'entrance ticket', or 'ticket' in English. It refers to a document or token that grants the holder permission to enter a venue, event, or facility.\n Eintrittskarten are commonly used for concerts, movies, museums, amusement parks, and other attractions."
+    },
+    {
+        "word": "Elefant",
+        "EnglishSentence": "The elephant is the largest land animal.",
+        "pos": "noun masculine",
+        "definition": [
+            "elephant"
+        ],
+        "description": "The noun 'Elefant' means 'elephant' in English. It refers to a large, herbivorous mammal with a long trunk, tusks, and ears, known for its intelligence, memory, and social behavior.\n Elefanten are found in Africa and Asia and are known for their strength, size, and distinctive appearance."
+    },
+    {
+        "word": "elegant",
+        "EnglishSentence": "She is wearing an elegant dress.",
+        "pos": "adjective",
+        "definition": [
+            "elegant"
+        ],
+        "description": "The adjective 'elegant' means 'elegant' in English. It is used to describe something or someone that is stylish, sophisticated, or tasteful in appearance, manner, or behavior.\n Elegant objects, clothing, or designs are often associated with grace, refinement, or beauty."
+    },
+    {
+        "word": "Englisch",
+        "EnglishSentence": "I am learning English.",
+        "pos": "noun neuter",
+        "definition": [
+            "English"
+        ],
+        "description": "The noun 'Englisch' means 'English' in English. It refers to the language spoken in England, the United States, Canada, Australia, and other countries around the world.\n Englisch is one of the most widely spoken languages and is used for communication, business, education, and entertainment."
+    },
+    {
+        "word": "Entschuldigung",
+        "EnglishSentence": "I'm sorry for being late.",
+        "pos": "noun feminine",
+        "definition": [
+            "sorry",
+            "excuse me",
+            "apologies"
+        ],
+        "description": "The noun 'Entschuldigung' means 'sorry', 'excuse me', or 'apologies' in English. It is used to express regret, remorse, or apology for a mistake, offense, or inconvenience caused to someone else.\n Entschuldigungen are often used in social, professional, or formal contexts to acknowledge and rectify errors or misunderstandings."
+    },
+    {
+        "word": "er",
+        "EnglishSentence": "He is my brother.",
+        "pos": "pronoun masculine",
+        "definition": [
+            "he's",
+            "him",
+            "he",
+            "he'll"
+        ],
+        "description": "The pronoun 'er' means 'he', 'him', 'he's', or 'he'll' in English. It is used to refer to or address a male person or thing in the third person singular.\n Er is used to indicate the subject, object, or possess of the sentence."
+    },
+    {
+        "word": "Erdbeeren",
+        "EnglishSentence": "I like to eat strawberries with cream.",
+        "pos": "noun feminine",
+        "definition": [
+            "strawberries"
+        ],
+        "description": "The noun 'Erdbeeren' means 'strawberries' in English. It refers to a sweet, red fruit with seeds on the surface, typically grown on low plants and used in desserts, jams, and beverages.\n Erdbeeren are a popular and versatile ingredient in many cuisines and dishes."
+    },
+    {
+        "word": "es geht",
+        "EnglishSentence": "I'm all right.",
+        "pos": "phrase",
+        "definition": [
+            "I'm all right",
+            "I'm okay",
+            "I'm fine"
+        ],
+        "description": "The phrase 'es geht' means 'I'm all right', 'I'm okay', or 'I'm fine' in English. It is used to indicate that the speaker is in good health, spirits, or condition.\n Es geht is a common and informal response to inquiries about one's well-being or state of being."
+    },
+    {
+        "word": "es gibt",
+        "EnglishSentence": "There are many books in the library.",
+        "pos": "phrase",
+        "definition": [
+            "there are",
+            "there is",
+            "there's"
+        ],
+        "description": "The phrase 'es gibt' means 'there are', 'there is', or 'there's' in English. It is used to indicate the existence, presence, or availability of something or someone in a specific location or context.\n Es gibt is often used to introduce or describe objects, people, places, or events."
+    },
+    {
+        "word": "es tut mir leid",
+        "EnglishSentence": "I'm sorry.",
+        "pos": "phrase",
+        "definition": [
+            "I am sorry",
+            "I'm sorry"
+        ],
+        "description": "The phrase 'es tut mir leid' means 'I am sorry' in English. It is used to express regret, remorse, or apology for a mistake, offense, or inconvenience caused to someone else.\n Es tut mir leid is a formal and polite way of acknowledging and apologizing for errors or misunderstandings."
+    },
+    {
+        "word": "es",
+        "EnglishSentence": "It is raining.",
+        "pos": "pronoun",
+        "definition": [
+            "it"
+        ],
+        "description": "The pronoun 'es' means 'it' in English. It is used to refer to or address an inanimate object, concept, or idea in the third person singular.\n Es is used to indicate the subject, object, or possess of the sentence."
+    },
+    {
+        "word": "Essen",
+        "EnglishSentence": "I like to eat pizza for dinner.",
+        "pos": "noun neuter",
+        "definition": [
+            "food",
+            "meal"
+        ],
+        "description": "The noun 'Essen' means 'food' in English. It refers to any substance that is consumed by humans or animals to provide energy, nutrients, and sustenance for growth, development, and maintenance.\n Essen is a basic necessity of life and is essential for survival and well-being."
+    },
+    {
+        "word": "essen",
+        "EnglishSentence": "I am eating breakfast.",
+        "pos": "verb",
+        "definition": [
+            "eat",
+            "eating"
+        ],
+        "description": "The verb 'essen' means 'eat' or 'eating' in English. It is used to describe the action of consuming food or meals for nourishment, sustenance, or pleasure.\n Essen is a basic human activity that is essential for survival and well-being."
+    },
+    {
+        "word": "Eule",
+        "EnglishSentence": "The owl is a nocturnal bird of prey.",
+        "pos": "noun feminine",
+        "definition": [
+            "owl"
+        ],
+        "description": "The noun 'Eule' means 'owl' in English. It refers to a bird of prey with large eyes, a hooked beak, and sharp talons, known for its nocturnal habits, silent flight, and keen senses.\n Eulen are found in various habitats around the world and are associated with wisdom, mystery, and magic."
+    },
+    {
+        "word": "Euro",
+        "definition": [
+            "euros",
+            "euro"
+        ]
+    },
+    {
+        "word": "Fahrkarte",
+        "definition": [
+            "ticket"
+        ]
+    },
+    {
+        "word": "Fahrkarten",
+        "definition": [
+            "tickets"
+        ]
+    },
+    {
+        "word": "fantastisch",
+        "definition": [
+            "fantastic",
+            "great",
+            "terrific",
+            "awesome",
+            "fabulous",
+            "brilliant",
+            "wonderful",
+            "splendid",
+            "amazing"
+        ]
+    },
+    {
+        "word": "Fisch",
+        "definition": [
+            "fish"
+        ]
+    },
+    {
+        "word": "fotografiere",
+        "definition": [
+            "take photos",
+            "take pictures"
+        ]
+    },
+    {
+        "word": "Frankreich",
+        "definition": [
+            "France"
+        ]
+    },
+    {
+        "word": "Französisch",
+        "definition": [
+            "French"
+        ]
+    },
+    {
+        "word": "Frau",
+        "definition": [
+            "woman",
+            "wife",
+            "Ms.",
+            "Mrs."
+        ]
+    },
+    {
+        "word": "frei",
+        "definition": [
+            "free",
+            "available"
+        ]
+    },
+    {
+        "word": "Freund",
+        "definition": [
+            "boyfriend",
+            "partner"
+        ]
+    },
+    {
+        "word": "Freunde",
+        "definition": [
+            "friends",
+            "friends'"
+        ]
+    },
+    {
+        "word": "Freundin",
+        "definition": [
+            "girlfriend",
+            "friend",
+            "friend's",
+            "girlfriends"
+        ]
+    },
+    {
+        "word": "freut mich",
+        "definition": [
+            "nice to meet you",
+            "nice"
+        ]
+    },
+    {
+        "word": "Frühling",
+        "definition": [
+            "spring",
+            "springtime"
+        ]
+    },
+    {
+        "word": "frühstücke",
+        "definition": [
+            "eat breakfast",
+            "am eating breakfast"
+        ]
+    },
+    {
+        "word": "frühstückst",
+        "definition": [
+            "are eating breakfast",
+            "eat breakfast"
+        ]
+    },
+    {
+        "word": "frühstückt",
+        "definition": [
+            "are eating breakfast",
+            "eats breakfast",
+            "is eating breakfast",
+            "eat breakfast"
+        ]
+    },
+    {
+        "word": "Fußball",
+        "definition": [
+            "soccer",
+            "football"
+        ]
+    },
+    {
+        "word": "fällt",
+        "definition": [
+            "fall",
+            "is falling",
+            "cases",
+            "falls",
+            "drop"
+        ]
+    },
+    {
+        "word": "fünf",
+        "definition": [
+            "five"
+        ]
+    },
+    {
+        "word": "für",
+        "definition": [
+            "for"
+        ]
+    },
+    {
+        "word": "gehe",
+        "definition": [
+            "am going",
+            "walking",
+            "go",
+            "leave",
+            "going",
+            "walk",
+            "answer"
+        ]
+    },
+    {
+        "word": "gehen",
+        "definition": [
+            "go",
+            "walk",
+            "leave"
+        ]
+    },
+    {
+        "word": "Geld",
+        "definition": [
+            "money"
+        ]
+    },
+    {
+        "word": "Geldautomat",
+        "definition": [
+            "ATM",
+            "cash dispenser",
+            "cashpoint",
+            "bank machine",
+            "cash machine"
+        ]
+    },
+    {
+        "word": "genau",
+        "definition": [
+            "exactly",
+            "precisely"
+        ]
+    },
+    {
+        "word": "gern geschehen",
+        "definition": [
+            "you are welcome"
+        ]
+    },
+    {
+        "word": "gern",
+        "definition": [
+            "like",
+            "liked to",
+            "happy to",
+            "does like to",
+            "likes",
+            "liked",
+            "do like to",
+            "likes to",
+            "like to",
+            "be happy to",
+            "are happy to",
+            "enjoy",
+            "fond"
+        ]
+    },
+    {
+        "word": "geöffnet",
+        "definition": [
+            "open"
+        ]
+    },
+    {
+        "word": "Gleis",
+        "definition": [
+            "track",
+            "platform"
+        ]
+    },
+    {
+        "word": "groß",
+        "definition": [
+            "tall"
+        ]
+    },
+    {
+        "word": "Größe",
+        "definition": [
+            "size"
+        ]
+    },
+    {
+        "word": "gut",
+        "definition": [
+            "good"
+        ]
+    },
+    {
+        "word": "guten Tag",
+        "definition": [
+            "hello"
+        ]
+    },
+    {
+        "word": "ha",
+        "definition": [
+            "ha"
+        ]
+    },
+    {
+        "word": "habe",
+        "definition": [
+            "am",
+            "have been",
+            "did",
+            "had",
+            "have",
+            "have had",
+            "was"
+        ]
+    },
+    {
+        "word": "haben",
+        "definition": [
+            "have",
+            "do have",
+            "have had",
+            "is",
+            "hold",
+            "haben",
+            "were",
+            "take",
+            "get",
+            "having",
+            "serve",
+            "did",
+            "do serve",
+            "met",
+            "has",
+            "are",
+            "held",
+            "meet",
+            "be"
+        ]
+    },
+    {
+        "word": "habt",
+        "definition": [
+            "did",
+            "have",
+            "meet"
+        ]
+    },
+    {
+        "word": "halb",
+        "definition": [
+            "half"
+        ]
+    },
+    {
+        "word": "hallo",
+        "definition": [
+            "hello"
+        ]
+    },
+    {
+        "word": "hast",
+        "definition": [
+            "have",
+            "are",
+            "were",
+            "do",
+            "did",
+            "will have"
+        ]
+    },
+    {
+        "word": "hat",
+        "definition": [
+            "has",
+            "was",
+            "is",
+            "takes",
+            "take",
+            "'s",
+            "is having",
+            "does have",
+            "did",
+            "have",
+            "meet",
+            "has been"
+        ]
+    },
+    {
+        "word": "heiß",
+        "definition": [
+            "hot"
+        ]
+    },
+    {
+        "word": "heiße",
+        "definition": [
+            "hot",
+            "am called"
+        ]
+    },
+    {
+        "word": "heißen",
+        "definition": [
+            "hot",
+            "name",
+            "go",
+            "tell",
+            "are called",
+            "call",
+            "are the names of",
+            "called",
+            "names"
+        ]
+    },
+    {
+        "word": "heißt",
+        "definition": [
+            "is",
+            "name is",
+            "is called",
+            "'s name is",
+            "called"
+        ]
+    },
+    {
+        "word": "hell",
+        "definition": [
+            "bright",
+            "light"
+        ]
+    },
+    {
+        "word": "Hemd",
+        "definition": [
+            "shirt"
+        ]
+    },
+    {
+        "word": "Herbst",
+        "definition": [
+            "fall",
+            "autumn"
+        ]
+    },
+    {
+        "word": "Herr",
+        "definition": [
+            "Mr.",
+            "gentleman"
+        ]
+    },
+    {
+        "word": "heute Abend",
+        "definition": [
+            "this evening",
+            "tonight"
+        ]
+    },
+    {
+        "word": "heute Morgen",
+        "definition": [
+            "this morning"
+        ]
+    },
+    {
+        "word": "heute Nachmittag",
+        "definition": [
+            "this afternoon"
+        ]
+    },
+    {
+        "word": "heute",
+        "definition": [
+            "today"
+        ]
+    },
+    {
+        "word": "hier",
+        "definition": [
+            "here"
+        ]
+    },
+    {
+        "word": "Hin- und Rückfahrt",
+        "definition": [
+            "round-trip ticket",
+            "round trip",
+            "return ticket",
+            "return trip"
+        ]
+    },
+    {
+        "word": "hinten",
+        "definition": [
+            "in the back",
+            "at the back",
+            "in the rear",
+            "at the rear"
+        ]
+    },
+    {
+        "word": "Hotel",
+        "definition": [
+            "hotel"
+        ]
+    },
+    {
+        "word": "Hund",
+        "definition": [
+            "dog"
+        ]
+    },
+    {
+        "word": "hässlich",
+        "definition": [
+            "ugly",
+            "hideous",
+            "unsightly",
+            "gawdy",
+            "tacky"
+        ]
+    },
+    {
+        "word": "ICE",
+        "definition": [
+            "intercity express",
+            "ICE"
+        ]
+    },
+    {
+        "word": "ich",
+        "definition": [
+            "I"
+        ]
+    },
+    {
+        "word": "ie",
+        "definition": [
+            "ie"
+        ]
+    },
+    {
+        "word": "Ihr",
+        "definition": [
+            "she",
+            "your",
+            "her",
+            "yours",
+            "their",
+            "you"
+        ]
+    },
+    {
+        "word": "im",
+        "definition": [
+            "this",
+            "to the",
+            "in the",
+            "at the",
+            "during the",
+            "at",
+            "on",
+            "which",
+            "on the",
+            "during",
+            "in",
+            "by",
+            "to"
+        ]
+    },
+    {
+        "word": "immer",
+        "definition": [
+            "always"
+        ]
+    },
+    {
+        "word": "in der Nähe",
+        "definition": [
+            "close",
+            "nearby",
+            "near"
+        ]
+    },
+    {
+        "word": "in",
+        "definition": [
+            "in",
+            "with",
+            "inside",
+            "onto",
+            "into",
+            "at",
+            "on",
+            "during",
+            "to"
+        ]
+    },
+    {
+        "word": "ins",
+        "definition": [
+            "this",
+            "to the",
+            "that",
+            "in the",
+            "into the",
+            "to",
+            "which"
+        ]
+    },
+    {
+        "word": "interessant",
+        "definition": [
+            "interesting"
+        ]
+    },
+    {
+        "word": "ist",
+        "definition": [
+            "is",
+            "there is",
+            "'s",
+            "feels",
+            "am",
+            "has been",
+            "did",
+            "has",
+            "are",
+            "was",
+            "is feeling"
+        ]
+    },
+    {
+        "word": "ja",
+        "definition": [
+            "yes"
+        ]
+    },
+    {
+        "word": "je",
+        "definition": [
+            "for each",
+            "per",
+            "once",
+            "ever",
+            "the"
+        ]
+    },
+    {
+        "word": "Jeans",
+        "definition": [
+            "jeans",
+            "pair of jeans"
+        ]
+    },
+    {
+        "word": "jeden",
+        "definition": [
+            "any",
+            "all",
+            "each",
+            "everybody",
+            "every",
+            "anyone"
+        ]
+    },
+    {
+        "word": "jetzt",
+        "definition": [
+            "now",
+            "at the moment",
+            "currently"
+        ]
+    },
+    {
+        "word": "Jobinterview",
+        "definition": [
+            "job interview",
+            "interview"
+        ]
+    },
+    {
+        "word": "jogge",
+        "definition": [
+            "am jogging",
+            "jog",
+            "jogging"
+        ]
+    },
+    {
+        "word": "joggen",
+        "definition": [
+            "to jog",
+            "jogging"
+        ]
+    },
+    {
+        "word": "joggst",
+        "definition": [
+            "jog",
+            "are jogging"
+        ]
+    },
+    {
+        "word": "joggt",
+        "definition": [
+            "jogs",
+            "is jogging"
+        ]
+    },
+    {
+        "word": "jung",
+        "definition": [
+            "young"
+        ]
+    },
+    {
+        "word": "Junge",
+        "definition": [
+            "boy"
+        ]
+    },
+    {
+        "word": "Kaffee",
+        "definition": [
+            "coffee"
+        ]
+    },
+    {
+        "word": "kalt",
+        "definition": [
+            "cold"
+        ]
+    },
+    {
+        "word": "Kanada",
+        "definition": [
+            "Canada"
+        ]
+    },
+    {
+        "word": "Kanzlerin",
+        "definition": [
+            "chancellor",
+            "the chancellor",
+            "a chancellor"
+        ]
+    },
+    {
+        "word": "Kartoffeln",
+        "definition": [
+            "potatoes"
+        ]
+    },
+    {
+        "word": "Katze",
+        "definition": [
+            "cat"
+        ]
+    },
+    {
+        "word": "kaufen",
+        "definition": [
+            "buy",
+            "to get",
+            "to purchase"
+        ]
+    },
+    {
+        "word": "Kaufhaus",
+        "definition": [
+            "department store",
+            "store"
+        ]
+    },
+    {
+        "word": "kein",
+        "definition": [
+            "any",
+            "no",
+            "not an",
+            "don't",
+            "not a",
+            "not any",
+            "does not",
+            "not",
+            "doesn't",
+            "n't"
+        ]
+    },
+    {
+        "word": "keine",
+        "definition": [
+            "any",
+            "n't",
+            "no",
+            "not an",
+            "don't",
+            "not a",
+            "not any",
+            "not",
+            "doesn't"
+        ]
+    },
+    {
+        "word": "keinen",
+        "definition": [
+            "any",
+            "not any",
+            "no",
+            "not",
+            "not an",
+            "not a",
+            "n't",
+            "don't",
+            "weren't"
+        ]
+    },
+    {
+        "word": "Kellner",
+        "definition": [
+            "waiter"
+        ]
+    },
+    {
+        "word": "Kellnerin",
+        "definition": [
+            "waitress",
+            "server"
+        ]
+    },
+    {
+        "word": "Kilo",
+        "definition": [
+            "kilos of",
+            "kilo of",
+            "kilos",
+            "kilo",
+            "kilogram",
+            "kilograms of"
+        ]
+    },
+    {
+        "word": "Kino",
+        "definition": [
+            "movie theater",
+            "cinema",
+            "movie theatre",
+            "movie house",
+            "theater",
+            "theatre",
+            "cinema hall"
+        ]
+    },
+    {
+        "word": "Kirche",
+        "definition": [
+            "church",
+            "kirk"
+        ]
+    },
+    {
+        "word": "Klavier",
+        "definition": [
+            "piano"
+        ]
+    },
+    {
+        "word": "Kleid",
+        "definition": [
+            "dress"
+        ]
+    },
+    {
+        "word": "klein",
+        "definition": [
+            "small"
+        ]
+    },
+    {
+        "word": "klug",
+        "definition": [
+            "smart"
+        ]
+    },
+    {
+        "word": "koche",
+        "definition": [
+            "am making",
+            "make",
+            "will cook",
+            "cook",
+            "am cooking",
+            "cooking"
+        ]
+    },
+    {
+        "word": "kochst",
+        "definition": [
+            "are boiling",
+            "make",
+            "boil",
+            "cooking",
+            "are making",
+            "are cooking",
+            "do the cooking",
+            "cook"
+        ]
+    },
+    {
+        "word": "kocht",
+        "definition": [
+            "make",
+            "cooks",
+            "is cooking",
+            "cook",
+            "cooking"
+        ]
+    },
+    {
+        "word": "komme",
+        "definition": [
+            "come",
+            "will come",
+            "am coming",
+            "get",
+            "arrive",
+            "coming",
+            "am"
+        ]
+    },
+    {
+        "word": "kommen",
+        "definition": [
+            "arrives",
+            "comes on",
+            "do come",
+            "get",
+            "arrive",
+            "come on",
+            "come",
+            "coming",
+            "are coming",
+            "are",
+            "went",
+            "comes"
+        ]
+    },
+    {
+        "word": "kommst",
+        "definition": [
+            "come",
+            "are coming",
+            "are",
+            "will come"
+        ]
+    },
+    {
+        "word": "kommt",
+        "definition": [
+            "is",
+            "is coming",
+            "comes",
+            "coming",
+            "are coming",
+            "will come",
+            "arrives",
+            "get",
+            "arrive",
+            "come on",
+            "come",
+            "are",
+            "gets"
+        ]
+    },
+    {
+        "word": "Konzert",
+        "definition": [
+            "concert",
+            "concerto",
+            "show"
+        ]
+    },
+    {
+        "word": "kosten",
+        "definition": [
+            "is",
+            "try",
+            "were",
+            "cost",
+            "be",
+            "are",
+            "was",
+            "being"
+        ]
+    },
+    {
+        "word": "kostet",
+        "definition": [
+            "is",
+            "does cost",
+            "costs",
+            "cost"
+        ]
+    },
+    {
+        "word": "Kreditkarte",
+        "definition": [
+            "credit card"
+        ]
+    },
+    {
+        "word": "Käse",
+        "definition": [
+            "cheese"
+        ]
+    },
+    {
+        "word": "können",
+        "definition": [
+            "are able to",
+            "knew",
+            "can",
+            "could",
+            "know"
+        ]
+    },
+    {
+        "word": "Künstler",
+        "definition": [
+            "an artist",
+            "artists'",
+            "performer",
+            "artist",
+            "artists",
+            "performers"
+        ]
+    },
+    {
+        "word": "L",
+        "definition": [
+            "large"
+        ]
+    },
+    {
+        "word": "lag",
+        "definition": [
+            "lied",
+            "was lying",
+            "lay",
+            "was"
+        ]
+    },
+    {
+        "word": "Lampe",
+        "definition": [
+            "lamp",
+            "light"
+        ]
+    },
+    {
+        "word": "laut",
+        "definition": [
+            "loud",
+            "noisy",
+            "loudly",
+            "noisily"
+        ]
+    },
+    {
+        "word": "lebe",
+        "definition": [
+            "live",
+            "am living"
+        ]
+    },
+    {
+        "word": "leben",
+        "definition": [
+            "lived",
+            "living",
+            "are living",
+            "live",
+            "have lived"
+        ]
+    },
+    {
+        "word": "lebst",
+        "definition": [
+            "live",
+            "living"
+        ]
+    },
+    {
+        "word": "lecker",
+        "definition": [
+            "delicious"
+        ]
+    },
+    {
+        "word": "Lehrer",
+        "definition": [
+            "teacher",
+            "instructor",
+            "schoolteacher"
+        ]
+    },
+    {
+        "word": "Lehrerin",
+        "definition": [
+            "teacher",
+            "a teacher"
+        ]
+    },
+    {
+        "word": "lerne",
+        "definition": [
+            "learn",
+            "am meeting",
+            "study",
+            "am studying",
+            "am learning",
+            "meet",
+            "learning"
+        ]
+    },
+    {
+        "word": "lernst",
+        "definition": [
+            "learn",
+            "study",
+            "are studying",
+            "are learning",
+            "studying",
+            "learning"
+        ]
+    },
+    {
+        "word": "lernt",
+        "definition": [
+            "learns",
+            "is studying",
+            "learn",
+            "studies",
+            "study",
+            "is learning",
+            "are learning",
+            "learning"
+        ]
+    },
+    {
+        "word": "liebe",
+        "definition": [
+            "love"
+        ]
+    },
+    {
+        "word": "liebst",
+        "definition": [
+            "love"
+        ]
+    },
+    {
+        "word": "liebt",
+        "definition": [
+            "loves",
+            "love"
+        ]
+    },
+    {
+        "word": "links",
+        "definition": [
+            "on the left",
+            "left",
+            "to the left",
+            "on the left side",
+            "on the left-hand side"
+        ]
+    },
+    {
+        "word": "machst",
+        "definition": [
+            "work",
+            "are doing",
+            "are taking",
+            "make",
+            "create",
+            "take",
+            "will do",
+            "get",
+            "having",
+            "do",
+            "have",
+            "are making",
+            "turn",
+            "doing"
+        ]
+    },
+    {
+        "word": "mag",
+        "definition": [
+            "like",
+            "likes",
+            "disliked"
+        ]
+    },
+    {
+        "word": "magst",
+        "definition": [
+            "like"
+        ]
+    },
+    {
+        "word": "male",
+        "definition": [
+            "paint",
+            "am painting",
+            "draw",
+            "am drawing"
+        ]
+    },
+    {
+        "word": "malst",
+        "definition": [
+            "are painting",
+            "paint"
+        ]
+    },
+    {
+        "word": "malt",
+        "definition": [
+            "is drawing",
+            "paints",
+            "draws",
+            "draw",
+            "paint",
+            "is painting"
+        ]
+    },
+    {
+        "word": "manchmal",
+        "definition": [
+            "sometimes",
+            "at times"
+        ]
+    },
+    {
+        "word": "Mann",
+        "definition": [
+            "husband",
+            "man",
+            "guy"
+        ]
+    },
+    {
+        "word": "Markt",
+        "definition": [
+            "market",
+            "marketplace"
+        ]
+    },
+    {
+        "word": "Marktplatz",
+        "definition": [
+            "marketplace",
+            "market"
+        ]
+    },
+    {
+        "word": "Maus",
+        "definition": [
+            "mouse"
+        ]
+    },
+    {
+        "word": "mein",
+        "definition": [
+            "my"
+        ]
+    },
+    {
+        "word": "meine",
+        "definition": [
+            "mine",
+            "think",
+            "my",
+            "mean"
+        ]
+    },
+    {
+        "word": "meinen",
+        "definition": [
+            "mean",
+            "mine",
+            "to my",
+            "think",
+            "my",
+            "thinking"
+        ]
+    },
+    {
+        "word": "Milch",
+        "definition": [
+            "milk"
+        ]
+    },
+    {
+        "word": "Mineralwasser",
+        "definition": [
+            "mineral water"
+        ]
+    },
+    {
+        "word": "Minuten",
+        "definition": [
+            "minutes"
+        ]
+    },
+    {
+        "word": "mit",
+        "definition": [
+            "with"
+        ]
+    },
+    {
+        "word": "Mitbewohner",
+        "definition": [
+            "roommate",
+            "roomie",
+            "flatmate",
+            "housemate"
+        ]
+    },
+    {
+        "word": "Mitbewohnerin",
+        "definition": [
+            "roommate",
+            "roommate's"
+        ]
+    },
+    {
+        "word": "modern",
+        "definition": [
+            "modern"
+        ]
+    },
+    {
+        "word": "Montag",
+        "definition": [
+            "Monday"
+        ]
+    },
+    {
+        "word": "Morgen",
+        "definition": [
+            "morning"
+        ]
+    },
+    {
+        "word": "Museum",
+        "definition": [
+            "museum"
+        ]
+    },
+    {
+        "word": "muss",
+        "definition": [
+            "needs to",
+            "has to",
+            "has got to",
+            "have got to",
+            "'s got to",
+            "have to",
+            "need to",
+            "do have to",
+            "have to go",
+            "must"
+        ]
+    },
+    {
+        "word": "musst",
+        "definition": [
+            "have got to",
+            "have to",
+            "need to",
+            "must"
+        ]
+    },
+    {
+        "word": "Mutter",
+        "definition": [
+            "mother"
+        ]
+    },
+    {
+        "word": "Muttersprache",
+        "definition": [
+            "mother tongue",
+            "native language",
+            "first language",
+            "native tongue"
+        ]
+    },
+    {
+        "word": "möchte",
+        "definition": [
+            "would like to",
+            "would like"
+        ]
+    },
+    {
+        "word": "möchtest",
+        "definition": [
+            "would like to",
+            "like",
+            "would like",
+            "do want"
+        ]
+    },
+    {
+        "word": "München",
+        "definition": [
+            "Munich"
+        ]
+    },
+    {
+        "word": "nach",
+        "definition": [
+            "for",
+            "about",
+            "to",
+            "according to",
+            "after",
+            "by",
+            "push"
+        ]
+    },
+    {
+        "word": "natürlich",
+        "definition": [
+            "of course"
+        ]
+    },
+    {
+        "word": "neblig",
+        "definition": [
+            "foggy",
+            "misty"
+        ]
+    },
+    {
+        "word": "nein",
+        "definition": [
+            "no"
+        ]
+    },
+    {
+        "word": "nervös",
+        "definition": [
+            "nervous",
+            "on edge",
+            "flustered",
+            "panicky",
+            "panicked",
+            "antsy"
+        ]
+    },
+    {
+        "word": "nett",
+        "definition": [
+            "nice"
+        ]
+    },
+    {
+        "word": "neu",
+        "definition": [
+            "new"
+        ]
+    },
+    {
+        "word": "neun",
+        "definition": [
+            "nine"
+        ]
+    },
+    {
+        "word": "nicht",
+        "definition": [
+            "not"
+        ]
+    },
+    {
+        "word": "nie",
+        "definition": [
+            "never"
+        ]
+    },
+    {
+        "word": "null",
+        "definition": [
+            "zero"
+        ]
+    },
+    {
+        "word": "nur",
+        "definition": [
+            "only",
+            "just",
+            "merely"
+        ]
+    },
+    {
+        "word": "nächste",
+        "definition": [
+            "next",
+            "closest"
+        ]
+    },
+    {
+        "word": "oder",
+        "definition": [
+            "or"
+        ]
+    },
+    {
+        "word": "oft",
+        "definition": [
+            "often"
+        ]
+    },
+    {
+        "word": "oh",
+        "definition": [
+            "oh",
+            "aw"
+        ]
+    },
+    {
+        "word": "OK",
+        "definition": [
+            "OK"
+        ]
+    },
+    {
+        "word": "Oma",
+        "definition": [
+            "grandma",
+            "grandmother",
+            "nan",
+            "grandmom",
+            "granny",
+            "gran",
+            "nana"
+        ]
+    },
+    {
+        "word": "Onkel",
+        "definition": [
+            "uncle"
+        ]
+    },
+    {
+        "word": "Opa",
+        "definition": [
+            "grandpa",
+            "grandfather",
+            "granddad",
+            "grandad",
+            "grampa",
+            "grandpop",
+            "grandaddy",
+            "granddaddy"
+        ]
+    },
+    {
+        "word": "Orangen",
+        "definition": [
+            "oranges"
+        ]
+    },
+    {
+        "word": "Park",
+        "definition": [
+            "park"
+        ]
+    },
+    {
+        "word": "Partner",
+        "definition": [
+            "partner",
+            "partners",
+            "partner's"
+        ]
+    },
+    {
+        "word": "Partnerin",
+        "definition": [
+            "partner"
+        ]
+    },
+    {
+        "word": "passt",
+        "definition": [
+            "fit",
+            "is suitable",
+            "fits",
+            "goes",
+            "matches",
+            "go"
+        ]
+    },
+    {
+        "word": "perfekt",
+        "definition": [
+            "perfect"
+        ]
+    },
+    {
+        "word": "Pizza",
+        "definition": [
+            "pizza"
+        ]
+    },
+    {
+        "word": "Polizist",
+        "definition": [
+            "police officer",
+            "policeman",
+            "a police officer"
+        ]
+    },
+    {
+        "word": "Polnisch",
+        "definition": [
+            "Polish"
+        ]
+    },
+    {
+        "word": "Professor",
+        "definition": [
+            "professor",
+            "a professor"
+        ]
+    },
+    {
+        "word": "Professorin",
+        "definition": [
+            "professor",
+            "a professor"
+        ]
+    },
+    {
+        "word": "prost",
+        "definition": [
+            "cheers"
+        ]
+    },
+    {
+        "word": "Pullover",
+        "definition": [
+            "sweater",
+            "jumper"
+        ]
+    },
+    {
+        "word": "Rechnung",
+        "definition": [
+            "check"
+        ]
+    },
+    {
+        "word": "rechts",
+        "definition": [
+            "on the right",
+            "right",
+            "the right",
+            "to the right",
+            "on the right side",
+            "on the right-hand side"
+        ]
+    },
+    {
+        "word": "Regenschirm",
+        "definition": [
+            "umbrella"
+        ]
+    },
+    {
+        "word": "regnet",
+        "definition": [
+            "rains",
+            "is raining"
+        ]
+    },
+    {
+        "word": "Reisezentrum",
+        "definition": [
+            "travel center",
+            "travel centre"
+        ]
+    },
+    {
+        "word": "Restaurant",
+        "definition": [
+            "restaurant"
+        ]
+    },
+    {
+        "word": "Russisch",
+        "definition": [
+            "Russian"
+        ]
+    },
+    {
+        "word": "Russland",
+        "definition": [
+            "Russia"
+        ]
+    },
+    {
+        "word": "S",
+        "definition": [
+            "small"
+        ]
+    },
+    {
+        "word": "sah",
+        "definition": [
+            "saw",
+            "looked",
+            "watched",
+            "see",
+            "found",
+            "caught"
+        ]
+    },
+    {
+        "word": "Sakko",
+        "definition": [
+            "suit jacket",
+            "jacket",
+            "sport coat",
+            "sport jacket",
+            "blazer"
+        ]
+    },
+    {
+        "word": "Salat",
+        "definition": [
+            "salad"
+        ]
+    },
+    {
+        "word": "Salz",
+        "definition": [
+            "salt"
+        ]
+    },
+    {
+        "word": "Samstag",
+        "definition": [
+            "Saturday"
+        ]
+    },
+    {
+        "word": "Sandwich",
+        "definition": [
+            "sandwich"
+        ]
+    },
+    {
+        "word": "sauber",
+        "definition": [
+            "clean",
+            "tidy",
+            "neat"
+        ]
+    },
+    {
+        "word": "Schach",
+        "definition": [
+            "chess"
+        ]
+    },
+    {
+        "word": "schade",
+        "definition": [
+            "harm",
+            "too bad"
+        ]
+    },
+    {
+        "word": "Schal",
+        "definition": [
+            "scarf",
+            "shawl"
+        ]
+    },
+    {
+        "word": "Schauspieler",
+        "definition": [
+            "actor"
+        ]
+    },
+    {
+        "word": "Schauspielerin",
+        "definition": [
+            "actress",
+            "actor"
+        ]
+    },
+    {
+        "word": "schick",
+        "definition": [
+            "stylish",
+            "fashionable",
+            "chic",
+            "trendy",
+            "sophisticated"
+        ]
+    },
+    {
+        "word": "Schlafzimmer",
+        "definition": [
+            "bedroom"
+        ]
+    },
+    {
+        "word": "schlecht",
+        "definition": [
+            "bad",
+            "ill",
+            "poor"
+        ]
+    },
+    {
+        "word": "Schnecke",
+        "definition": [
+            "snail",
+            "slug"
+        ]
+    },
+    {
+        "word": "schneit",
+        "definition": [
+            "is snowing",
+            "snows"
+        ]
+    },
+    {
+        "word": "schnell",
+        "definition": [
+            "quickly",
+            "rapidly"
+        ]
+    },
+    {
+        "word": "Schnitzel",
+        "definition": [
+            "schnitzel",
+            "schnitzels"
+        ]
+    },
+    {
+        "word": "Schrank",
+        "definition": [
+            "closet",
+            "cabinet",
+            "cupboard",
+            "wardrobe",
+            "locker",
+            "armoire"
+        ]
+    },
+    {
+        "word": "Schreibtisch",
+        "definition": [
+            "desk"
+        ]
+    },
+    {
+        "word": "Schuhe",
+        "definition": [
+            "shoes"
+        ]
+    },
+    {
+        "word": "Schweden",
+        "definition": [
+            "Sweden"
+        ]
+    },
+    {
+        "word": "Schwedisch",
+        "definition": [
+            "Swedish"
+        ]
+    },
+    {
+        "word": "schwer",
+        "definition": [
+            "difficult",
+            "hard",
+            "tough"
+        ]
+    },
+    {
+        "word": "Schwester",
+        "definition": [
+            "sister"
+        ]
+    },
+    {
+        "word": "Schwimmbad",
+        "definition": [
+            "swimming pool"
+        ]
+    },
+    {
+        "word": "schwimme",
+        "definition": [
+            "swim",
+            "am swimming",
+            "swimming"
+        ]
+    },
+    {
+        "word": "schwimmen",
+        "definition": [
+            "swim",
+            "to float"
+        ]
+    },
+    {
+        "word": "schwimmst",
+        "definition": [
+            "swim",
+            "are floating",
+            "float",
+            "are swimming"
+        ]
+    },
+    {
+        "word": "schwimmt",
+        "definition": [
+            "swim",
+            "is swimming",
+            "are floating",
+            "floats",
+            "float",
+            "swims",
+            "are swimming",
+            "swimming"
+        ]
+    },
+    {
+        "word": "schön",
+        "definition": [
+            "beautiful"
+        ]
+    },
+    {
+        "word": "Schüler",
+        "definition": [
+            "students",
+            "pupil",
+            "student",
+            "pupils"
+        ]
+    },
+    {
+        "word": "sechs",
+        "definition": [
+            "six"
+        ]
+    },
+    {
+        "word": "sehr",
+        "definition": [
+            "very"
+        ]
+    },
+    {
+        "word": "sein",
+        "definition": [
+            "your",
+            "to be",
+            "be",
+            "being",
+            "her",
+            "were",
+            "have",
+            "his",
+            "was",
+            "its",
+            "keep"
+        ]
+    },
+    {
+        "word": "sie",
+        "definition": [
+            "she",
+            "It",
+            "your",
+            "you're",
+            "She's",
+            "She",
+            "you'll",
+            "you"
+        ]
+    },
+    {
+        "word": "sieben",
+        "definition": [
+            "seven"
+        ]
+    },
+    {
+        "word": "sind",
+        "definition": [
+            "feel",
+            "have",
+            "are",
+            "have been",
+            "are being",
+            "are there",
+            "is",
+            "being",
+            "were",
+            "been",
+            "did"
+        ]
+    },
+    {
+        "word": "singe",
+        "definition": [
+            "sing",
+            "am singing"
+        ]
+    },
+    {
+        "word": "singst",
+        "definition": [
+            "sing",
+            "are singing"
+        ]
+    },
+    {
+        "word": "singt",
+        "definition": [
+            "sings",
+            "sing",
+            "is singing",
+            "singing"
+        ]
+    },
+    {
+        "word": "Sitz",
+        "definition": [
+            "seat",
+            "place",
+            "chair"
+        ]
+    },
+    {
+        "word": "so",
+        "definition": [
+            "that",
+            "as",
+            "so",
+            "like this",
+            "such",
+            "about",
+            "like that"
+        ]
+    },
+    {
+        "word": "Sohn",
+        "definition": [
+            "son"
+        ]
+    },
+    {
+        "word": "Sommer",
+        "definition": [
+            "summer"
+        ]
+    },
+    {
+        "word": "Sonnencreme",
+        "definition": [
+            "sunscreen",
+            "suntan lotion",
+            "sun cream",
+            "sunblock",
+            "suntan cream"
+        ]
+    },
+    {
+        "word": "sonnig",
+        "definition": [
+            "sunny"
+        ]
+    },
+    {
+        "word": "Sonntag",
+        "definition": [
+            "Sunday"
+        ]
+    },
+    {
+        "word": "Spanisch",
+        "definition": [
+            "Spanish"
+        ]
+    },
+    {
+        "word": "Speisekarte",
+        "definition": [
+            "menu"
+        ]
+    },
+    {
+        "word": "Speisewagen",
+        "definition": [
+            "dining car",
+            "diner car"
+        ]
+    },
+    {
+        "word": "Spiel",
+        "definition": [
+            "game",
+            "match",
+            "play",
+            "performance"
+        ]
+    },
+    {
+        "word": "spiele",
+        "definition": [
+            "am playing",
+            "play",
+            "playing"
+        ]
+    },
+    {
+        "word": "spielen",
+        "definition": [
+            "playing",
+            "are playing",
+            "will play",
+            "play",
+            "plays"
+        ]
+    },
+    {
+        "word": "spielst",
+        "definition": [
+            "are playing",
+            "playing",
+            "play",
+            "do play",
+            "are"
+        ]
+    },
+    {
+        "word": "spielt",
+        "definition": [
+            "is",
+            "are playing",
+            "is playing",
+            "play",
+            "plays",
+            "playing"
+        ]
+    },
+    {
+        "word": "Sprachen",
+        "definition": [
+            "languages"
+        ]
+    },
+    {
+        "word": "spreche",
+        "definition": [
+            "am talking",
+            "speak",
+            "pronounce",
+            "talk",
+            "am speaking",
+            "say",
+            "speaking"
+        ]
+    },
+    {
+        "word": "sprechen",
+        "definition": [
+            "speak",
+            "are speaking"
+        ]
+    },
+    {
+        "word": "sprichst",
+        "definition": [
+            "are speaking",
+            "speak",
+            "talk",
+            "pronounce",
+            "are talking"
+        ]
+    },
+    {
+        "word": "spricht",
+        "definition": [
+            "speaks",
+            "does speak",
+            "speak",
+            "pronounce",
+            "talks",
+            "is speaking",
+            "talk",
+            "leaves",
+            "is talking",
+            "talking"
+        ]
+    },
+    {
+        "word": "spät",
+        "definition": [
+            "late"
+        ]
+    },
+    {
+        "word": "Stadt",
+        "definition": [
+            "city",
+            "town"
+        ]
+    },
+    {
+        "word": "stark",
+        "definition": [
+            "strong",
+            "hard",
+            "harder"
+        ]
+    },
+    {
+        "word": "Station",
+        "definition": [
+            "station"
+        ]
+    },
+    {
+        "word": "stornieren",
+        "definition": [
+            "cancel"
+        ]
+    },
+    {
+        "word": "stressig",
+        "definition": [
+            "stressful"
+        ]
+    },
+    {
+        "word": "Student",
+        "definition": [
+            "college student",
+            "university student",
+            "student"
+        ]
+    },
+    {
+        "word": "Studentin",
+        "definition": [
+            "a student",
+            "college student",
+            "student"
+        ]
+    },
+    {
+        "word": "Stuhl",
+        "definition": [
+            "chair"
+        ]
+    },
+    {
+        "word": "suche",
+        "definition": [
+            "am looking for",
+            "look for",
+            "seek"
+        ]
+    },
+    {
+        "word": "super",
+        "definition": [
+            "super",
+            "great",
+            "fantastic",
+            "awesome"
+        ]
+    },
+    {
+        "word": "Supermarkt",
+        "definition": [
+            "supermarket",
+            "grocery store"
+        ]
+    },
+    {
+        "word": "surfe",
+        "definition": [
+            "surf",
+            "go surfing"
+        ]
+    },
+    {
+        "word": "surfst",
+        "definition": [
+            "surf",
+            "go surfing"
+        ]
+    },
+    {
+        "word": "surft",
+        "definition": [
+            "goes surfing",
+            "is surfing",
+            "surfs",
+            "surfing"
+        ]
+    },
+    {
+        "word": "T-shirt",
+        "definition": [
+            "T-shirt"
+        ]
+    },
+    {
+        "word": "Tag",
+        "definition": [
+            "day"
+        ]
+    },
+    {
+        "word": "Tante",
+        "definition": [
+            "aunt",
+            "auntie",
+            "aunty"
+        ]
+    },
+    {
+        "word": "Taxistand",
+        "definition": [
+            "taxi stand"
+        ]
+    },
+    {
+        "word": "Tee",
+        "definition": [
+            "tea"
+        ]
+    },
+    {
+        "word": "Teppich",
+        "definition": [
+            "carpet",
+            "rug"
+        ]
+    },
+    {
+        "word": "teuer",
+        "definition": [
+            "expensive",
+            "costly",
+            "dear",
+            "dearly",
+            "expensively",
+            "pricey"
+        ]
+    },
+    {
+        "word": "Tisch",
+        "definition": [
+            "table",
+            "desk"
+        ]
+    },
+    {
+        "word": "Tochter",
+        "definition": [
+            "daughter"
+        ]
+    },
+    {
+        "word": "Toiletten",
+        "definition": [
+            "toilets",
+            "bathrooms",
+            "restrooms",
+            "lavatories"
+        ]
+    },
+    {
+        "word": "toll",
+        "definition": [
+            "great",
+            "awesome",
+            "terrific",
+            "amazing",
+            "excellent",
+            "fantastic",
+            "fantastically",
+            "lovely"
+        ]
+    },
+    {
+        "word": "Tomaten",
+        "definition": [
+            "tomatoes"
+        ]
+    },
+    {
+        "word": "tschüss",
+        "definition": [
+            "bye"
+        ]
+    },
+    {
+        "word": "Türkisch",
+        "definition": [
+            "Turkish"
+        ]
+    },
+    {
+        "word": "U-Bahnstation",
+        "definition": [
+            "subway station"
+        ]
+    },
+    {
+        "word": "Uhr",
+        "definition": [
+            "watch",
+            "clock",
+            "o'clock"
+        ]
+    },
+    {
+        "word": "um",
+        "definition": [
+            "for",
+            "to",
+            "of",
+            "in order to",
+            "in order",
+            "around",
+            "moving",
+            "up",
+            "at",
+            "over",
+            "about",
+            "round",
+            "and",
+            "by",
+            "after"
+        ]
+    },
+    {
+        "word": "und",
+        "definition": [
+            "and"
+        ]
+    },
+    {
+        "word": "Universität",
+        "definition": [
+            "university",
+            "uni",
+            "college"
+        ]
+    },
+    {
+        "word": "Urlaub",
+        "definition": [
+            "vacation",
+            "a vacation",
+            "holidays"
+        ]
+    },
+    {
+        "word": "Vater",
+        "definition": [
+            "father"
+        ]
+    },
+    {
+        "word": "Verspätung",
+        "definition": [
+            "delay"
+        ]
+    },
+    {
+        "word": "viele",
+        "definition": [
+            "many",
+            "a lot of",
+            "lots of",
+            "heaps of",
+            "plenty of",
+            "loads of"
+        ]
+    },
+    {
+        "word": "vielen Dank",
+        "definition": [
+            "thank you very much"
+        ]
+    },
+    {
+        "word": "vier",
+        "definition": [
+            "four"
+        ]
+    },
+    {
+        "word": "Volleyball",
+        "definition": [
+            "volleyball"
+        ]
+    },
+    {
+        "word": "von",
+        "definition": [
+            "from",
+            "'s",
+            "on",
+            "about",
+            "to",
+            "of",
+            "'",
+            "in",
+            "by",
+            "off"
+        ]
+    },
+    {
+        "word": "wandere",
+        "definition": [
+            "am hiking",
+            "go hiking",
+            "hike",
+            "hiking"
+        ]
+    },
+    {
+        "word": "wandern",
+        "definition": [
+            "traveling",
+            "hiking",
+            "hike",
+            "are hiking",
+            "backpacking"
+        ]
+    },
+    {
+        "word": "wanderst",
+        "definition": [
+            "hiking",
+            "hike",
+            "go hiking",
+            "backpacking"
+        ]
+    },
+    {
+        "word": "wandert",
+        "definition": [
+            "hike",
+            "hikes",
+            "hiking"
+        ]
+    },
+    {
+        "word": "wann",
+        "definition": [
+            "when",
+            "what time",
+            "at what time"
+        ]
+    },
+    {
+        "word": "warm",
+        "definition": [
+            "warm"
+        ]
+    },
+    {
+        "word": "warum",
+        "definition": [
+            "why"
+        ]
+    },
+    {
+        "word": "was",
+        "definition": [
+            "what"
+        ]
+    },
+    {
+        "word": "Wasser",
+        "definition": [
+            "water"
+        ]
+    },
+    {
+        "word": "Wasserflasche",
+        "definition": [
+            "water bottle"
+        ]
+    },
+    {
+        "word": "Wein",
+        "definition": [
+            "wine"
+        ]
+    },
+    {
+        "word": "weit weg",
+        "definition": [
+            "far away",
+            "far"
+        ]
+    },
+    {
+        "word": "welche",
+        "definition": [
+            "which"
+        ]
+    },
+    {
+        "word": "wer",
+        "definition": [
+            "who"
+        ]
+    },
+    {
+        "word": "Wetter",
+        "definition": [
+            "weather"
+        ]
+    },
+    {
+        "word": "wie geht's",
+        "definition": [
+            "how are you?"
+        ]
+    },
+    {
+        "word": "wie",
+        "definition": [
+            "as",
+            "such",
+            "like",
+            "how do",
+            "what",
+            "how",
+            "such as"
+        ]
+    },
+    {
+        "word": "Wien",
+        "definition": [
+            "Vienna"
+        ]
+    },
+    {
+        "word": "windig",
+        "definition": [
+            "windy"
+        ]
+    },
+    {
+        "word": "Winter",
+        "definition": [
+            "winters",
+            "winter"
+        ]
+    },
+    {
+        "word": "wir",
+        "definition": [
+            "we"
+        ]
+    },
+    {
+        "word": "wirklich",
+        "definition": [
+            "really",
+            "actually",
+            "truly",
+            "genuinely"
+        ]
+    },
+    {
+        "word": "wo",
+        "definition": [
+            "where"
+        ]
+    },
+    {
+        "word": "woher",
+        "definition": [
+            "where",
+            "from",
+            "where from"
+        ]
+    },
+    {
+        "word": "Wohnung",
+        "definition": [
+            "apartment",
+            "flat"
+        ]
+    },
+    {
+        "word": "wunderbar",
+        "definition": [
+            "wonderful",
+            "splendid",
+            "excellent",
+            "great",
+            "lovely",
+            "terrific"
+        ]
+    },
+    {
+        "word": "Wurst",
+        "definition": [
+            "sausage"
+        ]
+    },
+    {
+        "word": "zahlen",
+        "definition": [
+            "pay",
+            "to pay",
+            "are paying",
+            "paying"
+        ]
+    },
+    {
+        "word": "zehn",
+        "definition": [
+            "ten"
+        ]
+    },
+    {
+        "word": "Zeit",
+        "definition": [
+            "time"
+        ]
+    },
+    {
+        "word": "zu",
+        "definition": [
+            "with",
+            "for",
+            "too",
+            "towards",
+            "into",
+            "at",
+            "on",
+            "close",
+            "about",
+            "to",
+            "closed",
+            "by",
+            "closes",
+            "push"
+        ]
+    },
+    {
+        "word": "Zug",
+        "definition": [
+            "train"
+        ]
+    },
+    {
+        "word": "Zugtür",
+        "definition": [
+            "train door"
+        ]
+    },
+    {
+        "word": "zwanzig",
+        "definition": [
+            "twenty",
+            "20"
+        ]
+    },
+    {
+        "word": "zwei",
+        "definition": [
+            "two"
+        ]
+    },
+    {
+        "word": "Ärztin",
+        "definition": [
+            "doctor",
+            "a doctor"
+        ]
+    },
+    {
+        "word": "Österreich",
+        "definition": [
+            "Austria"
+        ]
+    }
+]

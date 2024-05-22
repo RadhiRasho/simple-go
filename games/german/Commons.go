@@ -4,7 +4,7 @@ import "encoding/json"
 
 type Word struct {
 	Word         string   `json:"word"`
-	Translations []string `json:"translations"`
+	Definition []string `json:"definition"`
 }
 
 func UnmarshalWord(data []byte) (Word, error) {
@@ -32,7 +32,7 @@ func (r *WordAdvanced) Marshal() ([]byte, error) {
 }
 
 type WordAdvancedElement struct {
-	Word        string  `json:"Word"`
+	Word        string  `json:"word"`
 	Pos         Pos     `json:"pos"`
 	Definition  string  `json:"definition"`
 	Description *string `json:"description,omitempty"`
