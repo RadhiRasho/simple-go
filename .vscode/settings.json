@@ -1,6 +1,9 @@
 {
     "[go]": {
         "editor.defaultFormatter": "golang.go",
-        "editor.formatOnSave": true
-    }
+    },
+    "[json]": {
+        "editor.defaultFormatter": "biomejs.biome",
+    },
+    "editor.formatOnSave": true
 }

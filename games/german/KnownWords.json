@@ -917,551 +917,513 @@
         "description": "The noun 'Eule' means 'owl' in English. It refers to a bird of prey with large eyes, a hooked beak, and sharp talons, known for its nocturnal habits, silent flight, and keen senses.\n Eulen are found in various habitats around the world and are associated with wisdom, mystery, and magic."
     },
     {
-        "word": "Euro",
-        "definition": [
-            "euros",
-            "euro"
-        ]
-    },
-    {
-        "word": "Fahrkarte",
-        "definition": [
-            "ticket"
-        ]
-    },
-    {
-        "word": "Fahrkarten",
-        "definition": [
-            "tickets"
-        ]
-    },
-    {
-        "word": "fantastisch",
-        "definition": [
-            "fantastic",
-            "great",
-            "terrific",
-            "awesome",
-            "fabulous",
-            "brilliant",
-            "wonderful",
-            "splendid",
-            "amazing"
-        ]
-    },
-    {
-        "word": "Fisch",
-        "definition": [
-            "fish"
-        ]
-    },
-    {
-        "word": "fotografiere",
-        "definition": [
-            "take photos",
-            "take pictures"
-        ]
-    },
-    {
-        "word": "Frankreich",
-        "definition": [
-            "France"
-        ]
-    },
-    {
-        "word": "Französisch",
-        "definition": [
-            "French"
-        ]
-    },
-    {
-        "word": "Frau",
-        "definition": [
-            "woman",
-            "wife",
-            "Ms.",
-            "Mrs."
-        ]
-    },
-    {
-        "word": "frei",
-        "definition": [
-            "free",
-            "available"
-        ]
-    },
-    {
-        "word": "Freund",
-        "definition": [
-            "boyfriend",
-            "partner"
-        ]
-    },
-    {
-        "word": "Freunde",
-        "definition": [
-            "friends",
-            "friends'"
-        ]
-    },
-    {
-        "word": "Freundin",
-        "definition": [
-            "girlfriend",
-            "friend",
-            "friend's",
-            "girlfriends"
-        ]
-    },
-    {
-        "word": "freut mich",
-        "definition": [
-            "nice to meet you",
-            "nice"
-        ]
-    },
-    {
-        "word": "Frühling",
-        "definition": [
-            "spring",
-            "springtime"
-        ]
-    },
-    {
-        "word": "frühstücke",
-        "definition": [
-            "eat breakfast",
-            "am eating breakfast"
-        ]
-    },
-    {
-        "word": "frühstückst",
-        "definition": [
-            "are eating breakfast",
-            "eat breakfast"
-        ]
-    },
-    {
-        "word": "frühstückt",
-        "definition": [
-            "are eating breakfast",
-            "eats breakfast",
-            "is eating breakfast",
-            "eat breakfast"
-        ]
-    },
-    {
-        "word": "Fußball",
-        "definition": [
-            "soccer",
-            "football"
-        ]
-    },
-    {
-        "word": "fällt",
-        "definition": [
-            "fall",
-            "is falling",
-            "cases",
-            "falls",
-            "drop"
-        ]
-    },
-    {
-        "word": "fünf",
-        "definition": [
-            "five"
-        ]
-    },
-    {
-        "word": "für",
-        "definition": [
-            "for"
-        ]
-    },
-    {
-        "word": "gehe",
-        "definition": [
-            "am going",
-            "walking",
-            "go",
-            "leave",
-            "going",
-            "walk",
-            "answer"
-        ]
-    },
-    {
-        "word": "gehen",
-        "definition": [
-            "go",
-            "walk",
-            "leave"
-        ]
-    },
-    {
-        "word": "Geld",
-        "definition": [
-            "money"
-        ]
-    },
-    {
-        "word": "Geldautomat",
-        "definition": [
-            "ATM",
-            "cash dispenser",
-            "cashpoint",
-            "bank machine",
-            "cash machine"
-        ]
-    },
-    {
-        "word": "genau",
-        "definition": [
-            "exactly",
-            "precisely"
-        ]
-    },
-    {
-        "word": "gern geschehen",
-        "definition": [
-            "you are welcome"
-        ]
-    },
-    {
-        "word": "gern",
-        "definition": [
-            "like",
-            "liked to",
-            "happy to",
-            "does like to",
-            "likes",
-            "liked",
-            "do like to",
-            "likes to",
-            "like to",
-            "be happy to",
-            "are happy to",
-            "enjoy",
-            "fond"
-        ]
-    },
-    {
-        "word": "geöffnet",
-        "definition": [
-            "open"
-        ]
-    },
-    {
-        "word": "Gleis",
-        "definition": [
-            "track",
-            "platform"
-        ]
-    },
-    {
-        "word": "groß",
-        "definition": [
-            "tall"
-        ]
-    },
-    {
-        "word": "Größe",
-        "definition": [
-            "size"
-        ]
-    },
-    {
-        "word": "gut",
-        "definition": [
-            "good"
-        ]
-    },
-    {
-        "word": "guten Tag",
-        "definition": [
-            "hello"
-        ]
-    },
-    {
-        "word": "ha",
-        "definition": [
-            "ha"
-        ]
-    },
-    {
-        "word": "habe",
-        "definition": [
-            "am",
-            "have been",
-            "did",
-            "had",
-            "have",
-            "have had",
-            "was"
-        ]
-    },
-    {
-        "word": "haben",
-        "definition": [
-            "have",
-            "do have",
-            "have had",
-            "is",
-            "hold",
-            "haben",
-            "were",
-            "take",
-            "get",
-            "having",
-            "serve",
-            "did",
-            "do serve",
-            "met",
-            "has",
-            "are",
-            "held",
-            "meet",
-            "be"
-        ]
-    },
-    {
-        "word": "habt",
-        "definition": [
-            "did",
-            "have",
-            "meet"
-        ]
-    },
-    {
-        "word": "halb",
-        "definition": [
-            "half"
-        ]
-    },
-    {
-        "word": "hallo",
-        "definition": [
-            "hello"
-        ]
-    },
-    {
-        "word": "hast",
-        "definition": [
-            "have",
-            "are",
-            "were",
-            "do",
-            "did",
-            "will have"
-        ]
-    },
-    {
-        "word": "hat",
-        "definition": [
-            "has",
-            "was",
-            "is",
-            "takes",
-            "take",
-            "'s",
-            "is having",
-            "does have",
-            "did",
-            "have",
-            "meet",
-            "has been"
-        ]
-    },
-    {
-        "word": "heiß",
-        "definition": [
-            "hot"
-        ]
-    },
-    {
-        "word": "heiße",
-        "definition": [
-            "hot",
-            "am called"
-        ]
-    },
-    {
-        "word": "heißen",
-        "definition": [
-            "hot",
-            "name",
-            "go",
-            "tell",
-            "are called",
-            "call",
-            "are the names of",
-            "called",
-            "names"
-        ]
-    },
-    {
-        "word": "heißt",
-        "definition": [
-            "is",
-            "name is",
-            "is called",
-            "'s name is",
-            "called"
-        ]
-    },
-    {
-        "word": "hell",
-        "definition": [
-            "bright",
-            "light"
-        ]
-    },
-    {
-        "word": "Hemd",
-        "definition": [
-            "shirt"
-        ]
-    },
-    {
-        "word": "Herbst",
-        "definition": [
-            "fall",
-            "autumn"
-        ]
-    },
-    {
-        "word": "Herr",
-        "definition": [
-            "Mr.",
-            "gentleman"
-        ]
-    },
-    {
-        "word": "heute Abend",
-        "definition": [
-            "this evening",
-            "tonight"
-        ]
-    },
-    {
-        "word": "heute Morgen",
-        "definition": [
-            "this morning"
-        ]
-    },
-    {
-        "word": "heute Nachmittag",
-        "definition": [
-            "this afternoon"
-        ]
-    },
-    {
-        "word": "heute",
-        "definition": [
-            "today"
-        ]
-    },
-    {
-        "word": "hier",
-        "definition": [
-            "here"
-        ]
-    },
-    {
-        "word": "Hin- und Rückfahrt",
-        "definition": [
-            "round-trip ticket",
-            "round trip",
-            "return ticket",
-            "return trip"
-        ]
-    },
-    {
-        "word": "hinten",
-        "definition": [
-            "in the back",
-            "at the back",
-            "in the rear",
-            "at the rear"
-        ]
-    },
-    {
-        "word": "Hotel",
-        "definition": [
-            "hotel"
-        ]
-    },
-    {
-        "word": "Hund",
-        "definition": [
-            "dog"
-        ]
-    },
-    {
-        "word": "hässlich",
-        "definition": [
-            "ugly",
-            "hideous",
-            "unsightly",
-            "gawdy",
-            "tacky"
-        ]
-    },
-    {
-        "word": "ICE",
-        "definition": [
-            "intercity express",
-            "ICE"
-        ]
-    },
-    {
-        "word": "ich",
-        "definition": [
-            "I"
-        ]
-    },
-    {
-        "word": "ie",
-        "definition": [
-            "ie"
-        ]
-    },
-    {
-        "word": "Ihr",
-        "definition": [
-            "she",
-            "your",
-            "her",
-            "yours",
-            "their",
-            "you"
-        ]
-    },
-    {
-        "word": "im",
-        "definition": [
-            "this",
-            "to the",
-            "in the",
-            "at the",
-            "during the",
-            "at",
-            "on",
-            "which",
-            "on the",
-            "during",
-            "in",
-            "by",
-            "to"
-        ]
-    },
-    {
-        "word": "immer",
-        "definition": [
-            "always"
-        ]
-    },
+					"word": "Euro",
+					"EnglishSentence": "I need to exchange my euros for dollars.",
+					"pos": "noun masculine",
+					"definition": ["euros", "euro"],
+					"description": "The noun 'Euro' means 'euros' or 'euro' in English. It refers to the currency unit used in the European Union and several other countries around the world.\n Euros are commonly used for international trade, investment, and financial transactions."
+				},
+				{
+					"word": "Fahrkarte",
+					"EnglishSentence": "I need to buy a ticket for the train.",
+					"pos": "noun feminine",
+					"definition": ["ticket"],
+					"description": "The noun 'Fahrkarte' means 'ticket' in English. It refers to a document or token that grants the holder permission to travel on a vehicle, such as a train, bus, plane, or ship.\n Fahrkarten are commonly used for public transportation, entertainment, events, and other activities."
+				},
+				{
+					"word": "Fahrkarten",
+					"EnglishSentence": "I need to buy tickets for the concert.",
+					"pos": "noun feminine",
+					"definition": ["tickets"],
+					"description": "The noun 'Fahrkarten' means 'tickets' in English. It refers to documents or tokens that grant the holder permission to enter a venue, event, or facility.\n Fahrkarten are commonly used for concerts, movies, museums, amusement parks, and other attractions."
+				},
+				{
+					"word": "fantastisch",
+					"EnglishSentence": "That was a fantastic movie.",
+					"pos": "adjective",
+					"definition": [
+						"fantastic",
+						"great",
+						"terrific",
+						"awesome",
+						"fabulous",
+						"brilliant",
+						"wonderful",
+						"splendid",
+						"amazing"
+					],
+					"description": "The adjective 'fantastisch' means 'fantastic', 'great', 'terrific', 'awesome', 'fabulous', 'brilliant', 'wonderful', 'splendid', or 'amazing' in English. It is used to describe something or someone that is extraordinary, exceptional, or outstanding in quality, performance, or appearance.\n Fantastisch is often used as a positive expression of approval, admiration, or appreciation."
+				},
+				{
+					"word": "Fisch",
+					"EnglishSentence": "I like to eat fish for dinner.",
+					"pos": "noun masculine",
+					"definition": ["fish"],
+					"description": "The noun 'Fisch' means 'fish' in English. It refers to a cold-blooded aquatic animal with gills, fins, and scales, known for its ability to swim, breathe underwater, and reproduce in water.\n Fische are a diverse and abundant group of vertebrates that are consumed as food by humans and other animals."
+				},
+				{
+					"word": "fotografiere",
+					"EnglishSentence": "I am taking photos.",
+					"pos": "verb",
+					"definition": ["take photos", "take pictures"],
+					"description": "The verb 'fotografiere' means 'take photos' or 'take pictures' in English. It is the first-person singular form of the verb 'fotografieren' (to photograph) in the present tense.\n Fotografiere is used to describe the action of capturing images or scenes with a camera or other photographic device."
+				},
+				{
+					"word": "Frankreich",
+					"EnglishSentence": "I want to visit France.",
+					"pos": "noun neuter",
+					"definition": ["France"],
+					"description": "The noun 'Frankreich' means 'France' in English. It refers to a country located in Western Europe, known for its rich history, culture, cuisine, and art.\n Frankreich is a popular tourist destination and a major economic and political power in the region."
+				},
+				{
+					"word": "Französisch",
+					"EnglishSentence": "I am learning French.",
+					"pos": "noun neuter",
+					"definition": ["French"],
+					"description": "The noun 'Französisch' means 'French' in English. It refers to the language spoken in France, Canada, Belgium, Switzerland, and other countries around the world.\n Französisch is one of the most widely spoken languages and is used for communication, business, education, and diplomacy."
+				},
+				{
+					"word": "Frau",
+					"EnglishSentence": "The young lady's name is Mrs. H",
+					"pos": "noun feminine",
+					"definition": ["woman", "wife", "Ms.", "Mrs."],
+					"description": "The noun 'Frau' means 'women' in English. It refers to an adult human female, typically married or in a committed relationship.\n Frauen are known for their strength, resilience, and nurturing qualities."
+				},
+				{
+					"word": "frei",
+					"EnglishSentence": "The seat is free.",
+					"pos": "adjective",
+					"definition": ["free", "available"],
+					"description": "The adjective 'frei' means 'free' or 'available' in English. It is used to describe something that is not occupied, taken, or reserved by someone else.\n Freie seats, spaces, or resources are open, unclaimed, or accessible to others."
+				},
+				{
+					"word": "Freund",
+					"EnglishSentence": "My best friend is my boyfriend.",
+					"pos": "noun masculine",
+					"definition": ["boyfriend", "partner"],
+					"description": "The noun 'Freund' means 'boyfriend' or 'partner' in English when referring to a romantic or intimate relationship.\n Freunde are individuals who share a close bond, mutual affection, and emotional connection with each other."
+				},
+				{
+					"word": "Freunde",
+					"EnglishSentence": "I like to spend time with my friends.",
+					"pos": "noun masculine plural",
+					"definition": ["friends", "friends'"],
+					"description": "The noun 'Freunde' means 'friends' or 'friends'' in English. It refers to a group of people who share a close bond, mutual affection, and emotional connection with each other.\n Freunde are individuals who support, encourage, and enjoy spending time together."
+				},
+				{
+					"word": "Freundin",
+					"EnglishSentence": "My best friend is my girlfriend.",
+					"pos": "noun feminine",
+					"definition": ["girlfriend", "friend", "friend's", "girlfriends"],
+					"description": "The noun 'Freundin' means 'girlfriend', 'friend', 'friend's', or 'girlfriends' in English when referring to a romantic or intimate relationship.\n Freundinnen are individuals who share a close bond, mutual affection, and emotional connection with each other."
+				},
+				{
+					"word": "freut mich",
+					"EnglishSentence": "Nice to meet you.",
+					"pos": "phrase",
+					"definition": ["nice to meet you", "nice"],
+					"description": "The phrase 'freut mich' means 'nice to meet you' in English. It is used to express pleasure, satisfaction, or appreciation upon meeting someone for the first time.\n Freut mich is a polite and friendly way of greeting or acknowledging a new acquaintance."
+				},
+				{
+					"word": "Frühling",
+					"EnglishSentence": "Spring is my favorite season.",
+					"pos": "noun masculine",
+					"definition": ["spring", "springtime"],
+					"description": "The noun 'Frühling' means 'spring' or 'springtime' in English. It refers to the season between winter and summer, known for its mild weather, blooming flowers, and longer days.\n Frühling is a time of renewal, growth, and rejuvenation in nature and the environment."
+				},
+				{
+					"word": "frühstücke",
+					"EnglishSentence": "I am eating breakfast.",
+					"pos": "verb",
+					"definition": ["eat breakfast", "am eating breakfast"],
+					"description": "The verb 'frühstücke' means 'eat breakfast' or 'am eating breakfast' in English. It is used to describe the action of consuming food or a meal in the morning.\n Frühstücke is a common and important meal that provides energy, nutrients, and sustenance for the day."
+				},
+				{
+					"word": "frühstückst",
+					"EnglishSentence": "You are eating breakfast.",
+					"pos": "verb",
+					"definition": ["are eating breakfast", "eat breakfast"],
+					"description": "The verb 'frühstückst' means 'are eating breakfast' or 'eat breakfast' in English. It is used to describe the action of consuming food or a meal in the morning.\n Frühstückst is a common and important meal that provides energy, nutrients, and sustenance for the day."
+				},
+				{
+					"word": "frühstückt",
+					"EnglishSentence": "He is eating breakfast.",
+					"pos": "verb",
+					"definition": ["are eating breakfast", "is eating breakfast"],
+					"description": "The verb 'frühstückt' means 'are eating breakfast', 'eats breakfast', 'is eating breakfast', or 'eat breakfast' in English. It is used to describe the action of consuming food or a meal in the morning.\n Frühstückt is a common and important meal that provides energy, nutrients, and sustenance for the day."
+				},
+				{
+					"word": "Fußball",
+					"EnglishSentence": "I like to play soccer.",
+					"pos": "noun masculine",
+					"definition": ["soccer", "football"],
+					"description": "The noun 'Fußball' means 'soccer' or 'football' in English. It refers to a team sport played with a round ball between two teams of eleven players each, known for its physicality, skill, and strategy.\n Fußball is the most popular and widely played sport in the world."
+				},
+				{
+					"word": "fällt",
+					"EnglishSentence": "The snow is falling.",
+					"pos": "verb",
+					"definition": ["fall", "is falling", "cases", "falls", "drop"],
+					"description": "The verb 'fällt' means 'fall', 'is falling', 'cases', 'falls', or 'drop' in English. It is used to describe the action of descending or dropping from a higher to a lower position.\n Fällt is often used to describe the movement of objects, substances, or natural phenomena."
+				},
+				{
+					"word": "fünf",
+					"EnglishSentence": "I have five fingers on each hand.",
+					"pos": "numeral",
+					"definition": ["five", "5"],
+					"description": "The numeral 'fünf' means 'five' in English. It is used to indicate the quantity or number of something, typically in reference to a countable object, person, or group.\n Fünf is an odd number that comes after four and before six."
+				},
+				{
+					"word": "für",
+					"EnglishSentence": "I bought a gift for my friend.",
+					"pos": "preposition",
+					"definition": ["for"],
+					"description": "The preposition 'für' means 'for' in English. It is used to indicate the recipient, beneficiary, or purpose of an action, object, or event.\n Für is used to express the relationship, connection, or association between two or more elements in a sentence."
+				},
+				{
+					"word": "gehe",
+					"EnglishSentence": "I am going for a walk.",
+					"pos": "verb",
+					"definition": ["am going", "go"],
+					"description": "The verb 'gehe' means 'am going', 'walking', 'go', 'leave', 'going', 'walk', or 'answer' in English. It is used to describe the action of moving from one place to another on foot or by other means of transportation.\n Gehe is a common and essential human activity that involves physical movement and direction."
+				},
+				{
+					"word": "gehen",
+					"EnglishSentence": "We are going to the park.",
+					"pos": "verb",
+					"definition": ["go", "walk", "leave"],
+					"description": "The verb 'gehen' means 'go', 'walk', or 'leave' in English. It is used to describe the action of moving from one place to another on foot or by other means of transportation.\n Gehen is a common and essential human activity that involves physical movement and direction."
+				},
+				{
+					"word": "Geld",
+					"EnglishSentence": "I need to withdraw some money from the ATM.",
+					"pos": "noun neuter",
+					"definition": ["money", "cash", "currency"],
+					"description": "The noun 'Geld' means 'money', 'cash', or 'currency' in English. It refers to a medium of exchange, store of value, or unit of account used for transactions, trade, and commerce.\n Geld is a universal and essential commodity that is used for buying, selling, and investing in goods and services."
+				},
+				{
+					"word": "Geldautomat",
+					"EnglishSentence": "I need to withdraw some cash from the ATM.",
+					"pos": "noun masculine",
+					"definition": [
+						"ATM",
+						"cash dispenser",
+						"cashpoint",
+						"bank machine",
+						"cash machine"
+					],
+					"description": "The noun 'Geldautomat' means 'ATM', 'cash dispenser', 'cashpoint', 'bank machine', or 'cash machine' in English. It refers to an electronic device that allows users to withdraw, deposit, or transfer money from their bank accounts.\n Geldautomaten are commonly found in banks, stores, airports, and other public locations."
+				},
+				{
+					"word": "genau",
+					"EnglishSentence": "I want to know exactly what happened.",
+					"pos": "adverb",
+					"definition": ["exactly", "precisely"],
+					"description": "The adverb 'genau' means 'exactly' or 'precisely' in English. It is used to indicate the accuracy, correctness, or specificity of information, details, or instructions.\n Genau is often used to emphasize the exactness, correctness, or precision of a statement or action."
+				},
+				{
+					"word": "gern geschehen",
+					"EnglishSentence": "You're welcome.",
+					"pos": "phrase",
+					"definition": ["you are welcome"],
+					"description": "The phrase 'gern geschehen' means 'you are welcome' in English. It is used to acknowledge and respond to expressions of gratitude, thanks, or appreciation from someone else.\n Gern geschehen is a polite and friendly way of accepting and reciprocating positive feedback or gestures."
+				},
+				{
+					"word": "gern",
+					"EnglishSentence": "It would be my pleasure to help you.",
+					"pos": "adverb",
+					"definition": ["Gladly", "with pleasure"],
+					"description": "The adverb 'gern' means 'gladly' or 'with pleasure' in English. It is used to express enjoyment, satisfaction, or willingness in performing an action, task, or activity.\n Gern is often used to indicate a positive attitude, preference, or inclination towards something."
+				},
+				{
+					"word": "geöffnet",
+					"EnglishSentence": "The store is open.",
+					"pos": "adjective",
+					"definition": ["open", "opened"],
+					"description": "The adjective 'geöffnet' means 'open' or 'opened' in English. It is used to describe something that is not closed, shut, or sealed.\n Geöffnet doors, windows, or businesses are accessible, available, or operating."
+				},
+				{
+					"word": "Gleis",
+					"EnglishSentence": "The train is arriving at platform 3.",
+					"pos": "noun neuter",
+					"definition": ["track", "platform"],
+					"description": "The noun 'Gleis' means 'track' or 'platform' in English. It refers to a designated area or structure where trains stop, depart, or pass through at a railway station.\n Gleise are used for boarding, alighting, and transferring passengers and cargo between trains and other modes of transportation."
+				},
+				{
+					"word": "groß",
+					"EnglishSentence": "The elephant is a large animal.",
+					"pos": "adjective",
+					"definition": ["large", "big", "tall"],
+					"description": "The adjective 'groß' means 'large', 'big', or 'tall' in English. It is used to describe something that has a considerable size, extent, or magnitude.\n Große objects, animals, or structures are often associated with strength, power, or importance."
+				},
+				{
+					"word": "Größe",
+					"EnglishSentence": "The size of the shirt is too small.",
+					"pos": "noun feminine",
+					"definition": ["size"],
+					"description": "The noun 'Größe' means 'size' in English. It refers to the dimensions, proportions, or measurements of an object, person, or thing.\n Größen are used to describe the length, width, height, weight, or capacity of something."
+				},
+				{
+					"word": "gut",
+					"EnglishSentence": "The food was good.",
+					"pos": "adjective",
+					"definition": ["good", "well", "fine"],
+					"description": "The adjective 'gut' means 'good', 'well', or 'fine' in English. It is used to describe something that is of high quality, value, or standard.\n Gute objects, experiences, or performances are often associated with satisfaction, approval, or excellence."
+				},
+				{
+					"word": "guten Tag",
+					"EnglishSentence": "Good day.",
+					"pos": "phrase",
+					"definition": ["hello", "good day", "good afternoon"],
+					"description": "The phrase 'guten Tag' means 'hello', 'good day', or 'good afternoon' in English. It is used as a polite and formal greeting to acknowledge and address someone during the day.\n Guten Tag is a common and respectful way of initiating a conversation or interaction with someone else."
+				},
+				{
+					"word": "ha",
+					"EnglishSentence": "Ha! That was funny.",
+					"pos": "interjection",
+					"definition": ["ha"],
+					"description": "The interjection 'ha' is used to express amusement, laughter, or satisfaction in response to something funny, surprising, or entertaining.\n Ha is often used as an exclamation or reaction to humor, wit, or irony in a conversation or situation."
+				},
+				{
+					"word": "habe",
+					"EnglishSentence": "I have a cat.",
+					"pos": "first person singular",
+					"definition": ["have", "possession", "own"],
+					"description": "The first person singular form of the verb 'haben' means 'have' or 'possession' in English. It is used to indicate possession, ownership, or control of something or someone.\n Habe is a common and essential verb that is used to express the relationship, connection, or association between a subject and an object."
+				},
+				{
+					"word": "haben",
+					"EnglishSentence": "We have a dog.",
+					"pos": "verb ",
+					"definition": ["have", "possess", "own"],
+					"description": "The verb 'haben' means 'have', 'possess', or 'own' in English. It is used to indicate possession, ownership, or control of something or someone.\n Haben is a common and essential verb that is used to express the relationship, connection, or association between a subject and an object."
+				},
+				{
+					"word": "habt",
+					"EnglishSentence": "He has a car.",
+					"pos": "second person plural",
+					"definition": ["have", "possess", "own"],
+					"description": "The second person plural form of the verb 'haben' means 'have', 'possess', or 'own' in English. It is used to indicate possession, ownership, or control of something or someone.\n Habt is a common and essential verb that is used to express the relationship, connection, or association between a subject and an object."
+				},
+				{
+					"word": "halb",
+					"EnglishSentence": "The glass is half full.",
+					"pos": "adjective",
+					"definition": ["half"],
+					"description": "The adjective 'halb' means 'half', 'semi-', or 'partly' in English. It is used to describe something that is divided into two equal parts or portions.\n Halbe objects, quantities, or measurements are often associated with balance, symmetry, or completion."
+				},
+				{
+					"word": "hallo",
+					"EnglishSentence": "Hello, how are you?",
+					"pos": "interjection",
+					"definition": ["hello"],
+					"description": "The interjection 'hallo' means 'hello' in English. It is used as a friendly and informal greeting to acknowledge and address someone in a conversation or interaction.\n Hallo is a common and versatile expression of welcome, introduction, or salutation."
+				},
+				{
+					"word": "hast",
+					"EnglishSentence": "You have a cat.",
+					"pos": "second person singular",
+					"definition": ["have", "possess", "own"],
+					"description": "The second person singular form of the verb 'haben' means 'have', 'possess', or 'own' in English. It is used to indicate possession, ownership, or control of something or someone.\n Hast is a common and essential verb that is used to express the relationship, connection, or association between a subject and an object."
+				},
+				{
+					"word": "hat",
+					"EnglishSentence": "He has a car.",
+					"pos": "third person singular",
+					"definition": ["has", "have", "possess", "own"],
+					"description": "The third person singular form of the verb 'haben' means 'has', 'have', 'possess', or 'own' in English. It is used to indicate possession, ownership, or control of something or someone.\n Hat is a common and essential verb that is used to express the relationship, connection, or association between a subject and an object."
+				},
+				{
+					"word": "heiß",
+					"EnglishSentence": "The tea is hot.",
+					"pos": "adjective",
+					"definition": ["hot", "warm", "spicy"],
+					"description": "The adjective 'heiß' means 'hot', 'warm', or 'spicy' in English. It is used to describe something that has a high temperature, intensity, or flavor.\n Heiße objects, substances, or foods are often associated with heat, energy, or excitement."
+				},
+				{
+					"word": "heiße",
+					"EnglishSentence": "My name is John.",
+					"pos": "first person singular",
+					"definition": ["am called"],
+					"description": "The first person singular form of the verb 'heißen' means 'am called' in English. It is used to introduce or identify oneself by name.\n Heiße is a common and essential verb that is used to express the identity, designation, or title of a person or thing."
+				},
+				{
+					"word": "heißen",
+					"EnglishSentence": "What is your name?",
+					"pos": "verb",
+					"definition": [
+						"be called",
+						"is called",
+						"are called",
+						"called",
+						"mean"
+					],
+					"description": "The verb 'heißen' means 'be called', 'is called', 'are called', 'called', or 'mean' in English. It is used to introduce or identify someone or something by name.\n Heißen is a common and essential verb that is used to express the identity, designation, or title of a person or thing."
+				},
+				{
+					"word": "heißt",
+					"EnglishSentence": "His name is Peter.",
+					"pos": "third person singular",
+					"definition": ["is called", "is named", "is"],
+					"description": "The third person singular form of the verb 'heißen' means 'is called', 'is named', or 'is' in English. It is used to introduce or identify someone or something by name.\n Heißt is a common and essential verb that is used to express the identity, designation, or title of a person or thing."
+				},
+				{
+					"word": "hell",
+					"EnglishSentence": "The room is bright.",
+					"pos": "adjective",
+					"definition": ["bright", "light"],
+					"description": "The adjective 'hell' means 'bright' or 'light' in English. It is used to describe something that emits or reflects a high level of illumination, visibility, or clarity.\n Helle objects, colors, or spaces are often associated with purity, innocence, or positivity."
+				},
+				{
+					"word": "Hemd",
+					"EnglishSentence": "I need to buy a new shirt.",
+					"pos": "noun neuter",
+					"definition": ["shirt"],
+					"description": "The noun 'Hemd' means 'shirt' in English. It refers to a garment worn on the upper body, typically with a collar, buttons, and sleeves.\n Hemden are commonly used for formal, casual, or athletic occasions and are available in various styles, colors, and sizes."
+				},
+				{
+					"word": "Herbst",
+					"EnglishSentence": "Autumn is a beautiful season.",
+					"pos": "noun masculine",
+					"definition": ["fall", "autumn"],
+					"description": "The noun 'Herbst' means 'fall' or 'autumn' in English. It refers to the season between summer and winter, known for its colorful foliage, cooler temperatures, and shorter days.\n Herbst is a time of transition, change, and harvest in nature and the environment."
+				},
+				{
+					"word": "Herr",
+					"EnglishSentence": "Mr. Smith is a gentleman.",
+					"pos": "noun masculine",
+					"definition": ["Mr.", "gentleman"],
+					"description": "The noun 'Herr' means 'Mr.' or 'gentleman' in English. It is used as a title of respect, courtesy, or formality when addressing or referring a man in a conversation or interaction.\n Herren are individuals who are polite, dignified, and well-mannered in their behavior and appearance."
+				},
+				{
+					"word": "heute Abend",
+					"EnglishSentence": "I am going to the theater tonight.",
+					"pos": "phrase",
+					"definition": ["this evening", "tonight"],
+					"description": "The phrase 'heute Abend' means 'this evening' or 'tonight' in English. It is used to indicate the time, period, or moment after sunset and before bedtime.\n Heute Abend is a common and versatile expression of planning, scheduling, or arranging activities or events in the evening."
+				},
+				{
+					"word": "heute Morgen",
+					"EnglishSentence": "I woke up early this morning.",
+					"pos": "phrase",
+					"definition": ["this morning"],
+					"description": "The phrase 'heute Morgen' means 'this morning' in English. It is used to indicate the time, period, or moment after sunrise and before noon.\n Heute Morgen is a common and versatile expression of starting, beginning, or initiating activities or events in the morning."
+				},
+				{
+					"word": "heute Nachmittag",
+					"EnglishSentence": "I have an appointment this afternoon.",
+					"pos": "phrase",
+					"definition": ["this afternoon"],
+					"description": "The phrase 'heute Nachmittag' means 'this afternoon' in English. It is used to indicate the time, period, or moment after noon and before evening.\n Heute Nachmittag is a common and versatile expression of continuing, progressing, or completing activities or events in the afternoon."
+				},
+				{
+					"word": "heute",
+					"EnglishSentence": "I am going to the store today.",
+					"pos": "adverb",
+					"definition": ["today"],
+					"description": "The adverb 'heute' means 'today' in English. It is used to indicate the current day, date, or time period in relation to the present moment.\n Heute is a common and versatile expression of planning, scheduling, or arranging activities or events on a specific day."
+				},
+				{
+					"word": "hier",
+					"EnglishSentence": "I am here.",
+					"pos": "adverb",
+					"definition": ["here"],
+					"description": "The adverb 'hier' means 'here' in English. It is used to indicate the location, position, or presence of someone or something in relation to the speaker or observer.\n Hier is a common and versatile expression of identifying, pointing, or referring to a specific place or point in space."
+				},
+				{
+					"word": "Hin-und Rückfahrt",
+					"EnglishSentence": "I need to buy a round-trip ticket for the train.",
+					"pos": "noun feminine",
+					"definition": [
+						"round-trip ticket",
+						"round trip",
+						"return ticket",
+						"return trip"
+					],
+					"description": "The noun 'Hin-und Rückfahrt' means 'round-trip ticket', 'round trip', 'return ticket', or 'return trip' in English. It refers to a ticket that allows the holder to travel to a destination and back to the starting point on the same route or itinerary.\n Hin-und Rückfahrten are commonly used for transportation, travel, and commuting between two locations."
+				},
+				{
+					"word": "hinten",
+					"EnglishSentence": "The car is parked in the back.",
+					"pos": "adverb",
+					"definition": [
+						"in the back",
+						"at the back",
+						"in the rear",
+						"at the rear"
+					],
+					"description": "The adverb 'hinten' means 'in the back', 'at the back', 'in the rear', or 'at the rear' in English. It is used to indicate the location, position, or direction of someone or something behind, after, or at the rear of another object or space.\n Hinten is a common and versatile expression of identifying, pointing, or referring to the back or rear of a place or object."
+				},
+				{
+					"word": "Hotel",
+					"EnglishSentence": "I am staying at a hotel.",
+					"pos": "noun neuter",
+					"definition": ["hotel"],
+					"description": "The noun 'Hotel' means 'hotel' in English. It refers to a commercial establishment that provides lodging, accommodations, and services for travelers, tourists, or guests.\n Hotels are commonly used for temporary stays, overnight stays, or short-term accommodations in various locations and destinations."
+				},
+				{
+					"word": "Hund",
+					"EnglishSentence": "I have a dog.",
+					"pos": "noun masculine",
+					"definition": ["dog"],
+					"description": "The noun 'Hund' means 'dog' in English. It refers to a domesticated mammal of the Canidae family, known for its loyalty, companionship, and versatility.\n Hunde are popular pets, working animals, and service animals that provide protection, assistance, and companionship to humans."
+				},
+				{
+					"word": "hässlich",
+					"EnglishSentence": "The painting is ugly.",
+					"pos": "adjective",
+					"definition": ["ugly", "hideous", "unsightly", "gawdy", "tacky"],
+					"description": "The adjective 'hässlich' means 'ugly', 'hideous', 'unsightly', 'gawdy', or 'tacky' in English. It is used to describe something that is unattractive, unpleasant, or offensive to the senses.\n Hässliche objects, colors, or designs are often associated with lack of beauty, harmony, or aesthetic appeal."
+				},
+				{
+					"word": "ICE",
+					"EnglishSentence": "I am taking the intercity express train to Berlin.",
+					"pos": "noun masculine",
+					"definition": ["intercity express", "ICE"],
+					"description": "The noun 'ICE' means 'intercity express' or 'ICE' in English. It refers to a high-speed train service that connects major cities and regions in Germany and neighboring countries.\n ICEs are known for their speed, comfort, and efficiency in long-distance travel and transportation."
+				},
+				{
+					"word": "ich",
+					"EnglishSentence": "I am learning German.",
+					"pos": "pronoun",
+					"definition": ["I", "me", "myself"],
+					"description": "The pronoun 'ich' means 'I', 'me', or 'myself' in English. It is used to refer to the speaker or writer as the subject of a sentence or clause.\n Ich is a personal pronoun that indicates the identity, presence, or perspective of the individual speaking or writing."
+				},
+				{
+					"word": "ie",
+					"EnglishSentence": "i.e. stands for 'id est' in Latin.",
+					"pos": "abbreviation",
+					"definition": ["ie", "that is", "in other words"],
+					"description": "The abbreviation 'ie' stands for 'id est' in Latin, which translates to 'that is' or 'in other words' in English. It is used to clarify, explain, or rephrase a statement, definition, or concept.\n Ie is commonly used in academic, legal, or technical writing to provide additional information or context."
+				},
+				{
+					"word": "Ihr",
+					"EnglishSentence": "Your car is parked in the driveway.",
+					"pos": "pronoun",
+					"definition": ["your", "yours"],
+					"description": "The pronoun 'Ihr' means 'your' or 'yours' in English. It is used to refer to the person or people being addressed as the possessive form of 'you'.\n Ihr is a personal pronoun that indicates the identity, presence, or perspective of the individual or individuals being spoken to."
+				},
+				{
+					"word": "ihr",
+					"EnglishSentence": "They are going to the movies with their friends.",
+					"pos": "pronoun",
+					"definition": ["her", "their"],
+					"description": "The pronoun 'ihr' means 'her' or 'their' in English. It is used to refer to the person or people being spoken about as the possessive form of 'she' or 'they'.\n Ihr is a personal pronoun that indicates the identity, presence, or perspective of the individual or individuals being discussed."
+				},
+				{
+					"word": "im",
+					"EnglishSentence": "I am in the kitchen.",
+					"pos": "preposition",
+					"definition": ["in the", "in", "at"],
+					"description": "The preposition 'im' means 'in the', 'in', or 'at' in English. It is used to indicate the location, position, or direction of someone or something within a specific space or area.\n Im is a common and versatile expression of identifying, pointing, or referring to a place or point in space."
+				},
+				{
+					"word": "immer",
+					"EnglishSentence": "I always go to the gym.",
+					"pos": "adverb",
+					"definition": ["always"],
+					"description": "The adverb 'immer' means 'always' in English. It is used to indicate the frequency, regularity, or constancy of an action, behavior, or occurrence.\n Immer is a common and versatile expression of continuity, persistence, or consistency in time, space, or context."
+				},
     {
         "word": "in der Nähe",
         "definition": [
