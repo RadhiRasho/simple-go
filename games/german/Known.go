@@ -41,7 +41,7 @@ func PlayKnownWords(scanner *bufio.Scanner, numWords int, correct *int) {
 			log.Fatal(err)
 		}
 
-		fmt.Println("\nTranslations: " + strings.Join(jsonWord.Translations, ", "))
+		fmt.Println("\nDefinition: " + strings.Join(jsonWord.Definition, ", "))
 
 		scanner.Scan()
 
