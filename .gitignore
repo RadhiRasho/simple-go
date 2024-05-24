@@ -1,0 +1,5 @@
+# exclude executable files from being git tracked
+
+*.exe
+*.out
+*.o
