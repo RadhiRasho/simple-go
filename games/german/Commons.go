@@ -2,55 +2,54 @@ package main
 
 import "encoding/json"
 
-type Word struct {
-	Word         string   `json:"word"`
-	Definition []string `json:"definition"`
-}
-
-func UnmarshalWord(data []byte) (Word, error) {
-	var r Word
-	err := json.Unmarshal(data, &r)
-	return r, err
-}
-
-func (r *Word) Marshal() ([]byte, error) {
-	return json.Marshal(r)
-}
-
 var colorReset, colorRed, colorGreen, colorYellow string = "\033[0m", "\033[31m", "\033[32m", "\033[33m"
 
-type WordAdvanced []WordAdvancedElement
+type Words []Word
 
-func UnmarshalWordAdvanced(data []byte) (WordAdvanced, error) {
-	var r WordAdvanced
+func UnmarshalWords(data []byte) (Words, error) {
+	var r Words
 	err := json.Unmarshal(data, &r)
 	return r, err
 }
 
-func (r *WordAdvanced) Marshal() ([]byte, error) {
+func (r *Words) Marshal() ([]byte, error) {
 	return json.Marshal(r)
 }
 
-type WordAdvancedElement struct {
-	Word        string  `json:"word"`
-	Pos         Pos     `json:"pos"`
-	Definition  string  `json:"definition"`
-	Description *string `json:"description,omitempty"`
+type Word struct {
+	Word            string   `json:"word"`
+	EnglishSentence *string  `json:"EnglishSentence,omitempty"`
+	Pos             []Pos    `json:"pos"`
+	Definition      []string `json:"definition"`
+	Description     *string  `json:"description,omitempty"`
 }
 
 type Pos string
 
 const (
-	Adjective   Pos = "Adjective"
-	Adverb      Pos = "Adverb"
-	Article     Pos = "Article"
-	Conjunction Pos = "Conjunction"
-	Determiner  Pos = "Determiner"
-	Noun        Pos = "Noun"
-	Numeral     Pos = "Numeral"
-	Particle    Pos = "Particle"
-	Preposition Pos = "Preposition"
-	Pronoun     Pos = "Pronoun"
-	Propernoun  Pos = "Propernoun"
-	Verb        Pos = "Verb"
+	Abbreviation Pos = "abbreviation"
+	Accusative   Pos = "accusative"
+	Adjective    Pos = "adjective"
+	Adverb       Pos = "adverb"
+	Article      Pos = "article"
+	Conjunction  Pos = "conjunction"
+	Determiner   Pos = "determiner"
+	Feminine     Pos = "feminine"
+	Infinitive   Pos = "infinitive"
+	Interjection Pos = "interjection"
+	Masculine    Pos = "masculine"
+	Neuter       Pos = "neuter"
+	Noun         Pos = "noun"
+	Numeral      Pos = "numeral"
+	Particle     Pos = "particle"
+	PastTense    Pos = "past tense"
+	Phrase       Pos = "phrase"
+	Plural       Pos = "plural"
+	Possessive   Pos = "possessive"
+	Preposition  Pos = "preposition"
+	Primary      Pos = "primary"
+	Pronoun      Pos = "pronoun"
+	Secondary    Pos = "secondary"
+	Tertiary     Pos = "tertiary"
+	Verb         Pos = "verb"
 )

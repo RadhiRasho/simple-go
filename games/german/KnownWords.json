@@ -2,7 +2,9 @@
     {
         "word": "a",
         "EnglishSentence": "I have a cat.",
-        "pos": "article",
+        "pos": [
+            "article"
+        ],
         "definition": [
             "A"
         ],
@@ -11,7 +13,9 @@
     {
         "word": "aber",
         "EnglishSentence": "I like cats, but I don't like dogs.",
-        "pos": "conjunction",
+        "pos": [
+            "conjunction"
+        ],
         "definition": [
             "but",
             "however"
@@ -21,7 +25,9 @@
     {
         "word": "Abfahrt",
         "EnglishSentence": "The train's departure is at 3:00 PM.",
-        "pos": "noun",
+        "pos": [
+            "noun"
+        ],
         "definition": [
             "departure"
         ],
@@ -30,7 +36,9 @@
     {
         "word": "ach",
         "EnglishSentence": "Ach, I forgot my keys at home.",
-        "pos": "interjection",
+        "pos": [
+            "interjection"
+        ],
         "definition": [
             "oh",
             "alas"
@@ -40,7 +48,9 @@
     {
         "word": "acht",
         "EnglishSentence": "The meeting is at eight o'clock.",
-        "pos": "numeral",
+        "pos": [
+            "numeral"
+        ],
         "definition": [
             "eight",
             "8"
@@ -50,7 +60,10 @@
     {
         "word": "Achtung",
         "EnglishSentence": "Achtung! Watch out for the falling debris.",
-        "pos": "noun interjection",
+        "pos": [
+            "noun",
+            "interjection"
+        ],
         "definition": [
             "attention",
             "watch out",
@@ -63,7 +76,9 @@
     {
         "word": "alt",
         "EnglishSentence": "The building is old and in need of repairs.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "old",
             "aged"
@@ -73,7 +88,9 @@
     {
         "word": "am Wochenende",
         "EnglishSentence": "I like to go hiking on the weekend.",
-        "pos": "adverb",
+        "pos": [
+            "adverb"
+        ],
         "definition": [
             "on the weekend"
         ],
@@ -82,7 +99,9 @@
     {
         "word": "am",
         "EnglishSentence": "The book is on the table.",
-        "pos": "noun",
+        "pos": [
+            "noun"
+        ],
         "definition": [
             "on"
         ],
@@ -91,7 +110,9 @@
     {
         "word": "Amerika",
         "EnglishSentence": "I want to visit America one day.",
-        "pos": "noun",
+        "pos": [
+            "noun"
+        ],
         "definition": [
             "America",
             "USA"
@@ -101,7 +122,10 @@
     {
         "word": "Anwalt",
         "EnglishSentence": "I need to consult with my lawyer before signing the contract.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "lawyer",
             "attorney"
@@ -111,7 +135,10 @@
     {
         "word": "Anwältin",
         "EnglishSentence": "The attorney is representing the defendant in court.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "lawyer",
             "a lawyer"
@@ -121,7 +148,10 @@
     {
         "word": "Apotheke",
         "EnglishSentence": "I need to pick up my prescription at the pharmacy.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "pharmacy",
             "drugstore"
@@ -131,7 +161,10 @@
     {
         "word": "Arbeit",
         "EnglishSentence": "I have a lot of work to do this week.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "work",
             "job",
@@ -142,7 +175,10 @@
     {
         "word": "Arzt",
         "EnglishSentence": "The doctor prescribed medication for my illness.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "doctor",
             "physician",
@@ -153,7 +189,9 @@
     {
         "word": "au",
         "EnglishSentence": "Ouch! That hurt.",
-        "pos": "interjection",
+        "pos": [
+            "interjection"
+        ],
         "definition": [
             "ow",
             "oh",
@@ -165,7 +203,9 @@
     {
         "word": "auch",
         "EnglishSentence": "I like pizza, and I also like pasta.",
-        "pos": "adverb",
+        "pos": [
+            "adverb"
+        ],
         "definition": [
             "also",
             "as well",
@@ -176,7 +216,9 @@
     {
         "word": "auf Wiedersehen",
         "EnglishSentence": "Goodbye, see you later.",
-        "pos": "interjection",
+        "pos": [
+            "interjection"
+        ],
         "definition": [
             "goodbye",
             "farewell",
@@ -187,7 +229,9 @@
     {
         "word": "auf",
         "EnglishSentence": "The book is on the table.",
-        "pos": "preposition",
+        "pos": [
+            "preposition"
+        ],
         "definition": [
             "on",
             "onto",
@@ -199,7 +243,9 @@
     {
         "word": "aufgeregt",
         "EnglishSentence": "I'm excited to see the new movie.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "excited",
             "agitated"
@@ -209,7 +255,9 @@
     {
         "word": "aufregend",
         "EnglishSentence": "The roller coaster ride was thrilling and exciting.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "exciting",
             "thrilling"
@@ -219,7 +267,10 @@
     {
         "word": "Aufzug",
         "EnglishSentence": "The elevator is out of order.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "elevator",
             "lift"
@@ -229,7 +280,9 @@
     {
         "word": "aus",
         "EnglishSentence": "I'm from Germany.",
-        "pos": "preposition",
+        "pos": [
+            "preposition"
+        ],
         "definition": [
             "from",
             "out of",
@@ -241,7 +294,10 @@
     {
         "word": "Badezimmer",
         "EnglishSentence": "I need to use the bathroom.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "bathroom",
             "restroom",
@@ -252,7 +308,10 @@
     {
         "word": "Bahnhof",
         "EnglishSentence": "The train station is crowded with commuters.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "train station",
             "railway station",
@@ -263,7 +322,10 @@
     {
         "word": "Basketball",
         "EnglishSentence": "I enjoy playing basketball with my friends.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "basketball"
         ],
@@ -272,7 +334,9 @@
     {
         "word": "Bequem",
         "EnglishSentence": "The sofa is comfortable and cozy.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "comfortable",
             "comfortably",
@@ -283,7 +347,10 @@
     {
         "word": "Beruf",
         "EnglishSentence": "Teaching is my profession.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "profession",
             "occupation",
@@ -294,7 +361,10 @@
     {
         "word": "Bett",
         "EnglishSentence": "I like to read in bed before going to sleep.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "bed"
         ],
@@ -303,7 +373,9 @@
     {
         "word": "bewölkt",
         "EnglishSentence": "The weather forecast predicts cloudy skies with a chance of rain.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "cloudy"
         ],
@@ -312,7 +384,10 @@
     {
         "word": "Bibliothek",
         "EnglishSentence": "I like to study in the library.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "library"
         ],
@@ -321,7 +396,10 @@
     {
         "word": "Bier",
         "EnglishSentence": "I enjoy drinking beer with my friends.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "beer"
         ],
@@ -330,7 +408,9 @@
     {
         "word": "billig",
         "EnglishSentence": "I bought a cheap shirt at the store.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "cheap",
             "inexpensive",
@@ -341,7 +421,9 @@
     {
         "word": "bin",
         "EnglishSentence": "I am a student.",
-        "pos": "verb",
+        "pos": [
+            "verb"
+        ],
         "definition": [
             "am"
         ],
@@ -350,7 +432,9 @@
     {
         "word": "bis bald",
         "EnglishSentence": "See you soon!",
-        "pos": "interjection",
+        "pos": [
+            "interjection"
+        ],
         "definition": [
             "see you soon"
         ],
@@ -359,7 +443,9 @@
     {
         "word": "bis später",
         "EnglishSentence": "See you later!",
-        "pos": "interjection",
+        "pos": [
+            "interjection"
+        ],
         "definition": [
             "see you later"
         ],
@@ -368,7 +454,9 @@
     {
         "word": "bis",
         "EnglishSentence": "The store is open until 9:00 PM.",
-        "pos": "preposition",
+        "pos": [
+            "preposition"
+        ],
         "definition": [
             "to",
             "until",
@@ -380,7 +468,9 @@
     {
         "word": "bist",
         "EnglishSentence": "You are my best friend.",
-        "pos": "verb",
+        "pos": [
+            "verb"
+        ],
         "definition": [
             "are"
         ],
@@ -389,7 +479,9 @@
     {
         "word": "bitte",
         "EnglishSentence": "Please pass the salt.",
-        "pos": "interjection",
+        "pos": [
+            "interjection"
+        ],
         "definition": [
             "please"
         ],
@@ -398,7 +490,10 @@
     {
         "word": "Bluse",
         "EnglishSentence": "I bought a new blouse for the party.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "blouse",
             "top"
@@ -408,7 +503,9 @@
     {
         "word": "brauchen",
         "EnglishSentence": "I need a new phone.",
-        "pos": "verb",
+        "pos": [
+            "verb"
+        ],
         "definition": [
             "need",
             "do need",
@@ -419,7 +516,9 @@
     {
         "word": "brauchst",
         "EnglishSentence": "Do you need help?",
-        "pos": "verb",
+        "pos": [
+            "verb"
+        ],
         "definition": [
             "need",
             "use",
@@ -430,7 +529,10 @@
     {
         "word": "Brot",
         "EnglishSentence": "I like to eat bread with butter.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "bread",
             "loaf of bread"
@@ -440,7 +542,10 @@
     {
         "word": "Bruder",
         "EnglishSentence": "My brother is coming to visit me next week.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "brother",
             "bro"
@@ -450,7 +555,10 @@
     {
         "word": "Bäckerei",
         "EnglishSentence": "I bought fresh bread from the bakery.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "bakery",
             "baker's"
@@ -460,7 +568,10 @@
     {
         "word": "Bär",
         "EnglishSentence": "The teddy bear is my favorite toy.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "bear",
             "teddy bear"
@@ -470,7 +581,10 @@
     {
         "word": "Bücherregal",
         "EnglishSentence": "I need to organize my bookshelf.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "bookcase",
             "bookshelf"
@@ -480,7 +594,10 @@
     {
         "word": "Café",
         "EnglishSentence": "Let's meet at the café for coffee.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "café",
             "coffee shop",
@@ -492,7 +609,9 @@
     {
         "word": "cool",
         "EnglishSentence": "That's a cool car.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "cool",
             "chill",
@@ -503,7 +622,10 @@
     {
         "word": "Couch",
         "EnglishSentence": "I like to relax on the couch after a long day.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "couch"
         ],
@@ -512,7 +634,9 @@
     {
         "word": "da drüben",
         "EnglishSentence": "The park is over there.",
-        "pos": "adverb",
+        "pos": [
+            "adverb"
+        ],
         "definition": [
             "over there"
         ],
@@ -521,7 +645,9 @@
     {
         "word": "danke",
         "EnglishSentence": "Thank you for your help.",
-        "pos": "interjection",
+        "pos": [
+            "interjection"
+        ],
         "definition": [
             "thank you",
             "thanks"
@@ -531,7 +657,10 @@
     {
         "word": "das",
         "EnglishSentence": "This is my book.",
-        "pos": "article pronoun",
+        "pos": [
+            "article",
+            "pronoun"
+        ],
         "definition": [
             "the",
             "that",
@@ -542,7 +671,11 @@
     {
         "word": "dein",
         "EnglishSentence": "My brother likes your sister.",
-        "pos": "pronoun masculine neuter",
+        "pos": [
+            "pronoun",
+            "masculine",
+            "neuter"
+        ],
         "definition": [
             "your",
             "yours"
@@ -552,7 +685,10 @@
     {
         "word": "deine",
         "EnglishSentence": "Your cat is cute.",
-        "pos": "pronoun feminine",
+        "pos": [
+            "pronoun",
+            "feminine"
+        ],
         "definition": [
             "your",
             "yours"
@@ -562,7 +698,10 @@
     {
         "word": "deinen",
         "EnglishSentence": "I like your car.",
-        "pos": "pronoun masculine",
+        "pos": [
+            "pronoun",
+            "masculine"
+        ],
         "definition": [
             "your",
             "to your",
@@ -574,7 +713,10 @@
     {
         "word": "den",
         "EnglishSentence": "I like the film.",
-        "pos": "article pronoun",
+        "pos": [
+            "article",
+            "pronoun"
+        ],
         "definition": [
             "the",
             "that",
@@ -585,7 +727,10 @@
     {
         "word": "der",
         "EnglishSentence": "The man is tall.",
-        "pos": "article pronoun",
+        "pos": [
+            "article",
+            "pronoun"
+        ],
         "definition": [
             "the",
             "that",
@@ -596,14 +741,22 @@
     {
         "word": "Deutsch",
         "EnglishSentence": "I am learning German.",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
-            "German"
+            "German",
+            "Germanic"
         ],
         "description": "The adjective 'Deutsch' means 'German' in English. It is used to describe something or someone that is related to or associated with the country, language, culture, or people of Germany.\n Deutsch is also used as a noun to refer to the German language."
     },
     {
         "word": "Deutschland",
         "EnglishSentence": "Germany is a beautiful country.",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "Germany"
         ],
@@ -612,7 +765,12 @@
     {
         "word": "die",
         "EnglishSentence": "The cat that I saw was white.",
-        "pos": "article pronoun feminine plural",
+        "pos": [
+            "article",
+            "pronoun",
+            "feminine",
+            "plural"
+        ],
         "definition": [
             "the",
             "that",
@@ -623,7 +781,10 @@
     {
         "word": "Dienstag",
         "EnglishSentence": "I have an appointment on Tuesday.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "Tuesday"
         ],
@@ -632,7 +793,10 @@
     {
         "word": "Dollar",
         "EnglishSentence": "I need to exchange my dollars for euros.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "dollar",
             "dollars"
@@ -642,7 +806,9 @@
     {
         "word": "drei",
         "EnglishSentence": "I have three siblings.",
-        "pos": "numeral",
+        "pos": [
+            "numeral"
+        ],
         "definition": [
             "three",
             "3"
@@ -652,7 +818,9 @@
     {
         "word": "dreißig",
         "EnglishSentence": "The speed limit is thirty kilometers per hour.",
-        "pos": "numeral",
+        "pos": [
+            "numeral"
+        ],
         "definition": [
             "thirty",
             "30"
@@ -662,7 +830,9 @@
     {
         "word": "du",
         "EnglishSentence": "You are my best friend.",
-        "pos": "pronoun",
+        "pos": [
+            "pronoun"
+        ],
         "definition": [
             "you"
         ],
@@ -671,7 +841,9 @@
     {
         "word": "dunkel",
         "EnglishSentence": "The room is dark.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "dark"
         ],
@@ -680,7 +852,10 @@
     {
         "word": "Döner",
         "EnglishSentence": "I like to eat döner kebab for lunch.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "doner kebab",
             "kebab"
@@ -690,7 +865,9 @@
     {
         "word": "dünn",
         "EnglishSentence": "The paper is thin.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "thin",
             "slim",
@@ -701,7 +878,9 @@
     {
         "word": "eh",
         "EnglishSentence": "I'll do it anyway.",
-        "pos": "adverb",
+        "pos": [
+            "adverb"
+        ],
         "definition": [
             "in any case",
             "anyway"
@@ -711,7 +890,9 @@
     {
         "word": "ehe",
         "EnglishSentence": "They got married before the baby was born.",
-        "pos": "conjunction",
+        "pos": [
+            "conjunction"
+        ],
         "definition": [
             "marriage",
             "wedlock",
@@ -722,7 +903,10 @@
     {
         "word": "Ei",
         "EnglishSentence": "I like to eat eggs for breakfast.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "egg"
         ],
@@ -731,7 +915,12 @@
     {
         "word": "ein",
         "EnglishSentence": "I have a cat.",
-        "pos": "article pronoun masculine neuter",
+        "pos": [
+            "article",
+            "pronoun",
+            "masculine",
+            "neuter"
+        ],
         "definition": [
             "a",
             "an"
@@ -741,7 +930,11 @@
     {
         "word": "eine",
         "EnglishSentence": "I have a dog.",
-        "pos": "article pronoun feminine",
+        "pos": [
+            "article",
+            "pronoun",
+            "feminine"
+        ],
         "definition": [
             "an",
             "a"
@@ -751,7 +944,11 @@
     {
         "word": "einen",
         "EnglishSentence": "I have a car.",
-        "pos": "article pronoun masculine",
+        "pos": [
+            "article",
+            "pronoun",
+            "masculine"
+        ],
         "definition": [
             "an",
             "a"
@@ -761,7 +958,9 @@
     {
         "word": "einfach",
         "EnglishSentence": "The solution is simple.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "easy",
             "simple"
@@ -771,7 +970,9 @@
     {
         "word": "eins",
         "EnglishSentence": "I have one apple.",
-        "pos": "numeral",
+        "pos": [
+            "numeral"
+        ],
         "definition": [
             "one"
         ],
@@ -780,7 +981,10 @@
     {
         "word": "Eintrittskarte",
         "EnglishSentence": "I need to buy a ticket for the concert.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "admission ticket",
             "[admission/entry/entrance] [ticket/pass/card]"
@@ -790,7 +994,10 @@
     {
         "word": "Elefant",
         "EnglishSentence": "The elephant is the largest land animal.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "elephant"
         ],
@@ -799,7 +1006,9 @@
     {
         "word": "elegant",
         "EnglishSentence": "She is wearing an elegant dress.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "elegant"
         ],
@@ -808,7 +1017,10 @@
     {
         "word": "Englisch",
         "EnglishSentence": "I am learning English.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "English"
         ],
@@ -817,7 +1029,10 @@
     {
         "word": "Entschuldigung",
         "EnglishSentence": "I'm sorry for being late.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "sorry",
             "excuse me",
@@ -828,7 +1043,10 @@
     {
         "word": "er",
         "EnglishSentence": "He is my brother.",
-        "pos": "pronoun masculine",
+        "pos": [
+            "pronoun",
+            "masculine"
+        ],
         "definition": [
             "he's",
             "him",
@@ -840,7 +1058,10 @@
     {
         "word": "Erdbeeren",
         "EnglishSentence": "I like to eat strawberries with cream.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "strawberries"
         ],
@@ -849,7 +1070,9 @@
     {
         "word": "es geht",
         "EnglishSentence": "I'm all right.",
-        "pos": "phrase",
+        "pos": [
+            "phrase"
+        ],
         "definition": [
             "I'm all right",
             "I'm okay",
@@ -860,7 +1083,9 @@
     {
         "word": "es gibt",
         "EnglishSentence": "There are many books in the library.",
-        "pos": "phrase",
+        "pos": [
+            "phrase"
+        ],
         "definition": [
             "there are",
             "there is",
@@ -871,7 +1096,9 @@
     {
         "word": "es tut mir leid",
         "EnglishSentence": "I'm sorry.",
-        "pos": "phrase",
+        "pos": [
+            "phrase"
+        ],
         "definition": [
             "I am sorry",
             "I'm sorry"
@@ -881,7 +1108,9 @@
     {
         "word": "es",
         "EnglishSentence": "It is raining.",
-        "pos": "pronoun",
+        "pos": [
+            "pronoun"
+        ],
         "definition": [
             "it"
         ],
@@ -890,7 +1119,10 @@
     {
         "word": "Essen",
         "EnglishSentence": "I like to eat pizza for dinner.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "food",
             "meal"
@@ -900,7 +1132,9 @@
     {
         "word": "essen",
         "EnglishSentence": "I am eating breakfast.",
-        "pos": "verb",
+        "pos": [
+            "verb"
+        ],
         "definition": [
             "eat",
             "eating"
@@ -910,7 +1144,10 @@
     {
         "word": "Eule",
         "EnglishSentence": "The owl is a nocturnal bird of prey.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "owl"
         ],
@@ -919,7 +1156,10 @@
     {
         "word": "Euro",
         "EnglishSentence": "I need to exchange my euros for dollars.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "euros",
             "euro"
@@ -929,7 +1169,10 @@
     {
         "word": "Fahrkarte",
         "EnglishSentence": "I need to buy a ticket for the train.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "ticket"
         ],
@@ -938,7 +1181,10 @@
     {
         "word": "Fahrkarten",
         "EnglishSentence": "I need to buy tickets for the concert.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "tickets"
         ],
@@ -947,7 +1193,9 @@
     {
         "word": "fantastisch",
         "EnglishSentence": "That was a fantastic movie.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "fantastic",
             "great",
@@ -964,7 +1212,10 @@
     {
         "word": "Fisch",
         "EnglishSentence": "I like to eat fish for dinner.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "fish"
         ],
@@ -973,7 +1224,9 @@
     {
         "word": "fotografiere",
         "EnglishSentence": "I am taking photos.",
-        "pos": "verb",
+        "pos": [
+            "verb"
+        ],
         "definition": [
             "take photos",
             "take pictures"
@@ -983,7 +1236,10 @@
     {
         "word": "Frankreich",
         "EnglishSentence": "I want to visit France.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "France"
         ],
@@ -992,7 +1248,10 @@
     {
         "word": "Französisch",
         "EnglishSentence": "I am learning French.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "French"
         ],
@@ -1001,7 +1260,10 @@
     {
         "word": "Frau",
         "EnglishSentence": "The young lady's name is Mrs. H",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "woman",
             "wife",
@@ -1013,7 +1275,9 @@
     {
         "word": "frei",
         "EnglishSentence": "The seat is free.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "free",
             "available"
@@ -1023,7 +1287,10 @@
     {
         "word": "Freund",
         "EnglishSentence": "My best friend is my boyfriend.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "boyfriend",
             "partner"
@@ -1033,7 +1300,11 @@
     {
         "word": "Freunde",
         "EnglishSentence": "I like to spend time with my friends.",
-        "pos": "noun masculine plural",
+        "pos": [
+            "noun",
+            "masculine",
+            "plural"
+        ],
         "definition": [
             "friends",
             "friends'"
@@ -1043,7 +1314,10 @@
     {
         "word": "Freundin",
         "EnglishSentence": "My best friend is my girlfriend.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "girlfriend",
             "friend",
@@ -1055,7 +1329,9 @@
     {
         "word": "freut mich",
         "EnglishSentence": "Nice to meet you.",
-        "pos": "phrase",
+        "pos": [
+            "phrase"
+        ],
         "definition": [
             "nice to meet you",
             "nice"
@@ -1065,7 +1341,10 @@
     {
         "word": "Frühling",
         "EnglishSentence": "Spring is my favorite season.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "spring",
             "springtime"
@@ -1075,7 +1354,9 @@
     {
         "word": "frühstücke",
         "EnglishSentence": "I am eating breakfast.",
-        "pos": "verb",
+        "pos": [
+            "verb"
+        ],
         "definition": [
             "eat breakfast",
             "am eating breakfast"
@@ -1085,7 +1366,9 @@
     {
         "word": "frühstückst",
         "EnglishSentence": "You are eating breakfast.",
-        "pos": "verb",
+        "pos": [
+            "verb"
+        ],
         "definition": [
             "are eating breakfast",
             "eat breakfast"
@@ -1095,7 +1378,9 @@
     {
         "word": "frühstückt",
         "EnglishSentence": "He is eating breakfast.",
-        "pos": "verb",
+        "pos": [
+            "verb"
+        ],
         "definition": [
             "are eating breakfast",
             "is eating breakfast"
@@ -1105,7 +1390,10 @@
     {
         "word": "Fußball",
         "EnglishSentence": "I like to play soccer.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "soccer",
             "football"
@@ -1115,7 +1403,9 @@
     {
         "word": "fällt",
         "EnglishSentence": "The snow is falling.",
-        "pos": "verb",
+        "pos": [
+            "verb"
+        ],
         "definition": [
             "fall",
             "is falling",
@@ -1128,7 +1418,9 @@
     {
         "word": "fünf",
         "EnglishSentence": "I have five fingers on each hand.",
-        "pos": "numeral",
+        "pos": [
+            "numeral"
+        ],
         "definition": [
             "five",
             "5"
@@ -1138,7 +1430,9 @@
     {
         "word": "für",
         "EnglishSentence": "I bought a gift for my friend.",
-        "pos": "preposition",
+        "pos": [
+            "preposition"
+        ],
         "definition": [
             "for"
         ],
@@ -1147,7 +1441,9 @@
     {
         "word": "gehe",
         "EnglishSentence": "I am going for a walk.",
-        "pos": "verb",
+        "pos": [
+            "verb"
+        ],
         "definition": [
             "am going",
             "go"
@@ -1157,7 +1453,9 @@
     {
         "word": "gehen",
         "EnglishSentence": "We are going to the park.",
-        "pos": "verb",
+        "pos": [
+            "verb"
+        ],
         "definition": [
             "go",
             "walk",
@@ -1168,7 +1466,10 @@
     {
         "word": "Geld",
         "EnglishSentence": "I need to withdraw some money from the ATM.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "money",
             "cash",
@@ -1179,7 +1480,10 @@
     {
         "word": "Geldautomat",
         "EnglishSentence": "I need to withdraw some cash from the ATM.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "ATM",
             "cash dispenser",
@@ -1192,7 +1496,9 @@
     {
         "word": "genau",
         "EnglishSentence": "I want to know exactly what happened.",
-        "pos": "adverb",
+        "pos": [
+            "adverb"
+        ],
         "definition": [
             "exactly",
             "precisely"
@@ -1202,7 +1508,9 @@
     {
         "word": "gern geschehen",
         "EnglishSentence": "You're welcome.",
-        "pos": "phrase",
+        "pos": [
+            "phrase"
+        ],
         "definition": [
             "you are welcome"
         ],
@@ -1211,7 +1519,9 @@
     {
         "word": "gern",
         "EnglishSentence": "It would be my pleasure to help you.",
-        "pos": "adverb",
+        "pos": [
+            "adverb"
+        ],
         "definition": [
             "Gladly",
             "with pleasure"
@@ -1221,7 +1531,9 @@
     {
         "word": "geöffnet",
         "EnglishSentence": "The store is open.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "open",
             "opened"
@@ -1231,7 +1543,10 @@
     {
         "word": "Gleis",
         "EnglishSentence": "The train is arriving at platform 3.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "track",
             "platform"
@@ -1241,7 +1556,9 @@
     {
         "word": "groß",
         "EnglishSentence": "The elephant is a large animal.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "large",
             "big",
@@ -1252,7 +1569,10 @@
     {
         "word": "Größe",
         "EnglishSentence": "The size of the shirt is too small.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "size"
         ],
@@ -1261,7 +1581,9 @@
     {
         "word": "gut",
         "EnglishSentence": "The food was good.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "good",
             "well",
@@ -1272,7 +1594,9 @@
     {
         "word": "guten Tag",
         "EnglishSentence": "Good day.",
-        "pos": "phrase",
+        "pos": [
+            "phrase"
+        ],
         "definition": [
             "hello",
             "good day",
@@ -1283,7 +1607,9 @@
     {
         "word": "ha",
         "EnglishSentence": "Ha! That was funny.",
-        "pos": "interjection",
+        "pos": [
+            "interjection"
+        ],
         "definition": [
             "ha"
         ],
@@ -1292,7 +1618,9 @@
     {
         "word": "habe",
         "EnglishSentence": "I have a cat.",
-        "pos": "primary",
+        "pos": [
+            "primary"
+        ],
         "definition": [
             "have",
             "possession",
@@ -1303,7 +1631,9 @@
     {
         "word": "haben",
         "EnglishSentence": "We have a dog.",
-        "pos": "verb ",
+        "pos": [
+            "verb"
+        ],
         "definition": [
             "have",
             "possess",
@@ -1313,8 +1643,10 @@
     },
     {
         "word": "habt",
-        "EnglishSentence": "He has a car.",
-        "pos": "second person plural",
+        "EnglishSentence": "You have a cat.",
+        "pos": [
+            "secondary"
+        ],
         "definition": [
             "have",
             "possess",
@@ -1325,7 +1657,9 @@
     {
         "word": "halb",
         "EnglishSentence": "The glass is half full.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "half"
         ],
@@ -1334,7 +1668,9 @@
     {
         "word": "hallo",
         "EnglishSentence": "Hello, how are you?",
-        "pos": "interjection",
+        "pos": [
+            "interjection"
+        ],
         "definition": [
             "hello"
         ],
@@ -1343,7 +1679,9 @@
     {
         "word": "hast",
         "EnglishSentence": "You have a cat.",
-        "pos": "secondary",
+        "pos": [
+            "secondary"
+        ],
         "definition": [
             "have",
             "possess",
@@ -1354,7 +1692,9 @@
     {
         "word": "hat",
         "EnglishSentence": "He has a car.",
-        "pos": "tertiary",
+        "pos": [
+            "tertiary"
+        ],
         "definition": [
             "has",
             "have",
@@ -1366,7 +1706,9 @@
     {
         "word": "heiß",
         "EnglishSentence": "The tea is hot.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "hot",
             "warm",
@@ -1377,7 +1719,9 @@
     {
         "word": "heiße",
         "EnglishSentence": "My name is John.",
-        "pos": "primary",
+        "pos": [
+            "primary"
+        ],
         "definition": [
             "am called"
         ],
@@ -1386,7 +1730,9 @@
     {
         "word": "heißen",
         "EnglishSentence": "What is your name?",
-        "pos": "verb",
+        "pos": [
+            "verb"
+        ],
         "definition": [
             "be called",
             "is called",
@@ -1399,7 +1745,9 @@
     {
         "word": "heißt",
         "EnglishSentence": "His name is Peter.",
-        "pos": "tertiary",
+        "pos": [
+            "tertiary"
+        ],
         "definition": [
             "is called",
             "is named",
@@ -1410,7 +1758,9 @@
     {
         "word": "hell",
         "EnglishSentence": "The room is bright.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "bright",
             "light"
@@ -1420,7 +1770,10 @@
     {
         "word": "Hemd",
         "EnglishSentence": "I need to buy a new shirt.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "shirt"
         ],
@@ -1429,7 +1782,10 @@
     {
         "word": "Herbst",
         "EnglishSentence": "Autumn is a beautiful season.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "fall",
             "autumn"
@@ -1439,7 +1795,10 @@
     {
         "word": "Herr",
         "EnglishSentence": "Mr. Smith is a gentleman.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "Mr.",
             "gentleman"
@@ -1449,7 +1808,9 @@
     {
         "word": "heute Abend",
         "EnglishSentence": "I am going to the theater tonight.",
-        "pos": "phrase",
+        "pos": [
+            "phrase"
+        ],
         "definition": [
             "this evening",
             "tonight"
@@ -1459,7 +1820,9 @@
     {
         "word": "heute Morgen",
         "EnglishSentence": "I woke up early this morning.",
-        "pos": "phrase",
+        "pos": [
+            "phrase"
+        ],
         "definition": [
             "this morning"
         ],
@@ -1468,7 +1831,9 @@
     {
         "word": "heute Nachmittag",
         "EnglishSentence": "I have an appointment this afternoon.",
-        "pos": "phrase",
+        "pos": [
+            "phrase"
+        ],
         "definition": [
             "this afternoon"
         ],
@@ -1477,7 +1842,9 @@
     {
         "word": "heute",
         "EnglishSentence": "I am going to the store today.",
-        "pos": "adverb",
+        "pos": [
+            "adverb"
+        ],
         "definition": [
             "today"
         ],
@@ -1486,7 +1853,9 @@
     {
         "word": "hier",
         "EnglishSentence": "I am here.",
-        "pos": "adverb",
+        "pos": [
+            "adverb"
+        ],
         "definition": [
             "here"
         ],
@@ -1495,7 +1864,10 @@
     {
         "word": "Hin-und Rückfahrt",
         "EnglishSentence": "I need to buy a round-trip ticket for the train.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "round-trip ticket",
             "round trip",
@@ -1507,7 +1879,9 @@
     {
         "word": "hinten",
         "EnglishSentence": "The car is parked in the back.",
-        "pos": "adverb",
+        "pos": [
+            "adverb"
+        ],
         "definition": [
             "in the back",
             "at the back",
@@ -1519,7 +1893,10 @@
     {
         "word": "Hotel",
         "EnglishSentence": "I am staying at a hotel.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "hotel"
         ],
@@ -1528,7 +1905,10 @@
     {
         "word": "Hund",
         "EnglishSentence": "I have a dog.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "dog"
         ],
@@ -1537,7 +1917,9 @@
     {
         "word": "hässlich",
         "EnglishSentence": "The painting is ugly.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "ugly",
             "hideous",
@@ -1550,7 +1932,10 @@
     {
         "word": "ICE",
         "EnglishSentence": "I am taking the intercity express train to Berlin.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "intercity express",
             "ICE"
@@ -1560,7 +1945,9 @@
     {
         "word": "ich",
         "EnglishSentence": "I am learning German.",
-        "pos": "pronoun",
+        "pos": [
+            "pronoun"
+        ],
         "definition": [
             "I",
             "me",
@@ -1571,7 +1958,9 @@
     {
         "word": "ie",
         "EnglishSentence": "i.e. stands for 'id est' in Latin.",
-        "pos": "abbreviation",
+        "pos": [
+            "abbreviation"
+        ],
         "definition": [
             "ie",
             "that is",
@@ -1582,7 +1971,9 @@
     {
         "word": "Ihr",
         "EnglishSentence": "Your car is parked in the driveway.",
-        "pos": "pronoun",
+        "pos": [
+            "pronoun"
+        ],
         "definition": [
             "your",
             "yours"
@@ -1592,7 +1983,9 @@
     {
         "word": "ihr",
         "EnglishSentence": "They are going to the movies with their friends.",
-        "pos": "pronoun",
+        "pos": [
+            "pronoun"
+        ],
         "definition": [
             "her",
             "their"
@@ -1602,7 +1995,9 @@
     {
         "word": "im",
         "EnglishSentence": "I am in the kitchen.",
-        "pos": "preposition",
+        "pos": [
+            "preposition"
+        ],
         "definition": [
             "in the",
             "in",
@@ -1613,7 +2008,9 @@
     {
         "word": "immer",
         "EnglishSentence": "I always go to the gym.",
-        "pos": "adverb",
+        "pos": [
+            "adverb"
+        ],
         "definition": [
             "always"
         ],
@@ -1622,7 +2019,9 @@
     {
         "word": "in der Nähe",
         "EnglishSentence": "The park is nearby.",
-        "pos": "phrase",
+        "pos": [
+            "phrase"
+        ],
         "definition": [
             "close",
             "nearby",
@@ -1633,7 +2032,9 @@
     {
         "word": "in",
         "EnglishSentence": "I am in the kitchen.",
-        "pos": "preposition",
+        "pos": [
+            "preposition"
+        ],
         "definition": [
             "in",
             "on",
@@ -1646,7 +2047,9 @@
     {
         "word": "ins",
         "EnglishSentence": "I am going to the store.",
-        "pos": "preposition",
+        "pos": [
+            "preposition"
+        ],
         "definition": [
             "this",
             "to the",
@@ -1660,7 +2063,9 @@
     {
         "word": "interessant",
         "EnglishSentence": "The book is interesting.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "interesting",
             "intriguing",
@@ -1671,7 +2076,9 @@
     {
         "word": "ist",
         "EnglishSentence": "The cat is sleeping.",
-        "pos": "verb",
+        "pos": [
+            "verb"
+        ],
         "definition": [
             "is",
             "'s"
@@ -1681,7 +2088,9 @@
     {
         "word": "ja",
         "EnglishSentence": "Yes, I am coming.",
-        "pos": "particle",
+        "pos": [
+            "particle"
+        ],
         "definition": [
             "yes",
             "yeah",
@@ -1694,7 +2103,9 @@
     {
         "word": "je",
         "EnglishSentence": "I have two apples per day.",
-        "pos": "adverb",
+        "pos": [
+            "adverb"
+        ],
         "definition": [
             "each",
             "per",
@@ -1706,7 +2117,10 @@
     {
         "word": "Jeans",
         "EnglishSentence": "I am wearing jeans.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "jeans",
             "pair of jeans"
@@ -1716,7 +2130,9 @@
     {
         "word": "jeden",
         "EnglishSentence": "I go to the gym every day.",
-        "pos": "determiner",
+        "pos": [
+            "determiner"
+        ],
         "definition": [
             "any",
             "all",
@@ -1730,7 +2146,9 @@
     {
         "word": "jetzt",
         "EnglishSentence": "I am busy right now.",
-        "pos": "adverb",
+        "pos": [
+            "adverb"
+        ],
         "definition": [
             "now",
             "at the moment",
@@ -1741,7 +2159,10 @@
     {
         "word": "Jobinterview",
         "EnglishSentence": "I have a job interview tomorrow.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "job interview",
             "interview"
@@ -1751,7 +2172,9 @@
     {
         "word": "jogge",
         "EnglishSentence": "I am jogging in the park.",
-        "pos": "verb",
+        "pos": [
+            "verb"
+        ],
         "definition": [
             "am jogging",
             "jog",
@@ -1762,7 +2185,10 @@
     {
         "word": "joggen",
         "EnglishSentence": "I jog in the park every morning.",
-        "pos": "verb infinitive",
+        "pos": [
+            "verb",
+            "infinitive"
+        ],
         "definition": [
             "to jog",
             "jogging"
@@ -1772,7 +2198,10 @@
     {
         "word": "joggst",
         "EnglishSentence": "You are jogging in the park.",
-        "pos": "verb secondary",
+        "pos": [
+            "verb",
+            "secondary"
+        ],
         "definition": [
             "jog",
             "are jogging"
@@ -1782,7 +2211,10 @@
     {
         "word": "joggt",
         "EnglishSentence": "He is jogging in the park.",
-        "pos": "verb tertiary",
+        "pos": [
+            "verb",
+            "tertiary"
+        ],
         "definition": [
             "jogs",
             "is jogging"
@@ -1792,7 +2224,9 @@
     {
         "word": "jung",
         "EnglishSentence": "The child is young.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "young",
             "youthful"
@@ -1802,7 +2236,11 @@
     {
         "word": "Junge",
         "EnglishSentence": "The boy wiggled his loose tooth.",
-        "pos": "noun masculine primary",
+        "pos": [
+            "noun",
+            "masculine",
+            "primary"
+        ],
         "definition": [
             "boy",
             "child",
@@ -1814,7 +2252,10 @@
     {
         "word": "Kaffee",
         "EnglishSentence": "I drink coffee in the morning.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "coffee"
         ],
@@ -1823,7 +2264,9 @@
     {
         "word": "kalt",
         "EnglishSentence": "The ice cream is cold.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "cold",
             "chilly"
@@ -1833,7 +2276,10 @@
     {
         "word": "Kanada",
         "EnglishSentence": "Canada is a beautiful country.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "Canada"
         ],
@@ -1842,7 +2288,10 @@
     {
         "word": "Kanzlerin",
         "EnglishSentence": "Angela Merkel was the Chancellor of Germany.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "chancellor",
             "the chancellor",
@@ -1853,7 +2302,10 @@
     {
         "word": "Kartoffel",
         "EnglishSentence": "I am making mashed potatoes for dinner.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "potato"
         ],
@@ -1862,7 +2314,11 @@
     {
         "word": "Kartoffeln",
         "EnglishSentence": "I am making mashed potatoes for dinner.",
-        "pos": "noun feminine plural",
+        "pos": [
+            "noun",
+            "feminine",
+            "plural"
+        ],
         "definition": [
             "potatoes"
         ],
@@ -1871,7 +2327,10 @@
     {
         "word": "Katze",
         "EnglishSentence": "The cat is sleeping on the couch.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "cat"
         ],
@@ -1880,7 +2339,11 @@
     {
         "word": "Katzen",
         "EnglishSentence": "The cats are playing in the garden.",
-        "pos": "noun feminine plural",
+        "pos": [
+            "noun",
+            "feminine",
+            "plural"
+        ],
         "definition": [
             "cats"
         ],
@@ -1889,7 +2352,10 @@
     {
         "word": "kaufen",
         "EnglishSentence": "I am buying groceries at the store.",
-        "pos": "verb infinitive",
+        "pos": [
+            "verb",
+            "infinitive"
+        ],
         "definition": [
             "buy",
             "to get",
@@ -1900,7 +2366,10 @@
     {
         "word": "Kaufhaus",
         "EnglishSentence": "I am shopping at the department store.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "department store",
             "store"
@@ -1910,7 +2379,9 @@
     {
         "word": "kein",
         "EnglishSentence": "He has no reason to feel guilty.",
-        "pos": "determiner",
+        "pos": [
+            "determiner"
+        ],
         "definition": [
             "no",
             "not a",
@@ -1922,7 +2393,9 @@
     {
         "word": "keine",
         "EnglishSentence": "I have two brothers but no sister.",
-        "pos": "determiner",
+        "pos": [
+            "determiner"
+        ],
         "definition": [
             "no",
             "not a",
@@ -1934,7 +2407,11 @@
     {
         "word": "keinen",
         "EnglishSentence": "I have no time to waste.",
-        "pos": "determiner masculine accusative",
+        "pos": [
+            "determiner",
+            "masculine",
+            "accusative"
+        ],
         "definition": [
             "no",
             "not a",
@@ -1946,7 +2423,10 @@
     {
         "word": "Kellner",
         "EnglishSentence": "The waiter brought us the menu.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "waiter"
         ],
@@ -1955,7 +2435,10 @@
     {
         "word": "Kellnerin",
         "EnglishSentence": "The waitress is taking our order.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "waitress",
             "server"
@@ -1965,7 +2448,10 @@
     {
         "word": "Kilo",
         "EnglishSentence": "I bought two kilos of apples.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "kilos of",
             "kilo of",
@@ -1979,7 +2465,10 @@
     {
         "word": "Kino",
         "EnglishSentence": "I am going to the movie theater.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "cinema",
             "theater",
@@ -1992,7 +2481,10 @@
     {
         "word": "Kirche",
         "EnglishSentence": "I am going to church on Sunday.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "church",
             "kirk"
@@ -2002,7 +2494,10 @@
     {
         "word": "Klavier",
         "EnglishSentence": "I am learning to play the piano.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "piano"
         ],
@@ -2011,7 +2506,10 @@
     {
         "word": "Kleid",
         "EnglishSentence": "I am wearing a dress to the party.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "dress"
         ],
@@ -2020,7 +2518,9 @@
     {
         "word": "klein",
         "EnglishSentence": "The baby is small.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "small",
             "little",
@@ -2032,7 +2532,9 @@
     {
         "word": "klug",
         "EnglishSentence": "The student is smart.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "smart",
             "intelligent",
@@ -2044,7 +2546,10 @@
     {
         "word": "koche",
         "EnglishSentence": "I am cooking dinner.",
-        "pos": "verb primary",
+        "pos": [
+            "verb",
+            "primary"
+        ],
         "definition": [
             "make",
             "cook",
@@ -2055,7 +2560,10 @@
     {
         "word": "kochst",
         "EnglishSentence": "You are boiling water.",
-        "pos": "verb secondary",
+        "pos": [
+            "verb",
+            "secondary"
+        ],
         "definition": [
             "make",
             "cook",
@@ -2066,7 +2574,10 @@
     {
         "word": "kocht",
         "EnglishSentence": "He is cooking dinner.",
-        "pos": "verb tertiary",
+        "pos": [
+            "verb",
+            "tertiary"
+        ],
         "definition": [
             "makes",
             "cooks",
@@ -2077,7 +2588,10 @@
     {
         "word": "komme",
         "EnglishSentence": "I am coming to the party.",
-        "pos": "verb primary",
+        "pos": [
+            "verb",
+            "primary"
+        ],
         "definition": [
             "come",
             "arrive",
@@ -2088,7 +2602,10 @@
     {
         "word": "kommen",
         "EnglishSentence": "He is coming to the concert.",
-        "pos": "verb infinitive",
+        "pos": [
+            "verb",
+            "infinitive"
+        ],
         "definition": [
             "come",
             "arrive",
@@ -2099,7 +2616,10 @@
     {
         "word": "kommst",
         "EnglishSentence": "You are coming to the party.",
-        "pos": "verb secondary",
+        "pos": [
+            "verb",
+            "secondary"
+        ],
         "definition": [
             "come",
             "arrive",
@@ -2110,7 +2630,10 @@
     {
         "word": "kommt",
         "EnglishSentence": "He is coming to the concert.",
-        "pos": "verb tertiary",
+        "pos": [
+            "verb",
+            "tertiary"
+        ],
         "definition": [
             "comes",
             "arrives",
@@ -2121,7 +2644,10 @@
     {
         "word": "Konzert",
         "EnglishSentence": "I am going to a concert tonight.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "concert",
             "concerto",
@@ -2132,7 +2658,11 @@
     {
         "word": "kosten",
         "EnglishSentence": "The meal costs twenty euros.",
-        "pos": "verb infinitive plural",
+        "pos": [
+            "verb",
+            "infinitive",
+            "plural"
+        ],
         "definition": [
             "cost",
             "to cost",
@@ -2143,7 +2673,10 @@
     {
         "word": "kostet",
         "EnglishSentence": "The meal costs twenty euros.",
-        "pos": "verb tertiary",
+        "pos": [
+            "verb",
+            "tertiary"
+        ],
         "definition": [
             "cost",
             "to cost",
@@ -2154,7 +2687,10 @@
     {
         "word": "Kreditkarte",
         "EnglishSentence": "I paid with my credit card.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "credit card"
         ],
@@ -2163,7 +2699,10 @@
     {
         "word": "Käse",
         "EnglishSentence": "I love cheese.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "cheese"
         ],
@@ -2172,7 +2711,10 @@
     {
         "word": "können",
         "EnglishSentence": "I can speak German.",
-        "pos": "verb infinitive",
+        "pos": [
+            "verb",
+            "infinitive"
+        ],
         "definition": [
             "knew",
             "can",
@@ -2185,7 +2727,10 @@
     {
         "word": "Künstler",
         "EnglishSentence": "The artist painted a beautiful landscape.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "an artist",
             "artists'",
@@ -2199,7 +2744,10 @@
     {
         "word": "L",
         "EnglishSentence": "I need this in size L.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "large"
         ],
@@ -2208,7 +2756,9 @@
     {
         "word": "lag",
         "EnglishSentence": "The book was lying on the table.",
-        "pos": "verb",
+        "pos": [
+            "verb"
+        ],
         "definition": [
             "lied",
             "was lying",
@@ -2220,7 +2770,10 @@
     {
         "word": "Lampe",
         "EnglishSentence": "The lamp is on the desk.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "lamp",
             "light"
@@ -2230,7 +2783,9 @@
     {
         "word": "laut",
         "EnglishSentence": "The music is loud.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "loud",
             "noisy",
@@ -2242,7 +2797,10 @@
     {
         "word": "lebe",
         "EnglishSentence": "I am living in Berlin.",
-        "pos": "verb primary",
+        "pos": [
+            "verb",
+            "primary"
+        ],
         "definition": [
             "live",
             "am living"
@@ -2252,7 +2810,10 @@
     {
         "word": "leben",
         "EnglishSentence": "He has lived in Paris for five years.",
-        "pos": "verb infinitive",
+        "pos": [
+            "verb",
+            "infinitive"
+        ],
         "definition": [
             "lived",
             "living",
@@ -2265,7 +2826,10 @@
     {
         "word": "lebst",
         "EnglishSentence": "You are living in a big city.",
-        "pos": "verb secondary",
+        "pos": [
+            "verb",
+            "secondary"
+        ],
         "definition": [
             "live",
             "living"
@@ -2275,7 +2839,9 @@
     {
         "word": "lecker",
         "EnglishSentence": "The cake is delicious.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "delicious"
         ],
@@ -2284,7 +2850,10 @@
     {
         "word": "Lehrer",
         "EnglishSentence": "The teacher is explaining the lesson.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "teacher",
             "instructor",
@@ -2295,7 +2864,10 @@
     {
         "word": "Lehrerin",
         "EnglishSentence": "The teacher separated the class into two groups",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "teacher",
             "a teacher"
@@ -2305,7 +2877,10 @@
     {
         "word": "lerne",
         "EnglishSentence": "I am learning German.",
-        "pos": "verb primary",
+        "pos": [
+            "verb",
+            "primary"
+        ],
         "definition": [
             "learn",
             "study",
@@ -2317,7 +2892,10 @@
     {
         "word": "lernst",
         "EnglishSentence": "You are studying for the exam.",
-        "pos": "verb secondary",
+        "pos": [
+            "verb",
+            "secondary"
+        ],
         "definition": [
             "learn",
             "study",
@@ -2329,7 +2907,10 @@
     {
         "word": "lernt",
         "EnglishSentence": "He is studying for the test.",
-        "pos": "verb tertiary",
+        "pos": [
+            "verb",
+            "tertiary"
+        ],
         "definition": [
             "learns",
             "learn",
@@ -2342,7 +2923,10 @@
     {
         "word": "liebe",
         "EnglishSentence": "I love you.",
-        "pos": "verb primary",
+        "pos": [
+            "verb",
+            "primary"
+        ],
         "definition": [
             "love"
         ],
@@ -2351,7 +2935,10 @@
     {
         "word": "liebst",
         "EnglishSentence": "You love your family.",
-        "pos": "verb secondary",
+        "pos": [
+            "verb",
+            "secondary"
+        ],
         "definition": [
             "love"
         ],
@@ -2360,7 +2947,10 @@
     {
         "word": "liebt",
         "EnglishSentence": "He loves his job.",
-        "pos": "verb tertiary",
+        "pos": [
+            "verb",
+            "tertiary"
+        ],
         "definition": [
             "loves",
             "love"
@@ -2370,7 +2960,9 @@
     {
         "word": "links",
         "EnglishSentence": "The book is on the left side of the shelf.",
-        "pos": "adverb",
+        "pos": [
+            "adverb"
+        ],
         "definition": [
             "on the left",
             "left",
@@ -2383,7 +2975,10 @@
     {
         "word": "machst",
         "EnglishSentence": "You are making a cake.",
-        "pos": "verb secondary",
+        "pos": [
+            "verb",
+            "secondary"
+        ],
         "definition": [
             "make",
             "do",
@@ -2394,7 +2989,10 @@
     {
         "word": "mag",
         "EnglishSentence": "I like ice cream.",
-        "pos": "verb primary",
+        "pos": [
+            "verb",
+            "primary"
+        ],
         "definition": [
             "like",
             "likes"
@@ -2404,7 +3002,10 @@
     {
         "word": "magst",
         "EnglishSentence": "You like to read books.",
-        "pos": "verb secondary",
+        "pos": [
+            "verb",
+            "secondary"
+        ],
         "definition": [
             "like"
         ],
@@ -2413,7 +3014,10 @@
     {
         "word": "male",
         "EnglishSentence": "I am painting a picture.",
-        "pos": "verb primary",
+        "pos": [
+            "verb",
+            "primary"
+        ],
         "definition": [
             "paint",
             "draw",
@@ -2425,7 +3029,10 @@
     {
         "word": "malst",
         "EnglishSentence": "You are painting a picture.",
-        "pos": "verb secondary",
+        "pos": [
+            "verb",
+            "secondary"
+        ],
         "definition": [
             "paint",
             "draw",
@@ -2437,7 +3044,10 @@
     {
         "word": "malt",
         "EnglishSentence": "He is drawing a picture.",
-        "pos": "verb tertiary",
+        "pos": [
+            "verb",
+            "tertiary"
+        ],
         "definition": [
             "paint",
             "draw",
@@ -2449,7 +3059,10 @@
     {
         "word": "malen",
         "EnglishSentence": "The artist is painting a landscape.",
-        "pos": "verb infinitive",
+        "pos": [
+            "verb",
+            "infinitive"
+        ],
         "definition": [
             "paint",
             "draw",
@@ -2461,7 +3074,9 @@
     {
         "word": "manchmal",
         "EnglishSentence": "Sometimes I like to go for a walk.",
-        "pos": "adverb",
+        "pos": [
+            "adverb"
+        ],
         "definition": [
             "sometimes",
             "at times",
@@ -2472,7 +3087,10 @@
     {
         "word": "Mann",
         "EnglishSentence": "The husband is cooking dinner.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "husband",
             "man",
@@ -2483,7 +3101,10 @@
     {
         "word": "Markt",
         "EnglishSentence": "I am going to the market.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "market",
             "marketplace"
@@ -2493,7 +3114,10 @@
     {
         "word": "Marktplatz",
         "EnglishSentence": "The market square is crowded.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "marketplace",
             "market"
@@ -2503,7 +3127,10 @@
     {
         "word": "Maus",
         "EnglishSentence": "The mouse is hiding in the corner.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "mouse"
         ],
@@ -2512,7 +3139,11 @@
     {
         "word": "Mäuse",
         "EnglishSentence": "The mice are eating the cheese.",
-        "pos": "noun feminine plural",
+        "pos": [
+            "noun",
+            "feminine",
+            "plural"
+        ],
         "definition": [
             "mice"
         ],
@@ -2521,7 +3152,10 @@
     {
         "word": "mein",
         "EnglishSentence": "This is my book.",
-        "pos": "pronoun masculine",
+        "pos": [
+            "pronoun",
+            "masculine"
+        ],
         "definition": [
             "my",
             "mine"
@@ -2531,7 +3165,10 @@
     {
         "word": "meine",
         "EnglishSentence": "These are my shoes.",
-        "pos": "pronoun feminine",
+        "pos": [
+            "pronoun",
+            "feminine"
+        ],
         "definition": [
             "mine",
             "my"
@@ -2541,7 +3178,10 @@
     {
         "word": "meinen",
         "EnglishSentence": "I am thinking about my family.",
-        "pos": "pronoun possessive",
+        "pos": [
+            "pronoun",
+            "possessive"
+        ],
         "definition": [
             "mean",
             "mine",
@@ -2555,7 +3195,10 @@
     {
         "word": "Milch",
         "EnglishSentence": "I am drinking milk.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "milk"
         ],
@@ -2564,7 +3207,10 @@
     {
         "word": "Mineralwasser",
         "EnglishSentence": "I am drinking mineral water.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "mineral water"
         ],
@@ -2573,7 +3219,10 @@
     {
         "word": "Minute",
         "EnglishSentence": "The meeting will start in one minute.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "minute"
         ],
@@ -2582,7 +3231,11 @@
     {
         "word": "Minuten",
         "EnglishSentence": "The meeting will start in ten minutes.",
-        "pos": "noun feminine plural",
+        "pos": [
+            "noun",
+            "feminine",
+            "plural"
+        ],
         "definition": [
             "minutes"
         ],
@@ -2591,7 +3244,9 @@
     {
         "word": "mit",
         "EnglishSentence": "I am going with my friends.",
-        "pos": "preposition",
+        "pos": [
+            "preposition"
+        ],
         "definition": [
             "with"
         ],
@@ -2600,7 +3255,10 @@
     {
         "word": "Mitbewohner",
         "EnglishSentence": "The roommate is cleaning the kitchen.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "roommate",
             "roomie",
@@ -2612,7 +3270,10 @@
     {
         "word": "Mitbewohnerin",
         "EnglishSentence": "The roommate is cleaning the kitchen.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "roommate",
             "roommate's"
@@ -2622,7 +3283,9 @@
     {
         "word": "modern",
         "EnglishSentence": "The apartment has a modern design.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "modern"
         ],
@@ -2631,7 +3294,10 @@
     {
         "word": "Montag",
         "EnglishSentence": "I have a meeting on Monday.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "Monday"
         ],
@@ -2640,7 +3306,10 @@
     {
         "word": "Morgen",
         "EnglishSentence": "I am going to the gym tomorrow morning.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "morning",
             "tomorrow morning"
@@ -2650,7 +3319,10 @@
     {
         "word": "Museum",
         "EnglishSentence": "I am visiting the museum.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "museum"
         ],
@@ -2659,7 +3331,11 @@
     {
         "word": "muss",
         "EnglishSentence": "I have to go to work.",
-        "pos": "verb primary tertiary",
+        "pos": [
+            "verb",
+            "primary",
+            "tertiary"
+        ],
         "definition": [
             "must",
             "have to",
@@ -2670,7 +3346,10 @@
     {
         "word": "musst",
         "EnglishSentence": "You have to study for the exam.",
-        "pos": "verb secondary",
+        "pos": [
+            "verb",
+            "secondary"
+        ],
         "definition": [
             "have to",
             "need to",
@@ -2681,7 +3360,10 @@
     {
         "word": "müssen",
         "EnglishSentence": "We have to finish the project by Friday.",
-        "pos": "verb infinitive",
+        "pos": [
+            "verb",
+            "infinitive"
+        ],
         "definition": [
             "must",
             "have to",
@@ -2692,7 +3374,10 @@
     {
         "word": "Mutter",
         "EnglishSentence": "The mother is cooking dinner.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "mother",
             "mom"
@@ -2702,7 +3387,11 @@
     {
         "word": "Mütter",
         "EnglishSentence": "The mothers are taking care of the children.",
-        "pos": "noun feminine plural",
+        "pos": [
+            "noun",
+            "feminine",
+            "plural"
+        ],
         "definition": [
             "mothers",
             "moms"
@@ -2712,7 +3401,10 @@
     {
         "word": "Muttersprache",
         "EnglishSentence": "German is my mother tongue.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "mother tongue",
             "native language",
@@ -2724,7 +3416,10 @@
     {
         "word": "möchte",
         "EnglishSentence": "I would like to order a pizza.",
-        "pos": "verb primary",
+        "pos": [
+            "verb",
+            "primary"
+        ],
         "definition": [
             "would like to",
             "would like"
@@ -2734,7 +3429,10 @@
     {
         "word": "möchtest",
         "EnglishSentence": "Would you like to go for a walk?",
-        "pos": "verb secondary",
+        "pos": [
+            "verb",
+            "secondary"
+        ],
         "definition": [
             "would like to",
             "like",
@@ -2746,7 +3444,10 @@
     {
         "word": "München",
         "EnglishSentence": "I am visiting Munich.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "Munich"
         ],
@@ -2755,7 +3456,9 @@
     {
         "word": "nach",
         "EnglishSentence": "I am going to the park.",
-        "pos": "preposition",
+        "pos": [
+            "preposition"
+        ],
         "definition": [
             "to",
             "after",
@@ -2768,7 +3471,9 @@
     {
         "word": "natürlich",
         "EnglishSentence": "Of course, I will help you.",
-        "pos": "adverb",
+        "pos": [
+            "adverb"
+        ],
         "definition": [
             "naturally",
             "of course",
@@ -2780,7 +3485,9 @@
     {
         "word": "neblig",
         "EnglishSentence": "The weather is foggy.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "foggy",
             "misty"
@@ -2790,7 +3497,9 @@
     {
         "word": "nein",
         "EnglishSentence": "No, I am not hungry.",
-        "pos": "adverb",
+        "pos": [
+            "adverb"
+        ],
         "definition": [
             "no",
             "not"
@@ -2800,7 +3509,9 @@
     {
         "word": "nervös",
         "EnglishSentence": "I am nervous about the presentation.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "nervous",
             "anxious",
@@ -2812,7 +3523,9 @@
     {
         "word": "nett",
         "EnglishSentence": "The waiter is nice.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "nice",
             "kind",
@@ -2823,7 +3536,9 @@
     {
         "word": "neu",
         "EnglishSentence": "The car is new.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "new",
             "fresh",
@@ -2834,7 +3549,9 @@
     {
         "word": "neun",
         "EnglishSentence": "The clock shows nine o'clock.",
-        "pos": "numeral",
+        "pos": [
+            "numeral"
+        ],
         "definition": [
             "nine",
             "9"
@@ -2844,7 +3561,9 @@
     {
         "word": "nicht",
         "EnglishSentence": "I am not hungry.",
-        "pos": "adverb",
+        "pos": [
+            "adverb"
+        ],
         "definition": [
             "not"
         ],
@@ -2853,7 +3572,9 @@
     {
         "word": "nie",
         "EnglishSentence": "I have never been to Paris.",
-        "pos": "adverb",
+        "pos": [
+            "adverb"
+        ],
         "definition": [
             "never",
             "not ever"
@@ -2863,7 +3584,9 @@
     {
         "word": "null",
         "EnglishSentence": "The score is zero.",
-        "pos": "numeral",
+        "pos": [
+            "numeral"
+        ],
         "definition": [
             "zero",
             "0"
@@ -2873,7 +3596,9 @@
     {
         "word": "nur",
         "EnglishSentence": "I have only one ticket.",
-        "pos": "adverb",
+        "pos": [
+            "adverb"
+        ],
         "definition": [
             "only",
             "just",
@@ -2884,7 +3609,9 @@
     {
         "word": "nächste",
         "EnglishSentence": "The next train is arriving in five minutes.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "next",
             "closest"
@@ -2894,7 +3621,9 @@
     {
         "word": "oder",
         "EnglishSentence": "Do you want tea or coffee?",
-        "pos": "conjunction",
+        "pos": [
+            "conjunction"
+        ],
         "definition": [
             "or"
         ],
@@ -2903,7 +3632,9 @@
     {
         "word": "oft",
         "EnglishSentence": "I often go for a walk in the park.",
-        "pos": "adverb",
+        "pos": [
+            "adverb"
+        ],
         "definition": [
             "often",
             "frequently",
@@ -2914,7 +3645,9 @@
     {
         "word": "oh",
         "EnglishSentence": "Oh, I forgot my keys.",
-        "pos": "interjection",
+        "pos": [
+            "interjection"
+        ],
         "definition": [
             "oh",
             "aw"
@@ -2924,7 +3657,9 @@
     {
         "word": "OK",
         "EnglishSentence": "OK, I will see you later.",
-        "pos": "interjection",
+        "pos": [
+            "interjection"
+        ],
         "definition": [
             "OK"
         ],
@@ -2933,7 +3668,10 @@
     {
         "word": "Oma",
         "EnglishSentence": "My grandma is visiting us.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "grandma",
             "grandmother"
@@ -2943,7 +3681,10 @@
     {
         "word": "Onkel",
         "EnglishSentence": "My uncle is coming to the party.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "uncle"
         ],
@@ -2952,7 +3693,10 @@
     {
         "word": "Opa",
         "EnglishSentence": "My grandpa is telling stories.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "grandpa",
             "grandfather"
@@ -2962,7 +3706,10 @@
     {
         "word": "Orange",
         "EnglishSentence": "I am eating an orange.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "orange"
         ],
@@ -2971,7 +3718,11 @@
     {
         "word": "Orangen",
         "EnglishSentence": "I am eating oranges.",
-        "pos": "noun feminine plural",
+        "pos": [
+            "noun",
+            "feminine",
+            "plural"
+        ],
         "definition": [
             "oranges"
         ],
@@ -2980,7 +3731,10 @@
     {
         "word": "Park",
         "EnglishSentence": "I am going to the park.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "park"
         ],
@@ -2989,7 +3743,10 @@
     {
         "word": "Partner",
         "EnglishSentence": "My partner is a doctor.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "partner",
             "partners",
@@ -3000,7 +3757,10 @@
     {
         "word": "Partnerin",
         "EnglishSentence": "My partner is a doctor.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "partner"
         ],
@@ -3009,7 +3769,11 @@
     {
         "word": "passe",
         "EnglishSentence": "I fit into the dress.",
-        "pos": "verb primary tertiary",
+        "pos": [
+            "verb",
+            "primary",
+            "tertiary"
+        ],
         "definition": [
             "fit",
             "fits",
@@ -3020,7 +3784,9 @@
     {
         "word": "passt",
         "EnglishSentence": "The dress fits perfectly.",
-        "pos": "verb",
+        "pos": [
+            "verb"
+        ],
         "definition": [
             "fit",
             "fits",
@@ -3031,7 +3797,10 @@
     {
         "word": "passen",
         "EnglishSentence": "The shoes fit well.",
-        "pos": "verb infinitive",
+        "pos": [
+            "verb",
+            "infinitive"
+        ],
         "definition": [
             "fit",
             "fits",
@@ -3043,7 +3812,9 @@
     {
         "word": "perfekt",
         "EnglishSentence": "The weather is perfect for a picnic.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "perfect"
         ],
@@ -3052,7 +3823,10 @@
     {
         "word": "Pizza",
         "EnglishSentence": "I am ordering a pizza.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "pizza"
         ],
@@ -3061,7 +3835,10 @@
     {
         "word": "Polizist",
         "EnglishSentence": "The police officer is patrolling the street.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "policeman",
             "police officer",
@@ -3072,7 +3849,10 @@
     {
         "word": "Polizistin",
         "EnglishSentence": "The police officer is patrolling the street.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "policewoman",
             "police officer",
@@ -3083,7 +3863,9 @@
     {
         "word": "Polnisch",
         "EnglishSentence": "I am learning Polish.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "Polish"
         ],
@@ -3092,7 +3874,10 @@
     {
         "word": "Professor",
         "EnglishSentence": "The professor is giving a lecture.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "professor",
             "a professor"
@@ -3102,7 +3887,10 @@
     {
         "word": "Professorin",
         "EnglishSentence": "The professor is giving a lecture.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "professor",
             "a professor"
@@ -3112,7 +3900,9 @@
     {
         "word": "prost",
         "EnglishSentence": "Cheers to a great evening.",
-        "pos": "interjection",
+        "pos": [
+            "interjection"
+        ],
         "definition": [
             "cheers"
         ],
@@ -3121,7 +3911,10 @@
     {
         "word": "Pullover",
         "EnglishSentence": "I am wearing a sweater.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "sweater",
             "jumper"
@@ -3131,7 +3924,10 @@
     {
         "word": "Rechnung",
         "EnglishSentence": "I am paying the bill.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "check"
         ],
@@ -3140,7 +3936,9 @@
     {
         "word": "rechts",
         "EnglishSentence": "The book is on the right side of the shelf.",
-        "pos": "adverb",
+        "pos": [
+            "adverb"
+        ],
         "definition": [
             "right",
             "the right",
@@ -3154,7 +3952,10 @@
     {
         "word": "Regenschirm",
         "EnglishSentence": "I am taking an umbrella.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "umbrella"
         ],
@@ -3163,7 +3964,9 @@
     {
         "word": "regnet",
         "EnglishSentence": "It is raining outside.",
-        "pos": "verb",
+        "pos": [
+            "verb"
+        ],
         "definition": [
             "rains",
             "is raining"
@@ -3173,7 +3976,10 @@
     {
         "word": "Reisezentrum",
         "EnglishSentence": "I am buying a train ticket at the travel center.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "travel center",
             "travel centre"
@@ -3183,7 +3989,10 @@
     {
         "word": "Restaurant",
         "EnglishSentence": "I am having dinner at the restaurant.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "restaurant"
         ],
@@ -3192,7 +4001,9 @@
     {
         "word": "Russisch",
         "EnglishSentence": "I am learning Russian.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "Russian"
         ],
@@ -3201,7 +4012,10 @@
     {
         "word": "Russland",
         "EnglishSentence": "I am visiting Russia.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "Russia"
         ],
@@ -3210,7 +4024,9 @@
     {
         "word": "S",
         "EnglishSentence": "I'd like this dress in small size.",
-        "pos": "noun",
+        "pos": [
+            "noun"
+        ],
         "definition": [
             "small"
         ],
@@ -3219,7 +4035,10 @@
     {
         "word": "sah",
         "EnglishSentence": "I saw a movie last night.",
-        "pos": "verb past tense",
+        "pos": [
+            "verb",
+            "past tense"
+        ],
         "definition": [
             "saw",
             "looked",
@@ -3230,7 +4049,10 @@
     {
         "word": "Sakko",
         "EnglishSentence": "I am wearing a suit jacket.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "jacket",
             "suit jacket"
@@ -3240,7 +4062,10 @@
     {
         "word": "Salat",
         "EnglishSentence": "I am eating a salad.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "salad",
             "lettuce"
@@ -3250,7 +4075,10 @@
     {
         "word": "Salz",
         "EnglishSentence": "I am adding salt to the soup.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "salt"
         ],
@@ -3259,7 +4087,10 @@
     {
         "word": "Samstag",
         "EnglishSentence": "I am going shopping on Saturday.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "Saturday"
         ],
@@ -3268,7 +4099,10 @@
     {
         "word": "Sandwich",
         "EnglishSentence": "I am eating a sandwich for lunch.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "sandwich"
         ],
@@ -3277,7 +4111,9 @@
     {
         "word": "sauber",
         "EnglishSentence": "The room is clean and tidy.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "clean",
             "tidy",
@@ -3288,7 +4124,10 @@
     {
         "word": "Schach",
         "EnglishSentence": "I am playing chess with my friend.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "chess"
         ],
@@ -3297,7 +4136,9 @@
     {
         "word": "schade",
         "EnglishSentence": "It's a shame that the concert was canceled.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "harm",
             "too bad",
@@ -3309,7 +4150,10 @@
     {
         "word": "Schal",
         "EnglishSentence": "I am wearing a scarf.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "scarf",
             "shawl"
@@ -3319,7 +4163,10 @@
     {
         "word": "Schauspieler",
         "EnglishSentence": "The actor is performing on stage.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "actor"
         ],
@@ -3328,7 +4175,10 @@
     {
         "word": "Schauspielerin",
         "EnglishSentence": "The actress is rehearsing her lines.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "actress"
         ],
@@ -3337,7 +4187,9 @@
     {
         "word": "schick",
         "EnglishSentence": "The dress is stylish and elegant.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "stylish",
             "fashionable",
@@ -3348,7 +4200,10 @@
     {
         "word": "Schlafzimmer",
         "EnglishSentence": "I am going to bed in the bedroom.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "bedroom"
         ],
@@ -3357,7 +4212,9 @@
     {
         "word": "schlecht",
         "EnglishSentence": "The weather is bad today.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "bad",
             "ill",
@@ -3368,7 +4225,10 @@
     {
         "word": "Schnecke",
         "EnglishSentence": "I saw a snail in the garden.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "snail",
             "slug"
@@ -3378,7 +4238,9 @@
     {
         "word": "schneit",
         "EnglishSentence": "It is snowing outside.",
-        "pos": "verb",
+        "pos": [
+            "verb"
+        ],
         "definition": [
             "is snowing",
             "snows"
@@ -3388,7 +4250,9 @@
     {
         "word": "schnell",
         "EnglishSentence": "The car is driving fast.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "quickly",
             "rapidly"
@@ -3398,7 +4262,10 @@
     {
         "word": "Schnitzel",
         "EnglishSentence": "I am eating schnitzel for dinner.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "schnitzel",
             "schnitzels"
@@ -3408,7 +4275,10 @@
     {
         "word": "Schrank",
         "EnglishSentence": "I am organizing my clothes in the closet.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "closet",
             "cabinet",
@@ -3420,7 +4290,10 @@
     {
         "word": "Schreibtisch",
         "EnglishSentence": "I am working at the desk.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "desk",
             "writing desk"
@@ -3430,7 +4303,10 @@
     {
         "word": "schuh",
         "EnglishSentence": "I need my other shoe.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "shoe"
         ],
@@ -3439,7 +4315,11 @@
     {
         "word": "Schuhe",
         "EnglishSentence": "I am buying new shoes.",
-        "pos": "noun masculine plural",
+        "pos": [
+            "noun",
+            "masculine",
+            "plural"
+        ],
         "definition": [
             "shoes"
         ],
@@ -3448,7 +4328,10 @@
     {
         "word": "Schweden",
         "EnglishSentence": "I am visiting Sweden next summer.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "Sweden"
         ],
@@ -3457,7 +4340,9 @@
     {
         "word": "Schwedisch",
         "EnglishSentence": "I am learning Swedish.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "Swedish"
         ],
@@ -3466,7 +4351,9 @@
     {
         "word": "schwer",
         "EnglishSentence": "The box is heavy.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "heavy",
             "difficult",
@@ -3477,7 +4364,10 @@
     {
         "word": "Schwester",
         "EnglishSentence": "My sister is studying abroad.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "sister"
         ],
@@ -3486,7 +4376,11 @@
     {
         "word": "Schwestern",
         "EnglishSentence": "The nurses are taking care of the patients.",
-        "pos": "noun feminine plural",
+        "pos": [
+            "noun",
+            "feminine",
+            "plural"
+        ],
         "definition": [
             "nurses",
             "sisters"
@@ -3496,7 +4390,10 @@
     {
         "word": "Schwimmbad",
         "EnglishSentence": "I am going to the swimming pool.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "swimming pool"
         ],
@@ -3505,7 +4402,10 @@
     {
         "word": "schwimme",
         "EnglishSentence": "I am swimming in the lake.",
-        "pos": "verb primary",
+        "pos": [
+            "verb",
+            "primary"
+        ],
         "definition": [
             "swim",
             "am swimming",
@@ -3516,7 +4416,10 @@
     {
         "word": "schwimmst",
         "EnglishSentence": "You are swimming in the pool.",
-        "pos": "verb secondary",
+        "pos": [
+            "verb",
+            "secondary"
+        ],
         "definition": [
             "swim",
             "are floating",
@@ -3528,7 +4431,10 @@
     {
         "word": "schwimmt",
         "EnglishSentence": "The duck is swimming in the pond.",
-        "pos": "verb tertiary",
+        "pos": [
+            "verb",
+            "tertiary"
+        ],
         "definition": [
             "swim",
             "swims",
@@ -3540,7 +4446,10 @@
     {
         "word": "schwimmen",
         "EnglishSentence": "I am swimming in the river.",
-        "pos": "verb infinitive",
+        "pos": [
+            "verb",
+            "infinitive"
+        ],
         "definition": [
             "swim",
             "to swim",
@@ -3551,7 +4460,9 @@
     {
         "word": "schön",
         "EnglishSentence": "The garden is beautiful in spring.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "beautiful",
             "nice"
@@ -3561,7 +4472,10 @@
     {
         "word": "Schüler",
         "EnglishSentence": "The students are studying for the exam.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "pupil",
             "pupils"
@@ -3571,7 +4485,10 @@
     {
         "word": "Schülerin",
         "EnglishSentence": "The schoolgirl is doing her homework.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "schoolgirl",
             "pupil"
@@ -3581,7 +4498,9 @@
     {
         "word": "sechs",
         "EnglishSentence": "The clock shows six o'clock.",
-        "pos": "numeral",
+        "pos": [
+            "numeral"
+        ],
         "definition": [
             "six",
             "6"
@@ -3591,7 +4510,9 @@
     {
         "word": "sehr",
         "EnglishSentence": "The movie was very interesting.",
-        "pos": "adverb",
+        "pos": [
+            "adverb"
+        ],
         "definition": [
             "very"
         ],
@@ -3600,7 +4521,9 @@
     {
         "word": "sein",
         "EnglishSentence": "He is a teacher.",
-        "pos": "verb",
+        "pos": [
+            "verb"
+        ],
         "definition": [
             "be",
             "to be"
@@ -3610,7 +4533,9 @@
     {
         "word": "sie",
         "EnglishSentence": "She is reading a book.",
-        "pos": "pronoun",
+        "pos": [
+            "pronoun"
+        ],
         "definition": [
             "they",
             "them",
@@ -3621,7 +4546,9 @@
     {
         "word": "Sie",
         "EnglishSentence": "You are welcome.",
-        "pos": "pronoun",
+        "pos": [
+            "pronoun"
+        ],
         "definition": [
             "you"
         ],
@@ -3630,7 +4557,9 @@
     {
         "word": "sieben",
         "EnglishSentence": "The clock shows seven o'clock.",
-        "pos": "numeral",
+        "pos": [
+            "numeral"
+        ],
         "definition": [
             "seven",
             "7"
@@ -3640,7 +4569,9 @@
     {
         "word": "sind",
         "EnglishSentence": "They are students.",
-        "pos": "verb",
+        "pos": [
+            "verb"
+        ],
         "definition": [
             "are",
             "to be"
@@ -3650,7 +4581,10 @@
     {
         "word": "singe",
         "EnglishSentence": "I am singing a song.",
-        "pos": "verb primary",
+        "pos": [
+            "verb",
+            "primary"
+        ],
         "definition": [
             "sing",
             "am singing"
@@ -3660,7 +4594,10 @@
     {
         "word": "singst",
         "EnglishSentence": "You are singing in the choir.",
-        "pos": "verb secondary",
+        "pos": [
+            "verb",
+            "secondary"
+        ],
         "definition": [
             "sing",
             "are singing"
@@ -3670,7 +4607,10 @@
     {
         "word": "singt",
         "EnglishSentence": "He is singing a lullaby.",
-        "pos": "verb tertiary",
+        "pos": [
+            "verb",
+            "tertiary"
+        ],
         "definition": [
             "sings",
             "sing",
@@ -3682,7 +4622,10 @@
     {
         "word": "singen",
         "EnglishSentence": "We are singing in the choir.",
-        "pos": "verb infinitive",
+        "pos": [
+            "verb",
+            "infinitive"
+        ],
         "definition": [
             "sing",
             "to sing"
@@ -3692,7 +4635,10 @@
     {
         "word": "Sitz",
         "EnglishSentence": "I am sitting on the chair.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "seat",
             "chair",
@@ -3704,7 +4650,9 @@
     {
         "word": "so",
         "EnglishSentence": "I like this dress so much.",
-        "pos": "adverb",
+        "pos": [
+            "adverb"
+        ],
         "definition": [
             "so",
             "thus",
@@ -3717,7 +4665,10 @@
     {
         "word": "Sohn",
         "EnglishSentence": "The son is playing in the park.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "son"
         ],
@@ -3726,7 +4677,11 @@
     {
         "word": "Söhne",
         "EnglishSentence": "The sons are playing in the garden.",
-        "pos": "noun masculine plural",
+        "pos": [
+            "noun",
+            "masculine",
+            "plural"
+        ],
         "definition": [
             "sons"
         ],
@@ -3735,7 +4690,10 @@
     {
         "word": "Sommer",
         "EnglishSentence": "I am going to the beach in summer.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "summer"
         ],
@@ -3744,7 +4702,10 @@
     {
         "word": "Sonnencreme",
         "EnglishSentence": "I am applying sunscreen at the beach.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "sunscreen",
             "suntan lotion",
@@ -3757,7 +4718,9 @@
     {
         "word": "sonnig",
         "EnglishSentence": "The weather is sunny today.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "sunny"
         ],
@@ -3766,7 +4729,10 @@
     {
         "word": "Sonntag",
         "EnglishSentence": "I am going to church on Sunday.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "Sunday"
         ],
@@ -3775,7 +4741,9 @@
     {
         "word": "Spanisch",
         "EnglishSentence": "I am learning Spanish.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "Spanish"
         ],
@@ -3784,7 +4752,10 @@
     {
         "word": "Speisekarte",
         "EnglishSentence": "I am ordering from the menu.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "menu"
         ],
@@ -3793,7 +4764,10 @@
     {
         "word": "Speisewagen",
         "EnglishSentence": "I am eating in the dining car.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "dining car",
             "diner car"
@@ -3803,7 +4777,10 @@
     {
         "word": "Spiel",
         "EnglishSentence": "I am playing a game.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "game",
             "match",
@@ -3815,7 +4792,10 @@
     {
         "word": "spiele",
         "EnglishSentence": "I am playing soccer.",
-        "pos": "verb primary",
+        "pos": [
+            "verb",
+            "primary"
+        ],
         "definition": [
             "play",
             "playing",
@@ -3826,7 +4806,10 @@
     {
         "word": "spielst",
         "EnglishSentence": "You are playing the piano.",
-        "pos": "verb secondary",
+        "pos": [
+            "verb",
+            "secondary"
+        ],
         "definition": [
             "play",
             "do play",
@@ -3838,7 +4821,10 @@
     {
         "word": "spielt",
         "EnglishSentence": "The children are playing in the park.",
-        "pos": "verb tertiary",
+        "pos": [
+            "verb",
+            "tertiary"
+        ],
         "definition": [
             "play",
             "plays",
@@ -3851,7 +4837,10 @@
     {
         "word": "spielen",
         "EnglishSentence": "We are playing chess.",
-        "pos": "verb infinitive",
+        "pos": [
+            "verb",
+            "infinitive"
+        ],
         "definition": [
             "play",
             "to play",
@@ -3863,7 +4852,10 @@
     {
         "word": "Sprache",
         "EnglishSentence": "I am learning a new language.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "language",
             "speech",
@@ -3874,7 +4866,11 @@
     {
         "word": "Sprachen",
         "EnglishSentence": "I am learning new languages.",
-        "pos": "noun feminine plural",
+        "pos": [
+            "noun",
+            "feminine",
+            "plural"
+        ],
         "definition": [
             "languages",
             "tongues"
@@ -3884,7 +4880,10 @@
     {
         "word": "spreche",
         "EnglishSentence": "I am speaking German.",
-        "pos": "verb primary",
+        "pos": [
+            "verb",
+            "primary"
+        ],
         "definition": [
             "speak",
             "say",
@@ -3897,7 +4896,10 @@
     {
         "word": "sprechen",
         "EnglishSentence": "We are speaking English.",
-        "pos": "verb infinitive",
+        "pos": [
+            "verb",
+            "infinitive"
+        ],
         "definition": [
             "speak",
             "to speak",
@@ -3908,7 +4910,10 @@
     {
         "word": "sprichst",
         "EnglishSentence": "You are speaking French.",
-        "pos": "verb secondary",
+        "pos": [
+            "verb",
+            "secondary"
+        ],
         "definition": [
             "talk",
             "speak",
@@ -3921,7 +4926,10 @@
     {
         "word": "spricht",
         "EnglishSentence": "He is speaking Spanish.",
-        "pos": "verb tertiary",
+        "pos": [
+            "verb",
+            "tertiary"
+        ],
         "definition": [
             "speak",
             "talks",
@@ -3935,7 +4943,9 @@
     {
         "word": "spät",
         "EnglishSentence": "The train is late.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "late"
         ],
@@ -3944,7 +4954,10 @@
     {
         "word": "Stadt",
         "EnglishSentence": "I am visiting the city.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "city",
             "town"
@@ -3954,7 +4967,11 @@
     {
         "word": "Städte",
         "EnglishSentence": "I am exploring new cities.",
-        "pos": "noun feminine plural",
+        "pos": [
+            "noun",
+            "feminine",
+            "plural"
+        ],
         "definition": [
             "cities",
             "towns"
@@ -3964,7 +4981,9 @@
     {
         "word": "stark",
         "EnglishSentence": "The wind is strong.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "strong",
             "powerful"
@@ -3974,7 +4993,10 @@
     {
         "word": "Station",
         "EnglishSentence": "I am waiting at the station.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "station"
         ],
@@ -3983,7 +5005,9 @@
     {
         "word": "stornieren",
         "EnglishSentence": "I am canceling the reservation.",
-        "pos": "verb",
+        "pos": [
+            "verb"
+        ],
         "definition": [
             "cancel",
             "to cancel",
@@ -3994,7 +5018,9 @@
     {
         "word": "stressig",
         "EnglishSentence": "The situation is stressful.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "stressful"
         ],
@@ -4003,7 +5029,10 @@
     {
         "word": "Student",
         "EnglishSentence": "The student is studying for the exam.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "student",
             "college student",
@@ -4014,7 +5043,10 @@
     {
         "word": "Studentin",
         "EnglishSentence": "The student is studying for the exam.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "student",
             "college student",
@@ -4025,7 +5057,11 @@
     {
         "word": "Studentinnen",
         "EnglishSentence": "The students are studying for the exam.",
-        "pos": "noun feminine plural",
+        "pos": [
+            "noun",
+            "feminine",
+            "plural"
+        ],
         "definition": [
             "students",
             "college students",
@@ -4036,7 +5072,10 @@
     {
         "word": "Stuhl",
         "EnglishSentence": "I am sitting on the chair.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "chair",
             "seat",
@@ -4047,7 +5086,11 @@
     {
         "word": "Stuhle",
         "EnglishSentence": "I am sitting on the chairs.",
-        "pos": "noun masculine plural",
+        "pos": [
+            "noun",
+            "masculine",
+            "plural"
+        ],
         "definition": [
             "chairs",
             "seats",
@@ -4058,7 +5101,10 @@
     {
         "word": "suche",
         "EnglishSentence": "I am looking for my keys.",
-        "pos": "verb primary",
+        "pos": [
+            "verb",
+            "primary"
+        ],
         "definition": [
             "look for",
             "seek",
@@ -4069,7 +5115,10 @@
     {
         "word": "suchst",
         "EnglishSentence": "You are looking for your glasses.",
-        "pos": "verb secondary",
+        "pos": [
+            "verb",
+            "secondary"
+        ],
         "definition": [
             "look for",
             "seek",
@@ -4080,7 +5129,10 @@
     {
         "word": "sucht",
         "EnglishSentence": "He is looking for his phone.",
-        "pos": "verb tertiary",
+        "pos": [
+            "verb",
+            "tertiary"
+        ],
         "definition": [
             "look for",
             "seeks",
@@ -4091,7 +5143,10 @@
     {
         "word": "suchen",
         "EnglishSentence": "We are looking for the restaurant.",
-        "pos": "verb infinitive",
+        "pos": [
+            "verb",
+            "infinitive"
+        ],
         "definition": [
             "look for",
             "to look for",
@@ -4102,7 +5157,9 @@
     {
         "word": "super",
         "EnglishSentence": "The movie was super.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "super",
             "awesome"
@@ -4112,7 +5169,10 @@
     {
         "word": "Supermarkt",
         "EnglishSentence": "I am going to the supermarket.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "supermarket",
             "grocery store"
@@ -4122,7 +5182,10 @@
     {
         "word": "surfe",
         "EnglishSentence": "I am surfing in Hawaii.",
-        "pos": "verb primary",
+        "pos": [
+            "verb",
+            "primary"
+        ],
         "definition": [
             "surf",
             "go surfing"
@@ -4132,7 +5195,10 @@
     {
         "word": "surfst",
         "EnglishSentence": "You are surfing in California.",
-        "pos": "verb secondary",
+        "pos": [
+            "verb",
+            "secondary"
+        ],
         "definition": [
             "surf",
             "go surfing"
@@ -4142,7 +5208,10 @@
     {
         "word": "surft",
         "EnglishSentence": "He is surfing in Australia.",
-        "pos": "verb tertiary",
+        "pos": [
+            "verb",
+            "tertiary"
+        ],
         "definition": [
             "goes surfing",
             "is surfing",
@@ -4154,7 +5223,10 @@
     {
         "word": "surfen",
         "EnglishSentence": "We are surfing in Hawaii.",
-        "pos": "verb infinitive",
+        "pos": [
+            "verb",
+            "infinitive"
+        ],
         "definition": [
             "surf",
             "to surf",
@@ -4166,7 +5238,10 @@
     {
         "word": "T-shirt",
         "EnglishSentence": "I am wearing a T-shirt.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "T-shirt"
         ],
@@ -4175,7 +5250,10 @@
     {
         "word": "Tag",
         "EnglishSentence": "I am going to the park during the day.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "day",
             "daytime",
@@ -4186,7 +5264,11 @@
     {
         "word": "Tage",
         "EnglishSentence": "I am going to the park during the days.",
-        "pos": "noun masculine plural",
+        "pos": [
+            "noun",
+            "masculine",
+            "plural"
+        ],
         "definition": [
             "days",
             "daytimes",
@@ -4197,7 +5279,10 @@
     {
         "word": "Tante",
         "EnglishSentence": "I am visiting my aunt.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "aunt",
             "auntie",
@@ -4208,7 +5293,10 @@
     {
         "word": "Taxistand",
         "EnglishSentence": "I am waiting at the taxi stand.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "taxi stand"
         ],
@@ -4217,7 +5305,10 @@
     {
         "word": "Tee",
         "EnglishSentence": "I am drinking tea.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "tea"
         ],
@@ -4226,7 +5317,10 @@
     {
         "word": "Teppich",
         "EnglishSentence": "I am buying a carpet for the living room.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "carpet",
             "rug"
@@ -4236,7 +5330,9 @@
     {
         "word": "teuer",
         "EnglishSentence": "The hotel is expensive.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "expensive",
             "costly",
@@ -4247,7 +5343,10 @@
     {
         "word": "Tisch",
         "EnglishSentence": "I am setting the table.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "table",
             "desk"
@@ -4257,7 +5356,10 @@
     {
         "word": "Tochter",
         "EnglishSentence": "I am visiting my daughter.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "daughter"
         ],
@@ -4266,7 +5368,11 @@
     {
         "word": "Töchter",
         "EnglishSentence": "I am visiting my daughters.",
-        "pos": "noun feminine plural",
+        "pos": [
+            "noun",
+            "feminine",
+            "plural"
+        ],
         "definition": [
             "daughters"
         ],
@@ -4275,7 +5381,10 @@
     {
         "word": "Toilette",
         "EnglishSentence": "I am going to the restroom.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "toilet",
             "restroom",
@@ -4286,7 +5395,11 @@
     {
         "word": "Toiletten",
         "EnglishSentence": "I am going to the restrooms.",
-        "pos": "noun feminine plural",
+        "pos": [
+            "noun",
+            "feminine",
+            "plural"
+        ],
         "definition": [
             "toilets",
             "bathrooms",
@@ -4298,7 +5411,9 @@
     {
         "word": "toll",
         "EnglishSentence": "The view is amazing.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "great",
             "amazing"
@@ -4308,7 +5423,10 @@
     {
         "word": "Tomate",
         "EnglishSentence": "I am eating a tomato.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "tomato"
         ],
@@ -4317,7 +5435,11 @@
     {
         "word": "Tomaten",
         "EnglishSentence": "I am eating tomatoes.",
-        "pos": "noun feminine plural",
+        "pos": [
+            "noun",
+            "feminine",
+            "plural"
+        ],
         "definition": [
             "tomatoes"
         ],
@@ -4326,7 +5448,9 @@
     {
         "word": "tschüss",
         "EnglishSentence": "Goodbye!",
-        "pos": "interjection",
+        "pos": [
+            "interjection"
+        ],
         "definition": [
             "bye",
             "goodbye"
@@ -4336,7 +5460,9 @@
     {
         "word": "Türkisch",
         "EnglishSentence": "I am learning Turkish.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "Turkish"
         ],
@@ -4345,7 +5471,10 @@
     {
         "word": "U-Bahnstation",
         "EnglishSentence": "I am waiting at the subway station.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "subway station",
             "metro station"
@@ -4355,7 +5484,10 @@
     {
         "word": "Uhr",
         "EnglishSentence": "I am looking at the clock.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "watch",
             "clock",
@@ -4366,7 +5498,9 @@
     {
         "word": "um",
         "EnglishSentence": "I am going for a walk around the park.",
-        "pos": "preposition",
+        "pos": [
+            "preposition"
+        ],
         "definition": [
             "around",
             "at",
@@ -4377,7 +5511,9 @@
     {
         "word": "und",
         "EnglishSentence": "I am reading a book and drinking tea.",
-        "pos": "conjunction",
+        "pos": [
+            "conjunction"
+        ],
         "definition": [
             "and"
         ],
@@ -4386,7 +5522,10 @@
     {
         "word": "Universität",
         "EnglishSentence": "I am studying at the university.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "university",
             "college"
@@ -4396,7 +5535,10 @@
     {
         "word": "Urlaub",
         "EnglishSentence": "I am going on vacation.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "vacation",
             "a vacation",
@@ -4407,7 +5549,10 @@
     {
         "word": "Vater",
         "EnglishSentence": "I am visiting my father.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "father"
         ],
@@ -4416,7 +5561,11 @@
     {
         "word": "Väter",
         "EnglishSentence": "I am visiting my fathers.",
-        "pos": "noun masculine plural",
+        "pos": [
+            "noun",
+            "masculine",
+            "plural"
+        ],
         "definition": [
             "fathers"
         ],
@@ -4425,7 +5574,10 @@
     {
         "word": "Verspätung",
         "EnglishSentence": "The train has a delay.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "delay"
         ],
@@ -4434,7 +5586,9 @@
     {
         "word": "viele",
         "EnglishSentence": "I have many friends.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "many",
             "a lot of",
@@ -4448,7 +5602,9 @@
     {
         "word": "vielen Dank",
         "EnglishSentence": "Thank you very much.",
-        "pos": "phrase",
+        "pos": [
+            "phrase"
+        ],
         "definition": [
             "thank you very much"
         ],
@@ -4457,7 +5613,9 @@
     {
         "word": "vier",
         "EnglishSentence": "I have four siblings.",
-        "pos": "numeral",
+        "pos": [
+            "numeral"
+        ],
         "definition": [
             "four",
             "4"
@@ -4467,7 +5625,10 @@
     {
         "word": "Volleyball",
         "EnglishSentence": "I am playing volleyball.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "volleyball"
         ],
@@ -4476,7 +5637,9 @@
     {
         "word": "von",
         "EnglishSentence": "I am from Germany.",
-        "pos": "preposition",
+        "pos": [
+            "preposition"
+        ],
         "definition": [
             "of",
             "by",
@@ -4488,7 +5651,10 @@
     {
         "word": "wandere",
         "EnglishSentence": "I am hiking in the mountains.",
-        "pos": "verb primary",
+        "pos": [
+            "verb",
+            "primary"
+        ],
         "definition": [
             "am hiking",
             "go hiking",
@@ -4500,7 +5666,10 @@
     {
         "word": "wanderst",
         "EnglishSentence": "You are hiking in the forest.",
-        "pos": "verb secondary",
+        "pos": [
+            "verb",
+            "secondary"
+        ],
         "definition": [
             "hiking",
             "hike",
@@ -4512,7 +5681,10 @@
     {
         "word": "wandert",
         "EnglishSentence": "He is hiking in the mountains.",
-        "pos": "verb tertiary",
+        "pos": [
+            "verb",
+            "tertiary"
+        ],
         "definition": [
             "hike",
             "hikes",
@@ -4523,7 +5695,10 @@
     {
         "word": "wandern",
         "EnglishSentence": "We are hiking in the forest.",
-        "pos": "verb infinitive",
+        "pos": [
+            "verb",
+            "infinitive"
+        ],
         "definition": [
             "traveling",
             "hiking",
@@ -4536,7 +5711,9 @@
     {
         "word": "wann",
         "EnglishSentence": "When are you coming?",
-        "pos": "adverb",
+        "pos": [
+            "adverb"
+        ],
         "definition": [
             "when",
             "what time",
@@ -4547,7 +5724,9 @@
     {
         "word": "warm",
         "EnglishSentence": "The weather is warm.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "warm"
         ],
@@ -4556,7 +5735,9 @@
     {
         "word": "warum",
         "EnglishSentence": "Why are you late?",
-        "pos": "adverb",
+        "pos": [
+            "adverb"
+        ],
         "definition": [
             "why",
             "for what reason"
@@ -4566,7 +5747,9 @@
     {
         "word": "was",
         "EnglishSentence": "What are you doing?",
-        "pos": "pronoun",
+        "pos": [
+            "pronoun"
+        ],
         "definition": [
             "what",
             "which"
@@ -4576,7 +5759,10 @@
     {
         "word": "Wasser",
         "EnglishSentence": "I am drinking water.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "water"
         ],
@@ -4585,7 +5771,10 @@
     {
         "word": "Wasserflasche",
         "EnglishSentence": "I am carrying a water bottle.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "water bottle"
         ],
@@ -4594,7 +5783,10 @@
     {
         "word": "Wein",
         "EnglishSentence": "I am drinking wine.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "wine"
         ],
@@ -4603,7 +5795,9 @@
     {
         "word": "weit weg",
         "EnglishSentence": "The beach is far away.",
-        "pos": "adverb",
+        "pos": [
+            "adverb"
+        ],
         "definition": [
             "far away",
             "far"
@@ -4613,7 +5807,9 @@
     {
         "word": "welche",
         "EnglishSentence": "Which book are you reading?",
-        "pos": "pronoun",
+        "pos": [
+            "pronoun"
+        ],
         "definition": [
             "which"
         ],
@@ -4622,7 +5818,9 @@
     {
         "word": "wer",
         "EnglishSentence": "Who is coming to the party?",
-        "pos": "pronoun",
+        "pos": [
+            "pronoun"
+        ],
         "definition": [
             "who"
         ],
@@ -4631,7 +5829,10 @@
     {
         "word": "Wetter",
         "EnglishSentence": "The weather is nice today.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "weather"
         ],
@@ -4640,7 +5841,9 @@
     {
         "word": "wie geht's",
         "EnglishSentence": "How are you?",
-        "pos": "phrase",
+        "pos": [
+            "phrase"
+        ],
         "definition": [
             "how are you?",
             "how do you do?",
@@ -4652,7 +5855,9 @@
     {
         "word": "wie",
         "EnglishSentence": "How do you like the movie?",
-        "pos": "adverb",
+        "pos": [
+            "adverb"
+        ],
         "definition": [
             "how",
             "what"
@@ -4662,7 +5867,10 @@
     {
         "word": "Wien",
         "EnglishSentence": "I am visiting Vienna.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "Vienna"
         ],
@@ -4671,7 +5879,9 @@
     {
         "word": "windig",
         "EnglishSentence": "The weather is windy.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "windy"
         ],
@@ -4680,7 +5890,10 @@
     {
         "word": "Winter",
         "EnglishSentence": "I am skiing in the winter.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "winter",
             "wintera"
@@ -4690,7 +5903,9 @@
     {
         "word": "wir",
         "EnglishSentence": "We are going to the park.",
-        "pos": "pronoun",
+        "pos": [
+            "pronoun"
+        ],
         "definition": [
             "we"
         ],
@@ -4699,7 +5914,9 @@
     {
         "word": "wirklich",
         "EnglishSentence": "The movie is really good.",
-        "pos": "adverb",
+        "pos": [
+            "adverb"
+        ],
         "definition": [
             "really",
             "actually",
@@ -4711,7 +5928,9 @@
     {
         "word": "wo",
         "EnglishSentence": "Where are you going?",
-        "pos": "adverb",
+        "pos": [
+            "adverb"
+        ],
         "definition": [
             "where"
         ],
@@ -4720,7 +5939,9 @@
     {
         "word": "woher",
         "EnglishSentence": "Where are you from?",
-        "pos": "adverb",
+        "pos": [
+            "adverb"
+        ],
         "definition": [
             "from where",
             "whence",
@@ -4731,7 +5952,10 @@
     {
         "word": "Wohnung",
         "EnglishSentence": "I am renting an apartment.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "apartment",
             "flat"
@@ -4741,7 +5965,11 @@
     {
         "word": "Wohnungen",
         "EnglishSentence": "I am renting apartments.",
-        "pos": "noun feminine plural",
+        "pos": [
+            "noun",
+            "feminine",
+            "plural"
+        ],
         "definition": [
             "apartments",
             "flats"
@@ -4751,7 +5979,9 @@
     {
         "word": "wunderbar",
         "EnglishSentence": "The view is wonderful.",
-        "pos": "adjective",
+        "pos": [
+            "adjective"
+        ],
         "definition": [
             "wonderful",
             "splendid",
@@ -4762,7 +5992,10 @@
     {
         "word": "Wurst",
         "EnglishSentence": "I am eating a sausage.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "sausage"
         ],
@@ -4771,7 +6004,10 @@
     {
         "word": "zahlen",
         "EnglishSentence": "I am paying for the bill.",
-        "pos": "verb primary",
+        "pos": [
+            "verb",
+            "primary"
+        ],
         "definition": [
             "pay",
             "to pay",
@@ -4783,7 +6019,9 @@
     {
         "word": "zehn",
         "EnglishSentence": "I have ten fingers.",
-        "pos": "numeral",
+        "pos": [
+            "numeral"
+        ],
         "definition": [
             "ten",
             "10"
@@ -4793,7 +6031,10 @@
     {
         "word": "Zeit",
         "EnglishSentence": "I am running out of time.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "time",
             "period",
@@ -4805,7 +6046,9 @@
     {
         "word": "zu",
         "EnglishSentence": "I am going to the park.",
-        "pos": "preposition",
+        "pos": [
+            "preposition"
+        ],
         "definition": [
             "to",
             "at",
@@ -4817,7 +6060,10 @@
     {
         "word": "Zug",
         "EnglishSentence": "I am taking the train.",
-        "pos": "noun masculine",
+        "pos": [
+            "noun",
+            "masculine"
+        ],
         "definition": [
             "train"
         ],
@@ -4826,7 +6072,11 @@
     {
         "word": "Züge",
         "EnglishSentence": "I am taking the trains.",
-        "pos": "noun masculine plural",
+        "pos": [
+            "noun",
+            "masculine",
+            "plural"
+        ],
         "definition": [
             "trains"
         ],
@@ -4835,7 +6085,10 @@
     {
         "word": "Zugtür",
         "EnglishSentence": "I am waiting at the train door.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "train door"
         ],
@@ -4844,7 +6097,11 @@
     {
         "word": "Zugtüren",
         "EnglishSentence": "I am waiting at the train doors.",
-        "pos": "noun feminine plural",
+        "pos": [
+            "noun",
+            "feminine",
+            "plural"
+        ],
         "definition": [
             "train doors"
         ],
@@ -4853,7 +6110,9 @@
     {
         "word": "zwanzig",
         "EnglishSentence": "I have twenty fingers.",
-        "pos": "numeral",
+        "pos": [
+            "numeral"
+        ],
         "definition": [
             "twenty",
             "20"
@@ -4863,7 +6122,9 @@
     {
         "word": "zwei",
         "EnglishSentence": "I have two siblings.",
-        "pos": "numeral",
+        "pos": [
+            "numeral"
+        ],
         "definition": [
             "two"
         ],
@@ -4872,7 +6133,10 @@
     {
         "word": "Ärztin",
         "EnglishSentence": "I am visiting a doctor.",
-        "pos": "noun feminine",
+        "pos": [
+            "noun",
+            "feminine"
+        ],
         "definition": [
             "doctor",
             "a doctor"
@@ -4882,7 +6146,10 @@
     {
         "word": "Österreich",
         "EnglishSentence": "I am visiting Austria.",
-        "pos": "noun neuter",
+        "pos": [
+            "noun",
+            "neuter"
+        ],
         "definition": [
             "Austria"
         ],

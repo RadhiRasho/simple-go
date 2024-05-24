@@ -55,11 +55,27 @@ func main() {
 
 	correct := 0
 
+	var file []byte
+
 	if strings.ToLower(challenge) == "y" {
-		PlayAdvanced(scanner, numWords, &correct)
+		file, err = os.ReadFile("./Top1000.json")
 	} else {
-		PlayKnownWords(scanner, numWords, &correct)
+		file, err = os.ReadFile("./KnownWords.json")
 	}
+
+	if err != nil {
+		fmt.Println("Error reading file")
+		os.Exit(1)
+	}
+
+	words, err := UnmarshalWords(file)
+
+	if err != nil {
+		fmt.Println("Error reading file")
+		os.Exit(1)
+	}
+
+	PlayQuiz(words, scanner, numWords, &correct)
 
 	fmt.Println(string(colorGreen), "\nYou Got: "+strconv.Itoa(correct)+" Correct "+"Out of "+strconv.Itoa(numWords), string(colorReset))
 }

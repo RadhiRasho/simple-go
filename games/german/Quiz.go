@@ -3,31 +3,17 @@ package main
 import (
 	"bufio"
 	"fmt"
-	"log"
 	"math/rand"
-	"os"
 	"strings"
 )
 
-func PlayAdvanced(scanner *bufio.Scanner, numWords int, correct *int) {
-	file, err := os.ReadFile("./Top1000.json")
-
-	if err != nil {
-		log.Fatal(err)
-	}
-
-	Words, err := UnmarshalWordAdvanced(file)
-
+func PlayQuiz(words Words, scanner *bufio.Scanner, numWords int, correct *int) {
 	usedWords := make(map[string]bool)
 
-	if err != nil {
-		log.Fatal(err)
-	}
-
 	for i := 0; i < numWords; i++ {
-		var word WordAdvancedElement
+		var word Word
 		for {
-		word = Words[rand.Intn(len(Words))]
+			word = words[rand.Intn(len(words))]
 			if !usedWords[word.Word] {
 				break
 			}
@@ -35,18 +21,21 @@ func PlayAdvanced(scanner *bufio.Scanner, numWords int, correct *int) {
 
 		usedWords[word.Word] = true
 
-		if err != nil {
-			log.Fatal(err)
+		fmt.Println("\nDefinition: " + strings.Join(word.Definition, ", "))
+
+		posStrings := make([]string, len(word.Pos))
+		for i, pos := range word.Pos {
+			posStrings[i] = string(pos)
 		}
 
-		fmt.Println("\nDefinition: " + word.Definition + " (Pos: " + string(word.Pos) + ")")
+		fmt.Println(string(colorGreen), "Part of Speech: "+strings.Join(posStrings, ", "), string(colorReset))
 
 		scanner.Scan()
 
 		input := scanner.Text()
 
 		if strings.EqualFold(strings.TrimSpace(input), word.Word) {
-			fmt.Println(string(colorGreen), "✔ Correct", string(colorReset))
+			fmt.Println(string(colorGreen), "  ✔ Correct", string(colorReset))
 			*correct++
 		} else {
 			fmt.Println(string(colorRed), "❌ Incorrect", string(colorReset))
