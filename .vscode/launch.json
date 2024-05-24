@@ -10,7 +10,7 @@
             "request": "launch",
             "console": "integratedTerminal",
             "mode": "auto",
-            "program": "${fileDirname}"
+            "program": "${fileDirname}",
         }
     ]
 }

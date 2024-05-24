@@ -11,36 +11,35 @@ import (
 )
 
 func main() {
+	var helpFlag bool
+	var challengeFlag bool
+
+	flag.BoolVar(&helpFlag, "help", false, "Display help information")
+	flag.BoolVar(&helpFlag, "h", false, "Display help information")
+	flag.BoolVar(&challengeFlag, "challenge", false, "Challenge mode with over 1000 most common words")
+	flag.BoolVar(&challengeFlag, "c", false, "Challenge mode with over 1000 most common words")
+
+	flag.Parse()
+
 	if len(flag.Args()) > 1 {
 		fmt.Println("Can't have more than one argument. Exiting...")
 		os.Exit(1)
 	}
 
-	flag.String("challenge", "", "Challenge mode with over 1000 most common words")
-
-	flag.Parse()
-
-	main := strings.ToLower(flag.Arg(0))
-
-	if main == "help" {
-		fmt.Println("Usage: german [challenge] | [help] | [no arguments]")
+	if helpFlag {
+		fmt.Println("Usage: german [--challenge | -c] | [--help | -h] | [no arguments]")
 		fmt.Println("Options:")
 		flag.PrintDefaults()
 		os.Exit(0)
 	}
 
-	var challenge string
-	if main == "challenge" {
-		challenge = "y"
-	}
-
 	scanner := bufio.NewScanner(os.Stdin)
 
-	if challenge == "" {
+	if !challengeFlag {
 		fmt.Println("Would you like to take on the Challenge Mode (Y/N)? (Default: N)")
 		scanner.Scan()
 
-		challenge = scanner.Text()
+		challengeFlag = strings.ToLower(scanner.Text()) == "y"
 	}
 
 	fmt.Println("How many would you like to try out? (default: 10)")
@@ -58,7 +57,7 @@ func main() {
 
 	var file []byte
 
-	if strings.ToLower(challenge) == "y" {
+	if challengeFlag {
 		file, err = os.ReadFile("./data/Top1000.json")
 	} else {
 		file, err = os.ReadFile("./data/KnownWords.json")

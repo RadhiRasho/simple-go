@@ -21,7 +21,7 @@ func PlayQuiz(words Words, scanner *bufio.Scanner, numWords int, correct *int) {
 
 		usedWords[word.Word] = true
 
-		fmt.Println(string(colorCyan),"\nDefinition:", string(colorReset), strings.Join(word.Definition, ", "))
+		fmt.Println(string(colorCyan), "\nDefinition:", string(colorReset), strings.Join(word.Definition, ", "))
 
 		posStrings := make([]string, len(word.Pos))
 
