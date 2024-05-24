@@ -59,9 +59,9 @@ func main() {
 	var file []byte
 
 	if strings.ToLower(challenge) == "y" {
-		file, err = os.ReadFile("./Top1000.json")
+		file, err = os.ReadFile("./data/Top1000.json")
 	} else {
-		file, err = os.ReadFile("./KnownWords.json")
+		file, err = os.ReadFile("./data/KnownWords.json")
 	}
 
 	if err != nil {
