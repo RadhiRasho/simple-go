@@ -2,7 +2,7 @@ package main
 
 import "encoding/json"
 
-var colorReset, colorRed, colorGreen, colorYellow string = "\033[0m", "\033[31m", "\033[32m", "\033[33m"
+var colorReset, colorRed, colorGreen, colorYellow, colorCyan string = "\033[0m", "\033[31m", "\033[32m", "\033[33m", "\033[36m"
 
 type Words []Word
 

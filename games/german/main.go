@@ -4,6 +4,7 @@ import (
 	"bufio"
 	"flag"
 	"fmt"
+	"log"
 	"os"
 	"strconv"
 	"strings"
@@ -64,14 +65,14 @@ func main() {
 	}
 
 	if err != nil {
-		fmt.Println("Error reading file")
+		log.Fatal(err)
 		os.Exit(1)
 	}
 
 	words, err := UnmarshalWords(file)
 
 	if err != nil {
-		fmt.Println("Error reading file")
+		log.Fatal(err)
 		os.Exit(1)
 	}
 

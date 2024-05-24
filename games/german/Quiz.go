@@ -21,27 +21,27 @@ func PlayQuiz(words Words, scanner *bufio.Scanner, numWords int, correct *int) {
 
 		usedWords[word.Word] = true
 
-		fmt.Println("\nDefinition: " + strings.Join(word.Definition, ", "))
+		fmt.Println(string(colorCyan),"\nDefinition: ", string(colorReset), strings.Join(word.Definition, ", "))
 
 		posStrings := make([]string, len(word.Pos))
 		for i, pos := range word.Pos {
 			posStrings[i] = string(pos)
 		}
 
-		fmt.Println(string(colorGreen), "Part of Speech: "+strings.Join(posStrings, ", "), string(colorReset))
+		fmt.Print(string(colorCyan), "Part of Speech: ", string(colorReset), strings.Join(posStrings, ", "), string(colorReset), "\n")
 
 		scanner.Scan()
 
 		input := scanner.Text()
 
 		if strings.EqualFold(strings.TrimSpace(input), word.Word) {
-			fmt.Println(string(colorGreen), "  ✔ Correct", string(colorReset))
+			fmt.Print(string(colorGreen), " ✔ Correct", string(colorReset), "\n")
 			*correct++
 		} else {
-			fmt.Println(string(colorRed), "❌ Incorrect", string(colorReset))
-			fmt.Println(string(colorGreen), "Correct Answer: "+word.Word, string(colorReset))
+			fmt.Print(string(colorRed), "❌ Incorrect", string(colorReset), "\n")
+			fmt.Print(string(colorGreen), "Correct Answer: ", word.Word, string(colorReset), "\n\n")
 			if word.Description != nil {
-				fmt.Println(string(colorYellow), "Additional Information: "+*word.Description, string(colorReset))
+				fmt.Print(string(colorYellow), "Additional Information: ", string(colorReset), *word.Description, string(colorReset), "\n")
 			}
 		}
 	}
