@@ -4535,239 +4535,357 @@
     },
     {
         "word": "wann",
+        "EnglishSentence": "When are you coming?",
+        "pos": "adverb",
         "definition": [
             "when",
             "what time",
             "at what time"
-        ]
+        ],
+        "description": "The adverb 'wann' means 'when', 'what time', or 'at what time' in English. It is used to ask, inquire, or question about the time, moment, or occasion of an event, action, or situation.\n Wann is a common, essential, or practical adverb that is used in conversations, meetings, or interactions to clarify, confirm, or determine schedules, appointments, or plans."
     },
     {
         "word": "warm",
+        "EnglishSentence": "The weather is warm.",
+        "pos": "adjective",
         "definition": [
             "warm"
-        ]
+        ],
+        "description": "The adjective 'warm' means 'warm' in English. It is used to describe the temperature, climate, or feeling of being comfortable, cozy, or pleasant in heat, warmth, or conditions.\n Warm temperatures, climates, or environments are associated with comfort, relaxation, or enjoyment in seasons, places, or settings."
     },
     {
         "word": "warum",
+        "EnglishSentence": "Why are you late?",
+        "pos": "adverb",
         "definition": [
-            "why"
-        ]
+            "why",
+            "for what reason"
+        ],
+        "description": "The adverb 'warum' means 'why' or 'for what reason' in English. It is used to ask, inquire, or question about the cause, purpose, or explanation of an event, action, or situation.\n Warum is a common, essential, or practical adverb that is used in conversations, meetings, or interactions to understand, clarify, or resolve issues, problems, or misunderstandings."
     },
     {
         "word": "was",
+        "EnglishSentence": "What are you doing?",
+        "pos": "pronoun",
         "definition": [
-            "what"
-        ]
+            "what",
+            "which"
+        ],
+        "description": "The pronoun 'was' means 'what' in English. It is used to ask, inquire, or question about the identity, nature, or purpose of an object, thing, or action.\n Was is a common, essential, or practical pronoun that is used in conversations, meetings, or interactions to seek, obtain, or provide information, details, or explanations."
     },
     {
         "word": "Wasser",
+        "EnglishSentence": "I am drinking water.",
+        "pos": "noun neuter",
         "definition": [
             "water"
-        ]
+        ],
+        "description": "The noun 'Wasser' means 'water' in English. It refers to a clear, liquid, or essential substance that is used, consumed, or needed for hydration, health, or survival.\n Wasser is a natural, vital, or refreshing element that is found, supplied, or available in various sources, forms, or environments for drinking, cooking, or cleaning."
     },
     {
         "word": "Wasserflasche",
+        "EnglishSentence": "I am carrying a water bottle.",
+        "pos": "noun feminine",
         "definition": [
             "water bottle"
-        ]
+        ],
+        "description": "The noun 'Wasserflasche' means 'water bottle' in English. It refers to a container, vessel, or receptacle that is used, carried, or filled with water, liquids, or beverages for drinking, hydration, or storage.\n Wasserflaschen are essential, portable, or reusable items that provide convenience, sustainability, or accessibility in travel, sports, or daily activities."
     },
     {
         "word": "Wein",
+        "EnglishSentence": "I am drinking wine.",
+        "pos": "noun masculine",
         "definition": [
             "wine"
-        ]
+        ],
+        "description": "The noun 'Wein' means 'wine' in English. It refers to an alcoholic, fermented, or grape-based beverage that is made, produced, or enjoyed in various regions, cultures, or traditions.\n Wein is a popular, social, or cultural drink that is served, shared, or celebrated in meals, events, or occasions for enjoyment, relaxation, or pleasure."
     },
     {
         "word": "weit weg",
+        "EnglishSentence": "The beach is far away.",
+        "pos": "adverb",
         "definition": [
             "far away",
             "far"
-        ]
+        ],
+        "description": "The adverb 'weit weg' means 'far away' or 'far' in English. It is used to describe the distance, location, or position of an object, place, or destination in relation to another point, area, or reference.\n Weit weg is a common, practical, or descriptive adverb that is used in conversations, directions, or travel to indicate distances, locations, or directions."
     },
     {
         "word": "welche",
+        "EnglishSentence": "Which book are you reading?",
+        "pos": "pronoun",
         "definition": [
             "which"
-        ]
+        ],
+        "description": "The pronoun 'welche' means 'which' in English. It is used to ask, inquire, or question about the identity, choice, or selection of an object, thing, or item.\n Welche is a common, essential, or practical pronoun that is used in conversations, meetings, or interactions to seek, obtain, or provide information, details, or explanations."
     },
     {
         "word": "wer",
+        "EnglishSentence": "Who is coming to the party?",
+        "pos": "pronoun",
         "definition": [
             "who"
-        ]
+        ],
+        "description": "The pronoun 'wer' means 'who' in English. It is used to ask, inquire, or question about the identity, person, or individual who is involved, present, or participating in an event, action, or situation.\n Wer is a common, essential, or practical pronoun that is used in conversations, meetings, or interactions to seek, obtain, or provide information, details, or explanations."
     },
     {
         "word": "Wetter",
+        "EnglishSentence": "The weather is nice today.",
+        "pos": "noun neuter",
         "definition": [
             "weather"
-        ]
+        ],
+        "description": "The noun 'Wetter' means 'weather' in English. It refers to the atmospheric, climatic, or meteorological conditions, patterns, or forecasts of a place, region, or environment.\n Wetter is a natural, dynamic, or changing element that affects, influences, or determines the temperature, precipitation, or conditions of seasons, days, or climates."
     },
     {
         "word": "wie geht's",
+        "EnglishSentence": "How are you?",
+        "pos": "phrase",
         "definition": [
-            "how are you?"
-        ]
+            "how are you?",
+            "how do you do?",
+            "how are you doing?",
+            "what's up?"
+        ],
+        "description": "The phrase 'wie geht's' means 'how are you?' in English. It is used as a casual, friendly, or informal greeting to ask, inquire, or check about the well-being, health, or mood of a person, friend, or acquaintance.\n Wie geht's is a common, polite, or social phrase that is used in conversations, meetings, or interactions to show interest, care, or connection with others."
     },
     {
         "word": "wie",
+        "EnglishSentence": "How do you like the movie?",
+        "pos": "adverb",
         "definition": [
-            "as",
-            "such",
-            "like",
-            "how do",
-            "what",
             "how",
-            "such as"
-        ]
+            "what"
+        ],
+        "description": "The adverb 'wie' means 'how' or 'what' in English. It is used to ask, inquire, or question about the manner, way, or quality of an action, event, or situation.\n Wie is a common, essential, or practical adverb that is used in conversations, meetings, or interactions to seek, obtain, or provide information, details, or explanations."
     },
     {
         "word": "Wien",
+        "EnglishSentence": "I am visiting Vienna.",
+        "pos": "noun neuter",
         "definition": [
             "Vienna"
-        ]
+        ],
+        "description": "The noun 'Wien' means 'Vienna' in English. It refers to the capital, city, or cultural center of Austria, a country located in Europe.\n Wien is known for its history, architecture, or arts that attract tourists, visitors, or travelers to explore, experience, or enjoy its landmarks, museums, or events."
     },
     {
         "word": "windig",
+        "EnglishSentence": "The weather is windy.",
+        "pos": "adjective",
         "definition": [
             "windy"
-        ]
+        ],
+        "description": "The adjective 'windig' means 'windy' in English. It is used to describe the atmospheric, climatic, or meteorological conditions, patterns, or forecasts of a place, region, or environment.\n Windige weather, climates, or days are associated with breezes, gusts, or storms that affect, influence, or determine the temperature, precipitation, or conditions of seasons, days, or climates."
     },
     {
         "word": "Winter",
+        "EnglishSentence": "I am skiing in the winter.",
+        "pos": "noun masculine",
         "definition": [
-            "winters",
-            "winter"
-        ]
+            "winter",
+            "wintera"
+        ],
+        "description": "The noun 'Winter' means 'winter' or 'winters' in English. It refers to the coldest, snowiest, or darkest season of the year that occurs between autumn and spring.\n Winter is known for its cold, snowy, or festive weather that brings holidays, activities, or traditions in regions, countries, or cultures."
     },
     {
         "word": "wir",
+        "EnglishSentence": "We are going to the park.",
+        "pos": "pronoun",
         "definition": [
             "we"
-        ]
+        ],
+        "description": "The pronoun 'wir' means 'we' in English. It is used to refer, indicate, or represent a group, team, or collective of people, individuals, or persons.\n Wir is a common, essential, or practical pronoun that is used in conversations, meetings, or interactions to express, identify, or include oneself and others in actions, events, or situations."
     },
     {
         "word": "wirklich",
+        "EnglishSentence": "The movie is really good.",
+        "pos": "adverb",
         "definition": [
             "really",
             "actually",
             "truly",
             "genuinely"
-        ]
+        ],
+        "description": "The adverb 'wirklich' means 'really', 'actually', 'truly', or 'genuinely' in English. It is used to emphasize, confirm, or express the truth, certainty, or authenticity of an action, event, or situation.\n Wirklich is a common, versatile, or expressive adverb that is used in conversations, writing, or communication to convey sincerity, honesty, or conviction in statements, opinions, or feelings."
     },
     {
         "word": "wo",
+        "EnglishSentence": "Where are you going?",
+        "pos": "adverb",
         "definition": [
             "where"
-        ]
+        ],
+        "description": "The adverb 'wo' means 'where' in English. It is used to ask, inquire, or question about the location, place, or destination of an object, person, or thing.\n Wo is a common, essential, or practical adverb that is used in conversations, meetings, or interactions to seek, obtain, or provide information, details, or explanations."
     },
     {
         "word": "woher",
+        "EnglishSentence": "Where are you from?",
+        "pos": "adverb",
         "definition": [
-            "where",
-            "from",
+            "from where",
+            "whence",
             "where from"
-        ]
+        ],
+        "description": "The adverb 'woher' means 'from where', 'whence', or 'where from' in English. It is used to ask, inquire, or question about the origin, source, or location of an object, person, or thing.\n Woher is a common, essential, or practical adverb that is used in conversations, meetings, or interactions to seek, obtain, or provide information, details, or explanations."
     },
     {
         "word": "Wohnung",
+        "EnglishSentence": "I am renting an apartment.",
+        "pos": "noun feminine",
         "definition": [
             "apartment",
             "flat"
-        ]
+        ],
+        "description": "The noun 'Wohnung' means 'apartment' or 'flat' in English. It refers to a living space, residence, or dwelling that is rented, owned, or occupied by individuals, families, or tenants.\n Wohnungen are essential, private, or comfortable spaces that provide shelter, privacy, or amenities for living, working, or relaxing in cities, neighborhoods, or communities."
+    },
+    {
+        "word": "Wohnungen",
+        "EnglishSentence": "I am renting apartments.",
+        "pos": "noun feminine plural",
+        "definition": [
+            "apartments",
+            "flats"
+        ],
+        "description": "The noun 'Wohnungen' means 'apartments' or 'flats' in English. It refers to living spaces, residences, or dwellings that are rented, owned, or occupied by individuals, families, or tenants.\n Wohnungen are essential, private, or comfortable spaces that provide shelter, privacy, or amenities for living, working, or relaxing in cities, neighborhoods, or communities."
     },
     {
         "word": "wunderbar",
+        "EnglishSentence": "The view is wonderful.",
+        "pos": "adjective",
         "definition": [
             "wonderful",
             "splendid",
-            "excellent",
-            "great",
-            "lovely",
-            "terrific"
-        ]
+            "lovely"
+        ],
+        "description": "The adjective 'wunderbar' means 'wonderful', 'splendid', or 'lovely' in English. It is used to describe something that is amazing, fantastic, or extraordinary in quality, appearance, or experience.\n Wunderbare views, experiences, or moments are associated with beauty, wonder, or excitement in nature, travel, or life."
     },
     {
         "word": "Wurst",
+        "EnglishSentence": "I am eating a sausage.",
+        "pos": "noun feminine",
         "definition": [
             "sausage"
-        ]
+        ],
+        "description": "The noun 'Wurst' means 'sausage' in English. It refers to a meat, pork, or beef product that is seasoned, cooked, or served in a casing, bun, or dish.\n Würste are popular, flavorful, or versatile foods that are enjoyed, grilled, or served in meals, snacks, or dishes for taste, texture, or traditions."
     },
     {
         "word": "zahlen",
+        "EnglishSentence": "I am paying for the bill.",
+        "pos": "verb primary",
         "definition": [
             "pay",
             "to pay",
             "are paying",
-            "paying"
-        ]
+            "numbers"
+        ],
+        "description": "The verb 'zahlen' means 'pay', 'to pay', 'are paying', or 'paying' in English. It is used to describe the action, activity, or process of giving money, currency, or payment for goods, services, or transactions.\n Zahlen is a common, essential, or practical verb that is used in transactions, shopping, or business to settle, cover, or complete financial obligations, bills, or expenses."
     },
     {
         "word": "zehn",
+        "EnglishSentence": "I have ten fingers.",
+        "pos": "numeral",
         "definition": [
-            "ten"
-        ]
+            "ten",
+            "10"
+        ],
+        "description": "The numeral 'zehn' means 'ten' or '10' in English. It is used to represent, count, or quantify the number, quantity, or amount of objects, people, or things.\n Zehn is a cardinal, ordinal, or whole number that is used in mathematics, counting, or measurements to indicate positions, sequences, or quantities."
     },
     {
         "word": "Zeit",
+        "EnglishSentence": "I am running out of time.",
+        "pos": "noun feminine",
         "definition": [
-            "time"
-        ]
+            "time",
+            "period",
+            "moment",
+            "hour"
+        ],
+        "description": "The noun 'Zeit' means 'time' in English. It refers to the continuous, measurable, or chronological flow, duration, or period of events, actions, or moments.\n Zeit is a natural, essential, or universal element that is used, managed, or experienced in schedules, routines, or activities for planning, organizing, or living in daily, work, or life."
     },
     {
         "word": "zu",
+        "EnglishSentence": "I am going to the park.",
+        "pos": "preposition",
         "definition": [
-            "with",
-            "for",
-            "too",
-            "towards",
-            "into",
-            "at",
-            "on",
-            "close",
-            "about",
             "to",
-            "closed",
-            "by",
-            "closes",
-            "push"
-        ]
+            "at",
+            "in",
+            "for"
+        ],
+        "description": "The preposition 'zu' means 'to', 'at', 'in', or 'for' in English. It is used to describe the direction, location, or movement of an object, person, or event in relation to a place, time, or situation.\n Zu is a versatile, flexible, or common preposition that is used in contexts, conversations, or sentences to indicate positions, directions, or relationships."
     },
     {
         "word": "Zug",
+        "EnglishSentence": "I am taking the train.",
+        "pos": "noun masculine",
         "definition": [
             "train"
-        ]
+        ],
+        "description": "The noun 'Zug' means 'train' in English. It refers to a vehicle, transport, or locomotive that is used, operated, or traveled on tracks, rails, or routes for passengers, cargo, or goods.\n Züge are essential, convenient, or efficient modes of transportation that provide mobility, connectivity, or services in cities, regions, or countries."
+    },
+    {
+        "word": "Züge",
+        "EnglishSentence": "I am taking the trains.",
+        "pos": "noun masculine plural",
+        "definition": [
+            "trains"
+        ],
+        "description": "The noun 'Züge' means 'trains' in English. It refers to vehicles, transports, or locomotives that are used, operated, or traveled on tracks, rails, or routes for passengers, cargo, or goods.\n Züge are essential, convenient, or efficient modes of transportation that provide mobility, connectivity, or services in cities, regions, or countries."
     },
     {
         "word": "Zugtür",
+        "EnglishSentence": "I am waiting at the train door.",
+        "pos": "noun feminine",
         "definition": [
             "train door"
-        ]
+        ],
+        "description": "The noun 'Zugtür' means 'train door' in English. It refers to an entrance, exit, or opening that is used, accessed, or closed in trains, subways, or metros for boarding, exiting, or traveling.\n Zugtüren are essential, functional, or secure parts of trains, transports, or vehicles that provide access, safety, or convenience for passengers, commuters, or travelers."
+    },
+    {
+        "word": "Zugtüren",
+        "EnglishSentence": "I am waiting at the train doors.",
+        "pos": "noun feminine plural",
+        "definition": [
+            "train doors"
+        ],
+        "description": "The noun 'Zugtüren' means 'train doors' in English. It refers to entrances, exits, or openings that are used, accessed, or closed in trains, subways, or metros for boarding, exiting, or traveling.\n Zugtüren are essential, functional, or secure parts of trains, transports, or vehicles that provide access, safety, or convenience for passengers, commuters, or travelers."
     },
     {
         "word": "zwanzig",
+        "EnglishSentence": "I have twenty fingers.",
+        "pos": "numeral",
         "definition": [
             "twenty",
             "20"
-        ]
+        ],
+        "description": "The numeral 'zwanzig' means 'twenty' or '20' in English. It is used to represent, count, or quantify the number, quantity, or amount of objects, people, or things.\n Zwanzig is a cardinal, ordinal, or whole number that is used in mathematics, counting, or measurements to indicate positions, sequences, or quantities."
     },
     {
         "word": "zwei",
+        "EnglishSentence": "I have two siblings.",
+        "pos": "numeral",
         "definition": [
             "two"
-        ]
+        ],
+        "description": "The numeral 'zwei' means 'two' in English. It is used to represent, count, or quantify the number, quantity, or amount of objects, people, or things.\n Zwei is a cardinal, ordinal, or whole number that is used in mathematics, counting, or measurements to indicate positions, sequences, or quantities."
     },
     {
         "word": "Ärztin",
+        "EnglishSentence": "I am visiting a doctor.",
+        "pos": "noun feminine",
         "definition": [
             "doctor",
             "a doctor"
-        ]
+        ],
+        "description": "The noun 'Ärztin' means 'doctor' or 'a doctor' in English. It refers to a medical professional, physician, or practitioner who is trained, licensed, or specialized in diagnosing, treating, or caring for patients.\n Ärztinnen are known for their expertise, care, or knowledge in healthcare, medicine, or wellness that provide services, treatments, or consultations for individuals, families, or communities."
     },
     {
         "word": "Österreich",
+        "EnglishSentence": "I am visiting Austria.",
+        "pos": "noun neuter",
         "definition": [
             "Austria"
-        ]
+        ],
+        "description": "The noun 'Österreich' means 'Austria' in English. It refers to a country, nation, or state located in Europe that is known for its history, culture, or landscapes.\n Österreich is a diverse, scenic, or historical destination that attracts tourists, visitors, or travelers to explore, experience, or enjoy its cities, regions, or traditions."
     }
 ]
