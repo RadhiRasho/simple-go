@@ -6,6 +6,7 @@ use (
 	./fileio
 	./games/game-of-life
 	./games/german
+	./games/passgen
 	./games/snake
 	./gin-server
 	./goroutines
