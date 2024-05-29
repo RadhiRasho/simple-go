@@ -20,7 +20,7 @@ func main() {
 	message, err := greetings.Hello("H")
 	utils.FatalError(err)
 
-	log.SetPrefix("Hellos: ")
+	log.SetPrefix("Hello: ")
 	log.SetFlags(0)
 
 	names := []string{
