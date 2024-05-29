@@ -1,0 +1,3 @@
+[submodule "games/german-quiz-cli"]
+	path = games/german-quiz-cli
+	url = git@github.com:RadhiRasho/german-quiz-cli.git

@@ -5,7 +5,7 @@ use (
 	./basics
 	./fileio
 	./games/game-of-life
-	./games/german
+	./games/german-quiz-cli
 	./games/passgen
 	./games/snake
 	./gin-server
