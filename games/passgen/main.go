@@ -27,8 +27,8 @@ func main() {
 	for i := 0; i < length; i++ {
 		password += string(letters[rand.Intn(len(letters))])
 
-		// Append a number with 50% probability
-		if rand.Float32() < 0.5 {
+		// Append a number with 20% probability
+		if rand.Float32() < 0.2 {
 			password += string(numbers[rand.Intn(len(numbers))])
 		}
 
