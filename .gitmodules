@@ -5,3 +5,4 @@
 [submodule "games/todo-cli"]
 	path = games/todo-cli
 	url = git@github.com:RadhiRasho/todo-cli
+	branch = master
