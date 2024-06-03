@@ -2,3 +2,6 @@
 	path = games/german-quiz-cli
 	url = git@github.com:RadhiRasho/german-quiz-cli.git
 	branch = master
+[submodule "games/todo-cli"]
+	path = games/todo-cli
+	url = git@github.com:RadhiRasho/todo-cli
