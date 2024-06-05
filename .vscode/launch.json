@@ -11,10 +11,6 @@
             "console": "integratedTerminal",
             "mode": "auto",
             "program": "${fileDirname}",
-            "args": [
-                "--numProbability=0.5",
-                "--specProbability=0.5",
-            ]
         }
     ]
 }

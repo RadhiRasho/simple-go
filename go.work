@@ -8,6 +8,7 @@ use (
 	./games/german-quiz-cli
 	./games/passgen
 	./games/snake
+	./games/streaming-ascii
 	./gin-server
 	./goroutines
 	./greetings
