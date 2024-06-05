@@ -9,6 +9,7 @@ use (
 	./games/passgen
 	./games/snake
 	./games/streaming-ascii
+	./games/todo-cli
 	./gin-server
 	./goroutines
 	./greetings
