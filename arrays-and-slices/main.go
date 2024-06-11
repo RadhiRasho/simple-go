@@ -1,6 +1,8 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func Arrays() {
 	// Initialize a 2D Array
@@ -34,8 +36,6 @@ func Slices() {
 
 func main() {
 	Arrays()
-
 	println("\n")
-
 	Slices()
 }
