@@ -32,13 +32,13 @@ func main() {
 			if event.Key() == tcell.KeyEscape || event.Key() == tcell.KeyCtrlC {
 				game.Screen.Fini()
 				os.Exit(0)
-			} else if event.Key() == tcell.KeyUp {
+			} else if event.Key() == tcell.KeyUp && game.snakeBody.Yspeed != 1 && game.snakeBody.Xspeed != 0 {
 				game.snakeBody.ChangeDir(-1, 0)
-			} else if event.Key() == tcell.KeyDown {
+			} else if event.Key() == tcell.KeyDown && game.snakeBody.Yspeed != -1 && game.snakeBody.Xspeed != 0 {
 				game.snakeBody.ChangeDir(1, 0)
-			} else if event.Key() == tcell.KeyLeft {
+			} else if event.Key() == tcell.KeyLeft && game.snakeBody.Yspeed != 0 && game.snakeBody.Xspeed != 1 {
 				game.snakeBody.ChangeDir(0, -1)
-			} else if event.Key() == tcell.KeyRight {
+			} else if event.Key() == tcell.KeyRight && game.snakeBody.Yspeed != 0 && game.snakeBody.Xspeed != -1 {
 				game.snakeBody.ChangeDir(0, 1)
 			} else if event.Rune() == 'y' && game.GameOver {
 				go game.Run()
