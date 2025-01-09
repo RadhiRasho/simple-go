@@ -1,4 +1,4 @@
-### Simple Repo to experiment with Golang because of this Goofy Gophers
+### Simple Repo to experiment with Golang because of these Goofy Gophers
 
 ![Golang Gophers](https://golang.org/doc/gopher/fiveyears.jpg)
 *Gopher image by [Renee French][rf], licensed under [Creative Commons 4.0 Attributions license][cc4-by].*
